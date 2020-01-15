@@ -22,11 +22,21 @@ Stemma equipped boards may be compatible with Seed Studio Grove connectors, Spar
 ## Guides
 
 
+- [Qwiic Tutorials](https://learn.sparkfun.com/tutorials/tags/qwiic) from SparkFun
+
 ## Compatibility
 
 
 ## Stemma Hardware
 
+### Adafruit Microcontroller Boards with Stemma
+
+### Adafruit Sensors and Peripherals with Stemma
+
+### Qwiic Boards from SparkFun
+
+- [Qwiic Main Page](https://www.sparkfun.com/qwiic) on Sparkfun.com
+- [One page list of Qwiic products from SparkFun](https://cdn.sparkfun.com/assets/home_page_posts/3/1/7/7/SparkFun_s_Qwiic_Ecosystem.pdf)
 
 ## Accessories
 
@@ -35,6 +45,8 @@ Stemma equipped boards may be compatible with Seed Studio Grove connectors, Spar
 
 
 ## Art
+
+- [Qwiic Logos](https://cdn.sparkfun.com/assets/custom_pages/3/3/4/Qwiic-Registered-Logo.zip) from Sparkfun
 
 
 ## Social Media
