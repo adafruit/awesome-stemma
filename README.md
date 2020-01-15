@@ -19,6 +19,27 @@ Stemma equipped boards may be compatible with Seed Studio Grove connectors, Spar
 - [Social media](#social)
 - [Contributing](#contributing)
 
+## Guides
+
+
+## Compatibility
+
+
+## Stemma Hardware
+
+
+## Accessories
+
+
+## News
+
+
+## Art
+
+
+## Social Media
+
+
 ## Contributing
 
 Contributions and suggestions are always welcome! Please make pull requests to modify Awesome Stemma.
