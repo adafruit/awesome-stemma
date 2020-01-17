@@ -31,7 +31,16 @@ Stemma equipped boards may be compatible with Seed Studio Grove connectors, Spar
 
 ### Adafruit Microcontroller Boards with Stemma
 
+| Board | Features |
+|---|---|
+| [MCP4728 Quad DAC with EEPROM](https://www.adafruit.com/product/4470) | Four 12-bit DACs with EEPROM for saving settings  |
+
+
 ### Adafruit Sensors and Peripherals with Stemma
+
+| Board | Features |
+|---|---|
+| [Xenon](https://www.adafruit.com/product/3999) | nRF52840 with BLE and Mesh  |
 
 ### Qwiic Boards from SparkFun
 
