@@ -46,7 +46,7 @@ Stemma equipped boards may be compatible with Seed Studio Grove connectors, Spar
 | [NeoTrellis RGB Driver](https://www.adafruit.com/product/3954) | 1 Stemma | Provides a 4x4 matrix of RGB NeoPixel lit elastomer keys |
 ! [Stemma Speaker](https://www.adafruit.com/product/3885) | 1 Stemma | A class D audio amplifier and an oval speaker |
 | [LSM6DSOX](https://www.adafruit.com/product/4438) | 2 Stemma QT | An I2C/SPI 6 DoF accelerometer and gyroscope |
-| [MLX90640 IR Thermal Camera](https://www.adafruit.com/product/4469) | A 24x32 array of IR thermal sensors, 110°x70° field of view |
+| [MLX90640 IR Thermal Camera](https://www.adafruit.com/product/4469) | 2 Stemma QT | A 24x32 array of IR thermal sensors, 110°x70° field of view |
 | [Mini Relay, Nonlatching](https://www.adafruit.com/product/4409) | 1 Stemma | A single pole/double throw relay up to 250V AC or DC |
 
 ### Qwiic Boards from SparkFun
