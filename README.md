@@ -33,14 +33,16 @@ Stemma equipped boards may be compatible with Seed Studio Grove connectors, Spar
 
 | Board | Stemma Connectors | Features |
 |---|---|---|
-| [MCP4728 Quad DAC with EEPROM](https://www.adafruit.com/product/4470) | 2 Stemma QT | Four 12-bit DACs with an integratedEEPROM for saving settings |
-
+| [MCP4728 Quad DAC with EEPROM](https://www.adafruit.com/product/4470) | 2 Stemma QT | Four 12-bit DACs with an integrated EEPROM for saving settings |
 
 ### Adafruit Sensors and Peripherals with Stemma
 
 | Board | Stemma Connectors | Features |
 |---|---|---|
-| [MCP4728 Quad DAC with EEPROM](https://www.adafruit.com/product/4470) | 2 QT | Four 12-bit DACs with an integratedEEPROM for saving settings |
+| [MCP4728 Quad DAC with EEPROM](https://www.adafruit.com/product/4470) | 2 Stemma QT | Four 12-bit DACs with an integrated EEPROM for saving settings |
+| [Soil Sensor](https://www.adafruit.com/product/4026) | 1 Stemma | I2C capacitive moisture sensor |
+| [LSM6DS33 + LIS3MDL](https://www.adafruit.com/product/4485) | 2 Stemma QT | 9 DoF IMU with accelerometer, gyroscope, and magnetometer |
+
 
 ### Qwiic Boards from SparkFun
 
