@@ -34,6 +34,9 @@ Stemma equipped boards may be compatible with Seed Studio Grove connectors, Spar
 | Microcontroller Board | Stemma Connectors | Features |
 |---|---|---|
 | [Feather STM32F405 Express](https://www.adafruit.com/product/4382) | 1 Stemma QT | STM32F405 Cortex M4, 168MHz, 192KB RAM, 1MB Flash |
+| [PyBadge](https://www.adafruit.com/product/4200) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51J19, 120MHz, 512KB of FLASH, 192KB RAM, 2MB Flash |
+| [Edge Badge](https://www.adafruit.com/product/4400) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51J19, 120MHz, 512KB of FLASH, 192KB RAM, 2MB Flash |
+| [PyGamer](https://www.adafruit.com/product/4242) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51J19, 120MHz, 512KB of FLASH, 192KB RAM, 8MB Flash |
 
 ### Adafruit Sensors and Peripherals with Stemma
 
