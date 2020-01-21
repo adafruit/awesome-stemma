@@ -48,6 +48,12 @@ Stemma equipped boards may be compatible with Seed Studio Grove connectors, Spar
 | [MPU-6050](https://www.adafruit.com/product/3886) | 1 Stemma QT | An I2C 6 DoF accelerometer and gyroscope |
 | [LSM6DSOX](https://www.adafruit.com/product/4438) | 2 Stemma QT | An I2C/SPI 6 DoF accelerometer and gyroscope |
 | [MLX90640 IR Thermal Camera](https://www.adafruit.com/product/4469) | 2 Stemma QT | A 24x32 array of IR thermal sensors, 110°x70° field of view |
+| [PA1010D Mini GPS](https://www.adafruit.com/product/4415) | 2 Stemma QT | GPS, GLONASS, GALILEO, QZSS receiver, 1"x1" |
+| [LSM303AGR](https://www.adafruit.com/product/4413) | 2 Stemma QT | Triple-axis accelerometer/magnetometer compass module |
+| [LIS3MDL](https://www.adafruit.com/product/4479) | 2 Stemma QT | Triple-axis magnetometer (compass) module |
+| [Tactile Push Buttons](https://www.adafruit.com/product/4431) | 1 Stemma each | Pack of 5 breakaway tactile buttons |
+| [VCNL4040](https://www.adafruit.com/product/4161) | 2 Stemma QT | Proximity and Lux sensor |
+| [DS3502](https://www.adafruit.com/product/4286) | 2 Stemma QT | I2C Digital Potentiometer |
 
 
 ### Qwiic Boards from SparkFun
