@@ -98,6 +98,11 @@ Stemma equipped boards may be compatible with Seed Studio Grove connectors, Spar
 
 ## Accessories
 
+### Cables and Connectors
+
+| Vendor | Connector type(s) | Features |
+|---|---|---|
+| Adafruit | Stemma QT - Pin Header | 4-pin JST SH Cable with 4 Female Sockets - 150mm Long |
 
 ## News
 
