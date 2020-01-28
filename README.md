@@ -102,9 +102,9 @@ Stemma equipped boards may be compatible with Seed Studio Grove connectors, Spar
 
 | Vendor | Connector type(s) | Length | Connector 1 | Connector 2 |
 |---|---|---|---|---|
-| Adafruit | [Stemma QT - Pin Header](https://www.adafruit.com/product/4397) | 150mm | 4-pin JST SH  | 4 Female Sockets |
-| Adafruit | [Stemma QT - Stemma QT](https://www.adafruit.com/product/4210) | 100mm | 4-pin JST SH Female | 4-pin JST SH Female |
-| Adafruit | [Stemma - Stemma QT](https://www.adafruit.com/product/4424) | 200mm  | 4-pin JST PH Female | 4-pin JST SH Female |
+| Adafruit | [Stemma QT - Pin Header](https://www.adafruit.com/product/4397) | 150mm | 4-pin JST SH female | 4 Female pin header sockets |
+| Adafruit | [Stemma QT - Stemma QT](https://www.adafruit.com/product/4210) | 100mm | 4-pin JST SH female | 4-pin JST SH female |
+| Adafruit | [Stemma - Stemma QT](https://www.adafruit.com/product/4424) | 200mm  | 4-pin JST PH female | 4-pin JST SH female |
 
 ## News
 
