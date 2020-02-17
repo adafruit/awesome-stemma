@@ -112,7 +112,7 @@ See the chart on the Adafruit Stemma/StemmaQT Guide for the latest compatibility
 
 ## News
 
-- [Freedom Wing Adapter](https://blog.adafruit.com/2020/01/31/freedom-wing-adapter-adapter-allows-power-wheelchairs-to-control-an-xbox-ablegamers-at_makers-soeveryonecangame-feather/), Adafruit blog, January 31, 2020
+- Please send in your news items via a push request
 
 ## Art
 
