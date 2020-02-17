@@ -112,6 +112,7 @@ See the chart on the Adafruit Stemma/StemmaQT Guide for the latest compatibility
 
 ## News
 
+- [Freedom Wing Adapter](https://blog.adafruit.com/2020/01/31/freedom-wing-adapter-adapter-allows-power-wheelchairs-to-control-an-xbox-ablegamers-at_makers-soeveryonecangame-feather/), Adafruit blog, January 31, 2020
 
 ## Art
 
@@ -120,7 +121,10 @@ See the chart on the Adafruit Stemma/StemmaQT Guide for the latest compatibility
 
 ## Social Media
 
-
+- Twitter searches: [Stemma](https://twitter.com/search?q=stemma&src=typed_query&f=live), [StemmaQT](https://twitter.com/search?q=stemmaqt&src=typed_query&f=live), and [Qwiic](https://twitter.com/search?q=qwiic&src=typed_query&f=live).
+- Instagram searches: [Stemma](https://www.instagram.com/explore/tags/stemma/), [StemmaQT](https://www.instagram.com/explore/tags/stemmaqt/), and [Qwiic](https://www.instagram.com/explore/tags/qwiic/).
+- YouTube searches: 
+[Stemma](https://www.youtube.com/results?search_query=%23stemma&sp=CAI%253D), [StemmaQT](https://www.youtube.com/results?search_query=%23stemmaqt), and [Qwiic](https://www.youtube.com/results?search_query=%23qwiic).
 ## Contributing
 
 Contributions and suggestions are always welcome! Please make pull requests to modify Awesome Stemma.
