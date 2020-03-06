@@ -97,12 +97,13 @@ See the chart on the Adafruit Stemma/StemmaQT Guide for the latest compatibility
 | [TFT Gizmo](https://www.adafruit.com/product/4367) | 2x 3 pin Stemma | 240x240 pixel, 1.54", round for Circuit Playground |
 | [E-Ink Gizmo](https://www.adafruit.com/product/4428) | 2x 3 pin Stemma | 152x152 pixel, 1.54", tricolor, round for Circuit Playground |
 
-### Processor to Stemma/Grove Breakout Boards
+### Processor to Stemma/Grove/Qwiic Breakout Boards
 
 | Breakout | Connectors | Features |
 |---|---|---|
 | [Particle Grove FeatherWing](https://www.adafruit.com/product/4309) | 8 Grove | 3 Grove analog, 2 digital, 2 I2C, 1 UART |
 | [Grove Shield FeatherWing](https://www.adafruit.com/product/4357) | 10 Grove | 4 Grove analog, 4 digital, 1 I2C, 1 UART |
+| [SparkFun Qwiik / Stemma QT FeatherWing](https://www.adafruit.com/product/4515) | 4 Qwiic / Stemma QT | Feather processor form factor (FeatherWing) |
 
 ### Qwiic Boards from SparkFun
 
