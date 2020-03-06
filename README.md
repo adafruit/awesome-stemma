@@ -63,7 +63,7 @@ See the chart on the Adafruit Stemma/StemmaQT Guide for the latest compatibility
 | [VCNL4040](https://www.adafruit.com/product/4161) | 2 Stemma QT | Proximity and Lux sensor |
 | [DS3502](https://www.adafruit.com/product/4286) | 2 Stemma QT | I2C Digital Potentiometer |
 | [LPS33HW](https://www.adafruit.com/product/4414) | 2 Stemma QT | Water resistant pressure sensor |
-
+| [ICM-20649](https://www.adafruit.com/product/4464) | 2 Stemma QT | Wide Range ±30g ±4000dps 6-DoF IMU |
 
 ### Adafruit Devices
 
