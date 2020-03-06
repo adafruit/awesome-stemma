@@ -121,6 +121,12 @@ See the chart on the Adafruit Stemma/StemmaQT Guide for the latest compatibility
 | Adafruit | [Stemma - Stemma QT](https://www.adafruit.com/product/4424) | 200mm  | 4-pin JST PH female | 4-pin JST SH female |
 | Adafruit | [Stemma 3 wire - leads](https://www.adafruit.com/product/4046) | 200mm | 3-pin JST PH male | 3 tinned wires |
 
+### Breakouts
+
+| Vendor | CItem | Features |
+|---|---|---|
+| SparkFun | [Stemma QT / Qwiic Adapter](https://www.adafruit.com/product/4527) | 2 Qwiic / Stemma QT connectors, pinouts for SCL/SDA/3V/GND |
+
 ## News
 
 - Please send in your news items via a push request
