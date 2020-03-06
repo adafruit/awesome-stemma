@@ -103,7 +103,7 @@ See the chart on the Adafruit Stemma/StemmaQT Guide for the latest compatibility
 | [Particle Grove FeatherWing](https://www.adafruit.com/product/4309) | 8 Grove | 3 Grove analog, 2 digital, 2 I2C, 1 UART |
 | [Grove Shield FeatherWing](https://www.adafruit.com/product/4357) | 10 Grove | 4 Grove analog, 4 digital, 1 I2C, 1 UART |
 | [SparkFun Qwiik / Stemma QT FeatherWing](https://www.adafruit.com/product/4515) | 4 Qwiic / Stemma QT | Feather processor form factor (FeatherWing) |
-| [Binho Qwiic / Stemma QT Interface Board](https://www.adafruit.com/product/4462) | Binho ribbon cable to 4 Qwiic/Stemma QT connections |
+| [Binho Qwiic / Stemma QT Interface Board](https://www.adafruit.com/product/4462) | 4 Qwiic / Stemma QT | Binho ribbon cable to Qwiic/Stemma QT connections |
 
 ### Qwiic Boards from SparkFun
 
