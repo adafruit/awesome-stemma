@@ -139,6 +139,7 @@ Note: lengths are approximate
 | Vendor | CItem | Features |
 |---|---|---|
 | SparkFun | [Stemma QT / Qwiic Adapter](https://www.adafruit.com/product/4527) | 2 Qwiic / Stemma QT connectors, pinouts for SCL/SDA/3V/GND |
+| SparkFun | [Stemma QT/Qwiic Shim for Raspberry Pi](https://www.adafruit.com/product/4463) |Press fit Raspberry Pi GPIO to Stemma QT/Qwiic connector |
 
 ## News
 
