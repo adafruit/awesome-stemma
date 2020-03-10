@@ -19,6 +19,14 @@ Stemma equipped boards may be compatible with Seed Studio Grove connectors, Spar
 - [Social media](#social)
 - [Contributing](#contributing)
 
+## Stemma Compatible and Stemma-like Systems
+
+- [Stemma / Stemma QT](https://www.adafruit.com/category/1005) (Adafruit.com)
+- [Grove](https://www.seeedstudio.com/category/Grove-c-1003.html) (Seeedstudio.com)
+- [Qwiic](https://www.sparkfun.com/qwiic) (SparkFun.com)
+- [Gravity](https://www.dfrobot.com/index.php?route=page/gravity) (DFRobot.com)
+- [easyC](https://e-radionica.com/en/easyc-system.html) (e-radionica.com)
+
 ## Guides
 
 - [Adafruit STEMMA and STEMMA QT](https://learn.adafruit.com/introducing-adafruit-stemma-qt) - Adafruit Learning System primary guide on all things Stemma
@@ -26,7 +34,7 @@ Stemma equipped boards may be compatible with Seed Studio Grove connectors, Spar
 
 ## Compatibility
 
-Stemma and Stemma QT have compatibility with similar connections used by manufacturers other than Adafruit. STEMMA attempts to be as cross-compatible as possible with both Grove and Gravity (compatible connectors & 3-5V power/logic). STEMMA QT is cross-compatible with Qwiic - STEMMA QT connector/cable is same as Qwiic. You can use STEMMA QT devices with Qwiic devices/controllers.
+Stemma and Stemma QT have compatibility with similar connections used by manufacturers other than Adafruit. STEMMA attempts to be as cross-compatible as possible with both Grove, easyC and Gravity (compatible connectors & 3-5V power/logic). STEMMA QT is cross-compatible with Qwiic - STEMMA QT connector/cable is same as Qwiic. You can use STEMMA QT devices with Qwiic devices/controllers.
 
 See the chart on the Adafruit Stemma/StemmaQT Guide for the latest compatibility charts between Stemma, Stemma QT, Grove, Qwiic, and Gravity connections.
 
@@ -158,7 +166,7 @@ Note: lengths are approximate
 
 ## News
 
-- Please send in your news items via a push request
+- 2020-03-10 - [Welcome EasyC to the STEMMA/STEMMA QT/QWIIC/GROVE/GRAVITY connector ecosystem!](https://blog.adafruit.com/2020/03/01/welcome-easyc-to-the-stemma-stemma-qt-qwiic-grove-gravity-connector-ecosystem-sparkfun-seeedstudio-dfrobotcn-arduino-qwiic-grove-gravity-stemma-stemmaqt-easyc/), Adafruit Blog
 
 ## Art
 
