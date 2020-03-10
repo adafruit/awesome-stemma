@@ -10,6 +10,7 @@ Stemma equipped boards may be compatible with Seed Studio Grove connectors, Spar
 
 ## Contents
 
+- [Stemma Compatible and Stemma-like Systems](#Stemma-Compatible-and-Stemma-like-Systems)
 - [Guides](#guides)
 - [Compatibility](#compatability)
 - [Stemma Hardware](#stemma-hardware)
