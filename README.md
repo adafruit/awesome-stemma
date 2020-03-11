@@ -158,11 +158,11 @@ Note: lengths are approximate
 | Vendor | Item | Quantity |
 |---|---|---|
 | Adafruit | [JST SH 4-pin right angle connector](https://www.adafruit.com/product/4208) | 10 pack |
-| Adafruit | [JST SH 4-pin verticcal connector](https://www.adafruit.com/product/4328) | 10 pack |
+| Adafruit | [JST SH 4-pin vertical connector](https://www.adafruit.com/product/4328) | 10 pack |
 | Adafruit | [JST PH 4-pin horizontal connector](https://www.adafruit.com/product/4392) | 10 pack |
 | Adafruit | [JST PH 3-pin vertical connector](https://www.adafruit.com/product/4389) | 10 pack |
 | Adafruit | [JST PH 4-pin vertical connector](https://www.adafruit.com/product/4390) | 10 pack |
-| Adafruit | [JST PH 3-pin horizaontal connector](https://www.adafruit.com/product/4391) | 10 pack |
+| Adafruit | [JST PH 3-pin horizontal connector](https://www.adafruit.com/product/4391) | 10 pack |
 | Adafruit | [JST PH 0.2mm connector kit](https://www.adafruit.com/product/4422) | 220 pieces |
 
 ## News
