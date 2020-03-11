@@ -171,8 +171,8 @@ Note: lengths are approximate
 
 ## Art
 
+- [Logos](https://www.dropbox.com/sh/7r8udc4s4pvwsno/AABL-BkGBWIufJwX5uKvxTNla?dl=0) from Adafruit
 - [Qwiic Logos](https://cdn.sparkfun.com/assets/custom_pages/3/3/4/Qwiic-Registered-Logo.zip) from Sparkfun
-
 
 ## Social Media
 
