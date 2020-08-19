@@ -49,6 +49,9 @@ See the chart on the Adafruit Stemma/StemmaQT Guide for the latest compatibility
 | [PyBadge](https://www.adafruit.com/product/4200) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51J19, 120MHz, 512KB of Flash, 192KB RAM, 2MB Ext. Flash |
 | [EdgeBadge](https://www.adafruit.com/product/4400) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51J19, 120MHz, 512KB of Flash, 192KB RAM, 2MB Ext. Flash |
 | [PyGamer](https://www.adafruit.com/product/4242) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51J19, 120MHz, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
+| [PyPortal](https://www.adafruit.com/product/4116) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51J20/ESP32, 120MHz, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
+| [PyPortal Titano](https://www.adafruit.com/product/4444) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51J20/ESP32, 120MHz, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
+| [PyPortal Pynt](https://www.adafruit.com/product/4465) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51J20/ESP32, 120MHz, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
 | [MONSTER M4SK](https://www.adafruit.com/product/4343) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51G19, 120MHz, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
 | [HalloWing M4 Express](https://www.adafruit.com/product/4300) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51J19, 120MHz, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
 | [NeoTrellis M4](https://www.adafruit.com/product/3938) | 1x 4 pin Stemma | ATSAMD51G19, 120MHz, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
@@ -187,7 +190,8 @@ Note: lengths are approximate
 | Vendor | Item | Features |
 |---|---|---|
 | SparkFun | [Stemma QT / Qwiic Adapter](https://www.adafruit.com/product/4527) | 2 Qwiic / Stemma QT connectors, pinouts for SCL/SDA/3V/GND |
-| SparkFun | [Stemma QT/Qwiic Shim for Raspberry Pi](https://www.adafruit.com/product/4463) |Press fit Raspberry Pi GPIO to Stemma QT/Qwiic connector |
+| SparkFun | [Stemma QT/Qwiic Shim for Raspberry Pi](https://www.adafruit.com/product/4463) | Press fit Raspberry Pi GPIO to Stemma QT/Qwiic connector |
+| SeeedStudio | [Grove Shield FeatherWing for Particle Mesh and all Feathers](https://www.adafruit.com/product/4309) | 3x Grove Analog, 2x Grove Digital, 2x Grove I2C/Stemma, 1x Grove UART |
 
 ### Contectors
 
