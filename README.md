@@ -57,6 +57,7 @@ See the chart on the Adafruit Stemma/StemmaQT Guide for the latest compatibility
 
 | Board | Stemma Connectors | Features |
 |---|---|---|
+| [AHT20](https://www.adafruit.com/product/4566) | 2 Stemma QT | Temperature & Humidity Sensor |
 | [APDS9960](https://www.adafruit.com/product/3595) | 2 Stemma QT | Proximity, Light, RGB, and Gesture Sensor |
 | [AS7341](https://www.adafruit.com/product/4698) | 2 Stemma QT | 10-Channel Light / Color Sensor |
 | [BH1750](https://www.adafruit.com/product/4681) | 2 Stemma QT | Light Sensor |
