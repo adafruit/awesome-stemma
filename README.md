@@ -115,7 +115,7 @@ See the chart on the Adafruit Stemma/StemmaQT Guide for the latest compatibility
 | [Grove Shield FeatherWing](https://www.adafruit.com/product/4357) | 10 Grove | 4 Grove analog, 4 digital, 1 I2C, 1 UART |
 | [SparkFun Qwiik / Stemma QT FeatherWing](https://www.adafruit.com/product/4515) | 4 Qwiic / Stemma QT | Feather processor form factor (FeatherWing) |
 | [Binho Qwiic / Stemma QT Interface Board](https://www.adafruit.com/product/4462) | 4 Qwiic / Stemma QT | Binho ribbon cable to Qwiic/Stemma QT connections |
-| [SparkFun STEMMA QT / Qwiic Mux Breakout - 8 Channel](https://www.adafruit.com/product/4704) | 8 Qwiic / Stemma QT | COnnect 8 devices to one address |
+| [SparkFun STEMMA QT / Qwiic Mux Breakout - 8 Channel](https://www.adafruit.com/product/4704) | 8 Qwiic / Stemma QT | Connect 8 devices to one address |
 
 ### Qwiic Boards from SparkFun
 
