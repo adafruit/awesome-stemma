@@ -84,6 +84,7 @@ See the chart on the Adafruit Stemma/StemmaQT Guide for the latest compatibility
 | [AS7341](https://www.adafruit.com/product/4698) | 2 Stemma QT | 10-Channel Light / Color Sensor |
 | [BME680](https://www.adafruit.com/product/3660) | 2 Stemma QT | Temperature, Humidity, Pressure and Gas Sensor |
 | [BH1750](https://www.adafruit.com/product/4681) | 2 Stemma QT | Light Sensor |
+| [PMSA003I](https://www.adafruit.com/product/4632) | 2 Stemma QT | Air Quality Breakout |
 
 ### Adafruit Devices
 
