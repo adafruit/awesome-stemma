@@ -107,6 +107,8 @@ See the chart on the Adafruit Stemma/StemmaQT Guide for the latest compatibility
 | [VL6180X](https://www.adafruit.com/product/3316) | 2 Stemma QT | Time of Flight Distance Ranging Sensor |
 
 ### Add-Ons with a STEMMA connector
+
+| Board | Stemma Connectors | Features |
 |---|---|---|
 | [ISM330DHCX + LIS3MDL](https://www.adafruit.com/product/4569) | 1 Stemma QT | High Precision 9-DoF IMU FeatherWing |
 | [Mini PiTFT](https://www.adafruit.com/product/4484) | 1 Stemma QT | 240x240 pixel, 1.3", Raspberry Pi connector, 2 buttons |
