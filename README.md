@@ -232,3 +232,5 @@ Contributions and suggestions are always welcome! Please make pull requests to m
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.
+
+Updated: August 19, 2020
