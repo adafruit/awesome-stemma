@@ -124,6 +124,7 @@ See the chart on the Adafruit Stemma/StemmaQT Guide for the latest compatibility
 
 | Display | Stemma Connectors | Features |
 |---|---|---|
+| [OLED Graphics](https://www.adafruit.com/product/4440) | 1 Stemma QT | 128x32 0.91" mono |
 | [OLED Graphics](https://www.adafruit.com/product/326) | 2 Stemma QT | 128x64, 0.96" mono |
 | [Mini PiTFT](https://www.adafruit.com/product/4484) | 1 Stemma QT | 240x240 pixel, 1.3", Raspberry Pi connector |
 | [Mini PiTFT](https://www.adafruit.com/product/4393) | 1 Stemma QT | 135x240 pixel, 1.14", Raspberry Pi connector |
