@@ -82,6 +82,8 @@ See the chart on the Adafruit Stemma/StemmaQT Guide for the latest compatibility
 | [MS8607](https://www.adafruit.com/product/4716) | 2 Stemma QT | Pressure Humidity Temperature PHT Sensor |
 | [AS7341](https://www.adafruit.com/product/4698) | 2 Stemma QT | 10-Channel Light / Color Sensor |
 | [BME680](https://www.adafruit.com/product/3660) | 2 Stemma QT | Temperature, Humidity, Pressure and Gas Sensor |
+| [BH1750](https://www.adafruit.com/product/4681) | 2 Stemma QT | Light Sensor |
+| [TMP235](https://www.adafruit.com/product/4686) | 1 Stemma | Analog Temperature Sensor |
 
 ### Adafruit Devices
 
@@ -120,7 +122,8 @@ See the chart on the Adafruit Stemma/StemmaQT Guide for the latest compatibility
 | [Grove Shield FeatherWing](https://www.adafruit.com/product/4357) | 10 Grove | 4 Grove analog, 4 digital, 1 I2C, 1 UART |
 | [SparkFun Qwiik / Stemma QT FeatherWing](https://www.adafruit.com/product/4515) | 4 Qwiic / Stemma QT | Feather processor form factor (FeatherWing) |
 | [Binho Qwiic / Stemma QT Interface Board](https://www.adafruit.com/product/4462) | 4 Qwiic / Stemma QT | Binho ribbon cable to Qwiic/Stemma QT connections |
-| [SparkFun STEMMA QT / Qwiic Mux Breakout - 8 Channel](https://www.adafruit.com/product/4704) | 8 Qwiic / Stemma QT | Connect 8 devices to one address |
+| [SparkFun Stemma QT / Qwiic Mux Breakout - 8 Channel](https://www.adafruit.com/product/4704) | 8 Qwiic / Stemma QT | Connect 8 devices to one address |
+| [SparkFun Qwiic / STEMMA QT HAT for Raspberry Pi](https://www.adafruit.com/product/4688) | 4 Qwiic / Stemma QT | Raspberry Pi GPIO 4 port I2C breakout |
 
 ### Qwiic Boards from SparkFun
 
