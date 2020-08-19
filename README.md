@@ -96,6 +96,7 @@ See the chart on the Adafruit Stemma/StemmaQT Guide for the latest compatibility
 | [TMP235](https://www.adafruit.com/product/4686) | 1 Stemma | Analog Temperature Sensor |
 | [TSL2561](https://www.adafruit.com/product/3611) | 1 Stemma  | Digital lux / light sensor |
 | [VCNL4040](https://www.adafruit.com/product/4161) | 2 Stemma QT | Proximity and Lux sensor |
+| [VL53L0X](https://www.adafruit.com/product/3317) | 2 Stemma QT | Time of Flight Distance Sensor - ~30 to 1000mm |
 | [VL6180X](https://www.adafruit.com/product/3316) | 2 Stemma QT | Time of Flight Distance Ranging Sensor |
 
 ### Adafruit Devices
