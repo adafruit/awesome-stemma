@@ -102,6 +102,7 @@ See the chart on the Adafruit Stemma/StemmaQT Guide for the latest compatibility
 | [ATECC608](https://www.adafruit.com/product/4314) | 2 Stemma QT | Crypto ECDH and AES-128, SHA-256/HMAC hash |
 | [MCP2221A](https://www.adafruit.com/product/4471) | 1 Stemma QT | General Purpose USB to GPIO ADC I2C |
 | [ST25DV16K](https://www.adafruit.com/product/4701) | 2 Stemma QT | I2C ISO/IEC 15693 (13.56MHz) RFID EEPROM |
+| [PCF8591](https://www.adafruit.com/product/4648) | 2 Stemma QT | Quad 8-bit ADC + 8-bit DAC |
 
 ### Adafruit Displays
 
