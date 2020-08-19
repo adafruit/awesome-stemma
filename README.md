@@ -45,13 +45,14 @@ See the chart on the Adafruit Stemma/StemmaQT Guide for the latest compatibility
 
 | Microcontroller Board | Stemma Connectors | Features |
 |---|---|---|
-| [Feather STM32F405 Express](https://www.adafruit.com/product/4382) | 1 Stemma QT | STM32F405 Cortex M4, 168MHz, 192KB RAM, 1MB Flash |
-| [PyBadge](https://www.adafruit.com/product/4200) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51J19, 120MHz, 512KB of FLASH, 192KB RAM, 2MB Flash |
-| [EdgeBadge](https://www.adafruit.com/product/4400) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51J19, 120MHz, 512KB of FLASH, 192KB RAM, 2MB Flash |
-| [PyGamer](https://www.adafruit.com/product/4242) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51J19, 120MHz, 512KB of FLASH, 192KB RAM, 8MB Flash |
-| [MONSTER M4SK](https://www.adafruit.com/product/4343) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51G19, 120MHz, 512KB of FLASH, 192KB RAM, 8MB Flash |
-| [HalloWing M4 Express](https://www.adafruit.com/product/4300) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51J19, 120MHz, 512KB of FLASH, 192KB RAM, 8MB Flash |
-| [NeoTrellis M4](https://www.adafruit.com/product/3938) | 1x 4 pin Stemma | ATSAMD51G19, 120MHz, 512KB of FLASH, 192KB RAM, 8MB Flash |
+| [Feather STM32F405 Express](https://www.adafruit.com/product/4382) | 1 Stemma QT | STM32F405 Cortex M4, 168MHz, 192KB RAM, 1MB Ext. Flash |
+| [PyBadge](https://www.adafruit.com/product/4200) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51J19, 120MHz, 512KB of Flash, 192KB RAM, 2MB Ext. Flash |
+| [EdgeBadge](https://www.adafruit.com/product/4400) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51J19, 120MHz, 512KB of Flash, 192KB RAM, 2MB Ext. Flash |
+| [PyGamer](https://www.adafruit.com/product/4242) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51J19, 120MHz, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
+| [MONSTER M4SK](https://www.adafruit.com/product/4343) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51G19, 120MHz, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
+| [HalloWing M4 Express](https://www.adafruit.com/product/4300) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51J19, 120MHz, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
+| [NeoTrellis M4](https://www.adafruit.com/product/3938) | 1x 4 pin Stemma | ATSAMD51G19, 120MHz, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
+| [CLUE nRF52840 Express](https://www.adafruit.com/product/4500) | 1 Stemma QT | nRF52840, 64MHz, 1MB Flash, 256KB RAM, 2MB Ext. Flash |
 
 ### Adafruit Sensors with Stemma
 
