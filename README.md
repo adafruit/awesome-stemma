@@ -70,7 +70,8 @@ See the chart on the Adafruit Stemma/StemmaQT Guide for the latest compatibility
 | [ISM330DHCX + LIS3MDL](https://www.adafruit.com/product/4569) | 1 Stemma QT | High Precision 9-DoF IMU FeatherWing |
 | [LIS2MDL](https://www.adafruit.com/product/4488) | 2 Stemma QT | Triple-axis Magnetometer |
 | [LIS3MDL](https://www.adafruit.com/product/4479) | 2 Stemma QT | Triple-axis magnetometer compass module |
-| [LPS22HB](https://www.adafruit.com/product/4633) |  2 Stemma QT | Pressure Sensor 260 to 1260 hPa, 24-bit |
+| [LPS22HB](https://www.adafruit.com/product/4633) |  2 Stemma QT | Pressure Sensor 260 to 1260 hPa, 24-bit, 75Hz |
+| [LPS25HB](https://www.adafruit.com/product/4530) | 2 Stemma QT } Pressure Sensor 260-1260 hPa, 24-bit, 25Hz |
 | [LPS33HW](https://www.adafruit.com/product/4414) | 2 Stemma QT | Water resistant pressure sensor |
 | [LSM303AGR](https://www.adafruit.com/product/4413) | 2 Stemma QT | Triple-axis accelerometer/magnetometer compass module |
 | [LSM6DS33 + LIS3MDL](https://www.adafruit.com/product/4485) | 2 Stemma QT | 9 DoF IMU with accelerometer, gyroscope, magnetometer |
