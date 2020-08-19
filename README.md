@@ -80,6 +80,7 @@ See the chart on the Adafruit Stemma/StemmaQT Guide for the latest compatibility
 | [MSA301](https://www.adafruit.com/product/4344) | 2 Stemma QT | Low Cost Triple Axis Accelerometer |
 | [MS8607](https://www.adafruit.com/product/4716) | 2 Stemma QT | Pressure Humidity Temperature PHT Sensor |
 | [AS7341](https://www.adafruit.com/product/4698) | 2 Stemma QT | 10-Channel Light / Color Sensor |
+| [BME680](https://www.adafruit.com/product/3660) | 2 Stemma QT | Temperature, Humidity, Pressure and Gas Sensor |
 
 ### Adafruit Devices
 
