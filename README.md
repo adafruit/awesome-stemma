@@ -100,6 +100,8 @@ See the chart on the Adafruit Stemma/StemmaQT Guide for the latest compatibility
 | [PMSA003I](https://www.adafruit.com/product/4632) | 2 Stemma QT | Air Quality Breakout |
 | [SHTC3](https://www.adafruit.com/product/4636) | 2 Stemma QT | Sensirion Temperature & Humidity Sensor |
 | [STEMMA Soil Sensor](https://www.adafruit.com/product/4026) | 1 Stemma | Capacitive I2C smart soil sensor |
+| [SGP30](https://www.adafruit.com/product/3709) | 2 Stemma QT | Air Quality Sensor (eCO2 and VOC) |
+| [SGP40](https://www.adafruit.com/product/4829) | 2 Stemma QT | Air Quality Sensor (VOC Index only) |
 | [TLV493D](https://www.adafruit.com/product/4366) | 2 Stemma QT | Triple-Axis magnetometer |
 | [TMP235](https://www.adafruit.com/product/4686) | 1 Stemma | Analog Temperature Sensor |
 | [TSL2561](https://www.adafruit.com/product/3611) | 1 Stemma  | Digital lux / light sensor |
