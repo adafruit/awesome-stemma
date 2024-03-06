@@ -10,6 +10,8 @@ https://user-images.githubusercontent.com/1685947/115119942-e746c980-9f78-11eb-8
 
 Adafruit Stemma is a collection of solderless digital/analog/power/I2C connection standards based on JST PH 3 and 4 pin connectors. For smaller footprint breakout boards, the JST SH 4 pin connector may be used for I2C connections.
 
+Stemma used the JST PH 2mm connector while Stemma QT uses the JST SH 1mm connector.
+
 Stemma equipped boards may be compatible with Seed Studio Grove connectors, SparkFun Qwiic connectors or DFRobot Gravity connectors. Cross-compatibility should be checked before interconnecting Stemma/Stemma QT boards with other manufacturer boards, as there could be connector incompatibilities or voltage issues (with Qwiic boards).
 
 ## Contents
