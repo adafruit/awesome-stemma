@@ -45,6 +45,8 @@ See the chart on the Adafruit Stemma/StemmaQT Guide for the latest compatibility
 
 ## Stemma Hardware
 
+You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https://www.adafruit.com/category/1005).
+
 ### Adafruit Microcontroller Boards with Stemma
 
 | Microcontroller Board | Stemma Connectors | Features |
