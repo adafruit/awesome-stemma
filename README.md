@@ -172,7 +172,8 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [PCF8591](https://www.adafruit.com/product/4648) | 2 Stemma QT | Quad 8-bit ADC + 8-bit DAC |
 | [MCP4728 Quad DAC](https://www.adafruit.com/product/4470) | 2 Stemma QT | Four 12-bit DACs with integrated EEPROM for settings |
 | [NAU7802 24-Bit ADC](https://www.adafruit.com/product/4538) | 2 Stemma QT | 24-bit ADC |
-| [TCA8418 Keypad Matrix and GPIO Expander](https://www.adafruit.com/product/4918) |  2 Stemma QT | Up to 18 total 'I/O' pins, 10 columns and 8 rows |
+| [TCA8418 Keypad Matrix and GPIO Expander](https://www.adafruit.com/product/4918) | 2 Stemma QT | Up to 18 total 'I/O' pins, 10 columns and 8 rows |
+| [MAX17048 LiPoly / LiIon Fuel Gauge and Battery Monitor](https://www.adafruit.com/product/5580) | 2 Stemma QT | Voltage and percentage |
 
 ### Adafruit Displays
 
