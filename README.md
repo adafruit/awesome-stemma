@@ -135,6 +135,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [PCT2075](https://www.adafruit.com/product/4369) | 2 Stemma QT | Temperature Sensor, LM75 upgrade |
 | [PMSA003I](https://www.adafruit.com/product/4632) | 2 Stemma QT | Air Quality Breakout |
 | [SCD-30](https://www.adafruit.com/product/4867) | 2 Stemma QT | NDIR True CO2 Temperature and Humidity Sensor |
+| [SCD-40](https://www.adafruit.com/product/5187) | 2 Stemma QT | True CO2, Temperature and Humidity Sensor |
 | [SCD-41](https://www.adafruit.com/product/5190) | 2 Stemma QT | True CO2 Temperature and Humidity Sensor |
 | [SHTC3](https://www.adafruit.com/product/4636) | 2 Stemma QT | Sensirion Temperature & Humidity Sensor |
 | [SHT40](https://www.adafruit.com/product/4885) | 2 Stemma QT | Sensirion Temperature & Humidity Sensor |
