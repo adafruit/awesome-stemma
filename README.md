@@ -191,6 +191,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [PCF8591](https://www.adafruit.com/product/4648) | 2 Stemma QT | Quad 8-bit ADC + 8-bit DAC |
 | [MCP3421 ADC](https://www.adafruit.com/product/5870) | 2 Stemma QT | 18-Bit ADC |
 | [MCP4728 Quad DAC](https://www.adafruit.com/product/4470) | 2 Stemma QT | Four 12-bit DACs with integrated EEPROM for settings |
+| [MCP9601 (MCP96L01) I2C Thermocouple Amplifier](https://www.adafruit.com/product/5165) | 2 Stemma QT | Works with K, J, T, N, S, E, B, and R type thermocouples |
 | [NAU7802 24-Bit ADC](https://www.adafruit.com/product/4538) | 2 Stemma QT | 24-bit ADC |
 | [TCA8418 Keypad Matrix and GPIO Expander](https://www.adafruit.com/product/4918) | 2 Stemma QT | Up to 18 total 'I/O' pins, 10 columns and 8 rows |
 | [AW9523 GPIO Expander and LED Driver Breakout](https://www.adafruit.com/product/4886) | 2 Stemma QT | 16 I/O pins. four I2C address options |
