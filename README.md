@@ -78,6 +78,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [BME680](https://www.adafruit.com/product/3660) | 2 Stemma QT | Temperature, Humidity, Pressure and Gas Sensor |
 | [BMP280](https://www.adafruit.com/product/2651) | 2 Stemma QT | Barometric Pressure & Altitude Sensor |
 | [BNO055](https://www.adafruit.com/product/4646) | 2 Stemma QT | 9-DOF Absolute Orientation IMU Fusion |
+| [BNO085](https://www.adafruit.com/product/4754) | 2 Stemma QT | 9-DOF Orientation IMU Fusion |
 | [DPS310](https://www.adafruit.com/product/4494) | 2 Stemma QT | Precision Barometric Pressure / Altitude Sensor |
 | [DS3502](https://www.adafruit.com/product/4286) | 2 Stemma QT | I2C Digital 10K Potentiometer |
 | [H3LIS331](https://www.adafruit.com/product/4627) | 2 Stemma QT | Ultra High Range Triple-Axis Accelerometer |
