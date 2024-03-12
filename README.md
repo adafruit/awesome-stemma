@@ -94,6 +94,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [ICM-20649](https://www.adafruit.com/product/4464) | 2 Stemma QT | Wide Range ±30g ±4000dps 6-DoF IMU |
 | [ICM-20948](https://www.adafruit.com/product/4554) | 2 Stemma QT | TDK InvenSense 9-DoF IMU (MPU-9250 Upgrade) |
 | [ISM330DHCX](https://www.adafruit.com/product/4502) | 2 Stemma QT | 6 DoF IMU - Accelerometer and Gyroscope |
+| [ISM330DHCX + LIS3MDL](https://www.adafruit.com/product/4569) | 1 Stemma QT | High Precision 9-DoF IMU FeatherWing |
 | [LIS3DH](https://www.adafruit.com/product/2809) | 2 Stemma QT | Triple-Axis Accelerometer (+-2g/4g/8g/16g) |
 | [LIS2MDL](https://www.adafruit.com/product/4488) | 2 Stemma QT | Triple-axis Magnetometer |
 | [LIS3MDL](https://www.adafruit.com/product/4479) | 2 Stemma QT | Triple-axis magnetometer compass module |
@@ -127,12 +128,6 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [VL53L0X](https://www.adafruit.com/product/3317) | 2 Stemma QT | Time of Flight Distance Sensor - ~30 to 1000mm |
 | [VL53L4CD](https://www.adafruit.com/product/5396) | 2 Stemma QT | Time of Flight Distance Sensor - ~1 to 1300mm |
 | [VL6180X](https://www.adafruit.com/product/3316) | 2 Stemma QT | Time of Flight Distance Ranging Sensor |
-
-### Add-Ons with a STEMMA connector
-
-| Board | Stemma Connectors | Features |
-|---|---|---|
-| [ISM330DHCX + LIS3MDL](https://www.adafruit.com/product/4569) | 1 Stemma QT | High Precision 9-DoF IMU FeatherWing |
 
 ### Adafruit Devices
 
