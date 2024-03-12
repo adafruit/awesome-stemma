@@ -185,8 +185,8 @@ Note: lengths are approximate
 | Adafruit | [Stemma - Stemma](https://www.adafruit.com/product/3568) | 100mm | 4-pin JST PH female |  4-pin JST PH female |
 | Adafruit | [Stemma QT - Stemma QT](https://www.adafruit.com/product/4210) | 100mm | 4-pin JST SH female | 4-pin JST SH female |
 | Adafruit | [5-pin Arduino MKR - Stemma QT](https://www.adafruit.com/product/4483) | 100mm | 5-pin JST SJ | 4-pin JST SH |
-| Adafruit | [Stemma - Stemma](https://www.adafruit.com/product/3568) | 150mm | 4-pin JST PH female |  4-pin JST PH female |
 | Adafruit | [Grove - Stemma QT/Qwiic](https://www.adafruit.com/product/4528) | 100mm | 4-pin JST-PH female | Grove 4 Pin |
+| Adafruit | [Stemma - Stemma](https://www.adafruit.com/product/3568) | 150mm | 4-pin JST PH female |  4-pin JST PH female |
 | Adafruit | [Stemma QT - Pin Header](https://www.adafruit.com/product/4397) | 150mm | 4-pin JST SH female | 4 Female pin header sockets |
 | Adafruit | [Stemma QT - Alligator clips](https://www.adafruit.com/product/4398) | 150mm | 4-pin JST SH | 4 Alligator Clips |
 | Adafruit | [Stemma QT -  4-pin JST PH female](https://www.adafruit.com/product/4209) | 150mm | 4-pin JST-PH female | 0.1" male pin headers |
