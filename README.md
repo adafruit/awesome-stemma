@@ -165,6 +165,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | Board | Stemma Connectors | Features |
 |---|---|---|
 | [Soil Sensor](https://www.adafruit.com/product/4026) | 1 Stemma | I2C capacitive moisture sensor |
+| [NeoDriver - I2C to NeoPixel Driver](https://www.adafruit.com/product/5766) | 2 Stemma QT | WS2812 / SK6812 to I2C driver |
 | [NeoRGB Stemma](https://www.adafruit.com/product/5888) | 1 Stemma | NeoPixel to RGB PWM LEDs and Strips |
 | [NeoTrellis RGB Driver](https://www.adafruit.com/product/3954) | 1 Stemma | Provides a 4x4 matrix of RGB NeoPixel lit elastomer keys |
 | [MOSFET Driver](https://www.adafruit.com/product/5648) | 1 Stemma | For driving motors, solenoids, LEDs, etc. |
