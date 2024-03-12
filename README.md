@@ -141,6 +141,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | Board | Stemma Connectors | Features |
 |---|---|---|
 | [Soil Sensor](https://www.adafruit.com/product/4026) | 1 Stemma | I2C capacitive moisture sensor |
+| [NeoRGB Stemma](https://www.adafruit.com/product/5888) | 1 Stemma | NeoPixel to RGB PWM LEDs and Strips |
 | [NeoTrellis RGB Driver](https://www.adafruit.com/product/3954) | 1 Stemma | Provides a 4x4 matrix of RGB NeoPixel lit elastomer keys |
 | [Stemma Speaker](https://www.adafruit.com/product/3885) | 1 Stemma | A class D audio amplifier and an oval speaker |
 | [Mini Relay, Nonlatching](https://www.adafruit.com/product/4409) | 1 Stemma | A single pole/double throw relay up to 250V AC or DC |
