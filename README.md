@@ -153,6 +153,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [ST25DV16K](https://www.adafruit.com/product/4701) | 2 Stemma QT | I2C ISO/IEC 15693 (13.56MHz) RFID EEPROM |
 | [PCF8591](https://www.adafruit.com/product/4648) | 2 Stemma QT | Quad 8-bit ADC + 8-bit DAC |
 | [MCP4728 Quad DAC](https://www.adafruit.com/product/4470) | 2 Stemma QT | Four 12-bit DACs with integrated EEPROM for settings |
+| [NAU7802 24-Bit ADC](https://www.adafruit.com/product/4538) | 2 Stemma QT | 24-bit ADC |
 
 ### Adafruit Displays
 
