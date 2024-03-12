@@ -131,6 +131,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [MCP9808](https://www.adafruit.com/product/5027) | 2 Stemma QT | High Accuracy I2C Temperature Sensor Breakout |
 | [MLX90640](https://www.adafruit.com/product/4407) | 2 Stemma QT | Thermal Camera Breakout - 55 Degree FoV |
 | [MLX90640](https://www.adafruit.com/product/4469) | 2 Stemma QT | Thermal Camera Breakout - 110 Degree FoV |
+| [MMC5603](https://www.adafruit.com/product/5579) | 2 Stemma QT | Triple-axis Magnetometer |
 | [MPR121](https://www.adafruit.com/product/1982) | 2 Stemma QT | 12-Key Capacitive Touch Sensor Breakout |
 | [MPU-6050](https://www.adafruit.com/product/3886) | 1 Stemma QT | An I2C 6 DoF accelerometer and gyroscope |
 | [MS8607](https://www.adafruit.com/product/4716) | 2 Stemma QT | Pressure Humidity Temperature PHT Sensor |
