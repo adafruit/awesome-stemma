@@ -184,7 +184,8 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [Mini GPS PA1010D](https://www.adafruit.com/product/4415) |  2 Stemma QT | Mini GPS with UART and I2C |
 | [TRUST M SLS 32AIA](https://www.adafruit.com/product/4351) | 2 Stemma QT | OPTIGA Trust M RSA 1K/2K + ECC256/384 Crypto |
 | [ATECC608](https://www.adafruit.com/product/4314) | 2 Stemma QT | Crypto ECDH and AES-128, SHA-256/HMAC hash |
-| [ST25DV16K](https://www.adafruit.com/product/4701) | 2 Stemma QT | I2C ISO/IEC 15693 (13.56MHz) RFID EEPROM |
+| [24LC32 I2C EEPROM](https://www.adafruit.com/product/5146) | 2 Stemma QT | 32Kbit / 4KB storage |
+| [ST25DV16K RFID EEPROM](https://www.adafruit.com/product/4701) | 2 Stemma QT | I2C ISO/IEC 15693 (13.56MHz) RFID EEPROM |
 | [PCF8591](https://www.adafruit.com/product/4648) | 2 Stemma QT | Quad 8-bit ADC + 8-bit DAC |
 | [MCP3421 ADC](https://www.adafruit.com/product/5870) | 2 Stemma QT | 18-Bit ADC |
 | [MCP4728 Quad DAC](https://www.adafruit.com/product/4470) | 2 Stemma QT | Four 12-bit DACs with integrated EEPROM for settings |
