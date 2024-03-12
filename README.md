@@ -218,13 +218,17 @@ Note: lengths are approximate
 | Adafruit | [Stemma -  4 Male Pin Headers](https://www.adafruit.com/product/3955) | 200mm | 4-pin JST PH |  0.1" male pin headers |
 | Adafruit | [Stemma -  4 Female Pin Headers](https://www.adafruit.com/product/3894) | 200mm | 4-pin JST PH |  0.1" female pin headers |
 
-
 ### Breakouts
 
 | Vendor | Item | Features |
 |---|---|---|
 | SparkFun | [Stemma QT / Qwiic Adapter](https://www.adafruit.com/product/4527) | 2 Qwiic / Stemma QT connectors, pinouts for SCL/SDA/3V/GND |
 | SparkFun | [Stemma QT/Qwiic Shim for Raspberry Pi](https://www.adafruit.com/product/4463) | Press fit Raspberry Pi GPIO to Stemma QT/Qwiic connector |
+
+### I2C Extenders
+| Vendor | Item | Features |
+|---|---|---|
+| Adafruit | [LTC4311 I2C Extender / Active Terminator](https://www.adafruit.com/product/4756) | 2 Stemma QT connectors, terminates and extends I2C bus |
 
 ### Connectors
 
