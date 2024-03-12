@@ -201,7 +201,8 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [MCP9601 (MCP96L01) I2C Thermocouple Amplifier](https://www.adafruit.com/product/5165) | 2 Stemma QT | Works with K, J, T, N, S, E, B, and R type thermocouples |
 | [NAU7802 24-Bit ADC](https://www.adafruit.com/product/4538) | 2 Stemma QT | 24-bit ADC |
 | [TCA8418 Keypad Matrix and GPIO Expander](https://www.adafruit.com/product/4918) | 2 Stemma QT | Up to 18 total 'I/O' pins, 10 columns and 8 rows |
-| [AW9523 GPIO Expander and LED Driver Breakout](https://www.adafruit.com/product/4886) | 2 Stemma QT | 16 I/O pins. four I2C address options |
+| [AW9523 GPIO Expander and LED Driver](https://www.adafruit.com/product/4886) | 2 Stemma QT | 16 I/O pins, four I2C address options |
+| [PCF8574 I2C GPIO Expander](https://www.adafruit.com/product/5545) | 2 Stemma QT | 8 I/O pins, three I2C address options |
 | [MAX17048 LiPoly / LiIon Fuel Gauge and Battery Monitor](https://www.adafruit.com/product/5580) | 2 Stemma QT | Voltage and percentage |
 
 ### Adafruit Displays
