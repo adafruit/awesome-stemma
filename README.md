@@ -208,6 +208,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [AW9523 GPIO Expander and LED Driver](https://www.adafruit.com/product/4886) | 2 Stemma QT | 16 I/O pins, four I2C address options |
 | [PCF8574 I2C GPIO Expander](https://www.adafruit.com/product/5545) | 2 Stemma QT | 8 I/O pins, three I2C address options |
 | [MAX17048 LiPoly / LiIon Fuel Gauge and Battery Monitor](https://www.adafruit.com/product/5580) | 2 Stemma QT | Voltage and percentage |
+| [CYBERDECK HAT for Raspberry Pi 400](https://www.adafruit.com/product/4863) | 2x Stemma / 1x Stemma QT | Extend GPIO, room for a display |
 
 ### Adafruit Displays
 
