@@ -169,6 +169,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [Rotary Encoder Breakout with Encoder](https://www.adafruit.com/product/5880) | 2 Stemma QT | Rotary Encoder (with encoder soldered) |
 | [Quad Rotary Encoder Breakout without Encoders](https://www.adafruit.com/product/5752) | 2 Stemma QT | Four rotary encoder to I2C (encoders not included) |
 | [DS3231 Precision Real Time Clock (RTC)](https://www.adafruit.com/product/5188) | 2 Stemma QT | Precise real time clock module |
+| [PCF8523 Real Time Clock (RTC)](https://www.adafruit.com/product/5189) | 2 Stemma QT | Real time clock module |
 | [EMC2101 I2C PC Fan Controller and Temperature Sensor](https://www.adafruit.com/product/4808) | 2 Stemma QT | Four pin PC fan control |
 | [DRV2605L Haptic Motor Controller](https://www.adafruit.com/product/2305) | 2 Stemma QT | Haptic (vibration) motor controller |
 | [Mini GPS PA1010D](https://www.adafruit.com/product/4415) |  2 Stemma QT | Mini GPS with UART and I2C |
