@@ -160,6 +160,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [NeoTrellis RGB Driver PCB for 4x4 Keypad](https://www.adafruit.com/product/3954) | 1 Stemma | 4x4 elastomer button and RGB LED controller |
 | [Tactile Push Buttons](https://www.adafruit.com/product/4431) | 1 Stemma each | Pack of 5 breakaway tactile buttons |
 | [Mini I2C Gamepad with seesaw](https://www.adafruit.com/product/5743) | 1 Stemma QT | 2-axis thumb joystick and 6 momentary buttons (4 large and 2 small) |
+| [NeoKey 1x4 QT I2C - Four Mechanical Key Switches with NeoPixels](https://www.adafruit.com/product/4980) | 2 Stemma QT | Four Cherry MX or compatible keys (not included) + NeoPixels |
 | [Wii Nunchuck Breakout Adapter](https://www.adafruit.com/product/4836) | 2 Stemma QT | Wii Nunchuck I2C breakout |
 | [Micro Servo](https://www.adafruit.com/product/4326) | 1 Stemma | Standard micro servo with Stemma connector |
 | [10K Analog Linear Potentiometer](https://www.adafruit.com/product/4493) | 1 Stemma | Wired Potentiometer Breakout Board with a 10K ohm linear taper |
