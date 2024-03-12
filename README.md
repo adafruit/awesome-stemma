@@ -118,6 +118,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [PA1010D Mini GPS](https://www.adafruit.com/product/4415) | 2 Stemma QT | GPS, GLONASS, GALILEO, QZSS receiver, 1"x1" |
 | [PCT2075](https://www.adafruit.com/product/4369) | 2 Stemma QT | Temperature Sensor, LM75 upgrade |
 | [PMSA003I](https://www.adafruit.com/product/4632) | 2 Stemma QT | Air Quality Breakout |
+| [SCD-41](https://www.adafruit.com/product/5190) | 2 Stemma QT | True CO2 Temperature and Humidity Sensor|
 | [SHTC3](https://www.adafruit.com/product/4636) | 2 Stemma QT | Sensirion Temperature & Humidity Sensor |
 | [SHT45](https://www.adafruit.com/product/5665) | 2 Stemma QT | Sensirion Precision Temperature & Humidity Sensor |
 | [STEMMA Soil Sensor](https://www.adafruit.com/product/4026) | 1 Stemma | Capacitive I2C smart soil sensor |
