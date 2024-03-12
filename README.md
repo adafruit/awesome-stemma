@@ -62,6 +62,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [PyPortal Pynt](https://www.adafruit.com/product/4465) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51J20/ESP32, 120MHz, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
 | [MONSTER M4SK](https://www.adafruit.com/product/4343) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51G19, 120MHz, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
 | [HalloWing M4 Express](https://www.adafruit.com/product/4300) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51J19, 120MHz, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
+| [MEMENTO Camera](https://www.adafruit.com/product/5420) | 1x 4 pin Stemma QT, 2x 3 pin Stemma | ESP32-S3, 240MHz, 8MB Flash, 2MB PSRAM |
 | [NeoTrellis M4](https://www.adafruit.com/product/3938) | 1x 4 pin Stemma | ATSAMD51G19, 120MHz, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
 | [CLUE nRF52840 Express](https://www.adafruit.com/product/4500) | 1 Stemma QT | nRF52840, 64MHz, 1MB Flash, 256KB RAM, 2MB Ext. Flash |
 | [QT Py RP2040](https://www.adafruit.com/product/4900) | 1 Stemma QT | RP2040, 125MHz, 8MB SPI Flash, 264KB RAM, USB-C |
