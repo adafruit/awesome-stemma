@@ -263,6 +263,7 @@ Note: lengths are approximate
 ### I2C Multiplexers
 | Vendor | Item | Features |
 |---|---|---|
+| Adafruit | [PCA9546 8-Channel STEMMA QT / Qwiic I2C Multiplexer - TCA9546A Compatible](https://www.adafruit.com/product/5626) | 5 Stemma QT connectors, provides 4 channel control of I2C devices with same address |
 | Adafruit | [PCA9548 8-Channel STEMMA QT / Qwiic I2C Multiplexer - TCA9548A Compatible](https://www.adafruit.com/product/5626) | 9 Stemma QT connectors, provides 8 channel control of I2C devices with same address |
 
 ### Connectors
