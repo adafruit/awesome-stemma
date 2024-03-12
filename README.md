@@ -197,6 +197,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [ATECC608](https://www.adafruit.com/product/4314) | 2 Stemma QT | Crypto ECDH and AES-128, SHA-256/HMAC hash |
 | [24LC32 I2C EEPROM](https://www.adafruit.com/product/5146) | 2 Stemma QT | 32Kbit / 4KB storage |
 | [ST25DV16K RFID EEPROM](https://www.adafruit.com/product/4701) | 2 Stemma QT | I2C ISO/IEC 15693 (13.56MHz) RFID EEPROM |
+| [Audio Amp - Mono 2.5W Class D](https://www.adafruit.com/product/5647) | 1 Stemma | Mono amplifier able to deliver up to 2.5 Watts into 4-8 ohm impedance speakers |
 | [ADS7830 8-Channel 8-Bit ADC](https://www.adafruit.com/product/5836) | 2 Stemma QT | 8-Channel 8-Bit ADC with I2C |
 | [PCF8591 DAC](https://www.adafruit.com/product/4648) | 2 Stemma QT | Quad 8-bit ADC + 8-bit DAC |
 | [MCP3421 ADC](https://www.adafruit.com/product/5870) | 2 Stemma QT | 18-Bit ADC | 
