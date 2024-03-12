@@ -162,6 +162,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [DS3231 Precision Real Time Clock (RTC)](https://www.adafruit.com/product/5188) | 2 Stemma QT | Precise real time clock module |
 | [EMC2101 I2C PC Fan Controller and Temperature Sensor](https://www.adafruit.com/product/4808) | 2 Stemma QT | Four pin PC fan control |
 | [DRV2605L Haptic Motor Controller](https://www.adafruit.com/product/2305) | 2 Stemma QT | Haptic (vibration) motor controller |
+| [Mini GPS PA1010D](https://www.adafruit.com/product/4415) |  2 Stemma QT | Mini GPS with UART and I2C |
 | [TRUST M SLS 32AIA](https://www.adafruit.com/product/4351) | 2 Stemma QT | OPTIGA Trust M RSA 1K/2K + ECC256/384 Crypto |
 | [ATECC608](https://www.adafruit.com/product/4314) | 2 Stemma QT | Crypto ECDH and AES-128, SHA-256/HMAC hash |
 | [ST25DV16K](https://www.adafruit.com/product/4701) | 2 Stemma QT | I2C ISO/IEC 15693 (13.56MHz) RFID EEPROM |
