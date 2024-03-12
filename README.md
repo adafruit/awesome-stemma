@@ -75,6 +75,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [Feather RP2040](https://www.adafruit.com/product/4900) | 1 Stemma QT | RP2040, 8MB SPI Flash, 264KB RAM, USB-C |
 | [Feather RP2040 with RFM95 LoRa Radio](https://www.adafruit.com/product/5714) | 1 Stemma QT | RP2040, 8MB SPI Flash, 264KB RAM, 868MHz or 915MHz LoRa, USB-C |
 | [Feather RP2040 CAN Bus Feather](https://www.adafruit.com/product/5724) | 1 Stemma QT | RP2040, 8MB SPI Flash, 264KB RAM, MCP2515 CAN Controller, USB-C |
+| [Feather RP2040 SCORPIO](https://www.adafruit.com/product/5650) | 1 Stemma QT | RP2040, 8MB SPI Flash, 264KB RAM, 8 Channel NeoPixel Driver, USB-C |
 | [Feather STM32F405 Express](https://www.adafruit.com/product/4382) | 1 Stemma QT | STM32F405 Cortex M4, 192KB RAM, 1MB Ext. Flash |
 | [MCP2221A](https://www.adafruit.com/product/4471) | 1 Stemma QT | General Purpose USB to GPIO ADC I2C |
 | [FT232H](https://www.adafruit.com/product/2264) | 1 Stemma QT |  General Purpose USB to GPIO, SPI, I2C - USB C |
