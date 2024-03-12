@@ -133,14 +133,6 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | Board | Stemma Connectors | Features |
 |---|---|---|
 | [ISM330DHCX + LIS3MDL](https://www.adafruit.com/product/4569) | 1 Stemma QT | High Precision 9-DoF IMU FeatherWing |
-| [Mini PiTFT](https://www.adafruit.com/product/4484) | 1 Stemma QT | 240x240 pixel, 1.3", Raspberry Pi connector, 2 buttons |
-| [Mini PiTFT](https://www.adafruit.com/product/4393) | 1 Stemma QT | 135x240 pixel, 1.14", Raspberry Pi connector |
-| [Monochrome E-Ink Bonnet](https://www.adafruit.com/product/4687) | 1 Stemma QT | 250x122 pixel, 2.13", mono eInk for Raspberry Pi |
-| [Color TFT Bonnet](https://www.adafruit.com/product/4506) | 1 Stemma QT | 240x240 pixel, 1.3" color TFT, Joystick, for Raspberry Pi |
-| [Monochrome OLED Bonnet](https://www.adafruit.com/product/4567) | 1 Stemma QT | 128x32 2.23" mono OLED for Raspberry Pi |
-| [Monochrome OLED Display](https://www.adafruit.com/product/938) | 1 Stemma QT | 128x64 1.3" monochrome OLED  |
-| [TFT Gizmo](https://www.adafruit.com/product/4367) | 2x 3 pin Stemma | 240x240 pixel, 1.54", round for Circuit Playground |
-| [E-Ink Gizmo](https://www.adafruit.com/product/4428) | 2x 3 pin Stemma | 152x152 pixel, 1.54", tricolor, round for Circuit Playground |
 
 ### Adafruit Devices
 
@@ -174,6 +166,15 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [OLED Graphics](https://www.adafruit.com/product/4440) | 1 Stemma QT | 128x32 0.91" monochrome OLED breakout |
 | [OLED Graphics](https://www.adafruit.com/product/326) | 2 Stemma QT | 128x64, 0.96" monochrome OLED breakout |
 | [OLED Graphics](https://www.adafruit.com/product/938) | 2 Stemma QT | 128x64, 1.3" monochrome OLED breakout |
+| [Mini PiTFT](https://www.adafruit.com/product/4484) | 1 Stemma QT | 240x240 pixel, 1.3", Raspberry Pi connector, 2 buttons |
+| [Mini PiTFT](https://www.adafruit.com/product/4393) | 1 Stemma QT | 135x240 pixel, 1.14", Raspberry Pi connector |
+| [Monochrome E-Ink Bonnet](https://www.adafruit.com/product/4687) | 1 Stemma QT | 250x122 pixel, 2.13", mono eInk for Raspberry Pi |
+| [Color TFT Bonnet](https://www.adafruit.com/product/4506) | 1 Stemma QT | 240x240 pixel, 1.3" color TFT, Joystick, for Raspberry Pi |
+| [Monochrome OLED Bonnet](https://www.adafruit.com/product/4567) | 1 Stemma QT | 128x32 2.23" mono OLED for Raspberry Pi |
+| [Monochrome OLED Display](https://www.adafruit.com/product/938) | 1 Stemma QT | 128x64 1.3" monochrome OLED  |
+| [Monochrome OLED Display FeatherWing](https://www.adafruit.com/product/4650) | 1 Stemma QT | 128x64 1.3" monochrome OLED  |
+| [TFT Gizmo](https://www.adafruit.com/product/4367) | 2x 3 pin Stemma | 240x240 pixel, 1.54", round for Circuit Playground |
+| [E-Ink Gizmo](https://www.adafruit.com/product/4428) | 2x 3 pin Stemma | 152x152 pixel, 1.54", tricolor, round for Circuit Playground |
 
 ### Processor to Stemma/Grove/Qwiic Breakout Boards
 
