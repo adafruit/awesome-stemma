@@ -288,6 +288,11 @@ Note: lengths are approximate
 | Adafruit | [PCA9546 8-Channel STEMMA QT / Qwiic I2C Multiplexer - TCA9546A Compatible](https://www.adafruit.com/product/5626) | 5 Stemma QT connectors, provides 4 channel control of I2C devices with same address |
 | Adafruit | [PCA9548 8-Channel STEMMA QT / Qwiic I2C Multiplexer - TCA9548A Compatible](https://www.adafruit.com/product/5626) | 9 Stemma QT connectors, provides 8 channel control of I2C devices with same address |
 
+### I2C Isolators
+| Vendor | Item | Features |
+|---|---|---|
+| Adafruit | [ISO1540 Bidirectional I2C Isolator](https://www.adafruit.com/product/4903) | 2 Stemma QT connectors, TI ISO1540 is fully bi-directional, supports up to 1 MHz clock rates, supports clock-stretching, works with 3 to 5V DC power or logic (separate on either side), with 2500 V-RMS isolation |
+
 ### Connectors
 
 | Vendor | Item | Quantity |
