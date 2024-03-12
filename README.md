@@ -85,6 +85,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [AS7341](https://www.adafruit.com/product/4698) | 2 Stemma QT | 10-Channel Light / Color Sensor |
 | [BH1750](https://www.adafruit.com/product/4681) | 2 Stemma QT | Light Sensor |
 | [BME680](https://www.adafruit.com/product/3660) | 2 Stemma QT | Temperature, Humidity, Pressure and Gas Sensor |
+| [BME688](https://www.adafruit.com/product/5046) | 2 Stemma QT | Temperature, Humidity, Pressure and Gas Sensor |
 | [BMP280](https://www.adafruit.com/product/2651) | 2 Stemma QT | Barometric Pressure & Altitude Sensor |
 | [BNO055](https://www.adafruit.com/product/4646) | 2 Stemma QT | 9-DOF Absolute Orientation IMU Fusion |
 | [BNO085](https://www.adafruit.com/product/4754) | 2 Stemma QT | 9-DOF Orientation IMU Fusion |
