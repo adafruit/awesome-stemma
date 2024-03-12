@@ -248,6 +248,11 @@ Note: lengths are approximate
 |---|---|---|
 | Adafruit | [LTC4311 I2C Extender / Active Terminator](https://www.adafruit.com/product/4756) | 2 Stemma QT connectors, terminates and extends I2C bus |
 
+### I2C Multiplexers
+| Vendor | Item | Features |
+|---|---|---|
+| Adafruit | [PCA9548 8-Channel STEMMA QT / Qwiic I2C Multiplexer - TCA9548A Compatible](https://www.adafruit.com/product/5626) | 9 Stemma QT connectors, provides 8 channel control of I2C devices with same address |
+
 ### Connectors
 
 | Vendor | Item | Quantity |
