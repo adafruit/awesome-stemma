@@ -65,12 +65,12 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [NeoTrellis M4](https://www.adafruit.com/product/3938) | 1x 4 pin Stemma | ATSAMD51G19, 512KB Flash, 192KB RAM, 8MB Ext. Flash |
 | [Metro Mini 328 V2](https://www.adafruit.com/product/2590) | 1 Stemma QT | ATmega328, 32KBFlash, 32KB RAM, 5V, 16 MHz |
 | [CLUE nRF52840 Express](https://www.adafruit.com/product/4500) | 1 Stemma QT | nRF52840, 1MB Flash, 256KB RAM, 2MB Ext. Flash |
-| [Feather RP2040](https://www.adafruit.com/product/4900) | 1 Stemma QT | RP2040, 8MB SPI Flash, 264KB RAM, USB-C |
 | [QT Py SAMD21/M0](https://www.adafruit.com/product/4600) | 1 Stemma QT | SAMD21, 256KB Flash, 32KB RAM, USB-C |
 | [QT Py RP2040](https://www.adafruit.com/product/4900) | 1 Stemma QT | RP2040, 8MB SPI Flash, 264KB RAM, USB-C |
 | [QT Py S3](https://www.adafruit.com/product/5700) | 1 Stemma QT | ESP32-S3, 4MB Flash, 512MB SRAM, 2MB PSRAM | 
 | [ESP32-S3 Feather 4MB Flash / 2MB PSRAM](https://www.adafruit.com/product/5477) | 1 Stemma QT | ESP32-S3, 4MB Flash, 2MB PSRAM |
 | [ESP32-S3 Feather V2](https://www.adafruit.com/product/5400) | 1 Stemma QT | ESP32, 8MB Flash, 2MB PSRAM |
+| [Feather RP2040](https://www.adafruit.com/product/4900) | 1 Stemma QT | RP2040, 8MB SPI Flash, 264KB RAM, USB-C |
 | [Feather STM32F405 Express](https://www.adafruit.com/product/4382) | 1 Stemma QT | STM32F405 Cortex M4, 192KB RAM, 1MB Ext. Flash |
 | [MCP2221A](https://www.adafruit.com/product/4471) | 1 Stemma QT | General Purpose USB to GPIO ADC I2C |
 | [FT232H](https://www.adafruit.com/product/2264) | 1 Stemma QT |  General Purpose USB to GPIO, SPI, I2C - USB C |
