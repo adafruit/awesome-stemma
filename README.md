@@ -71,11 +71,12 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [QT Py S3](https://www.adafruit.com/product/5700) | 1 Stemma QT | ESP32-S3, 4MB Flash, 512MB SRAM, 2MB PSRAM | 
 | [QT Py ESP32 Pico](https://www.adafruit.com/product/5395) | 1 Stemma QT | ESP32, 8MB Flash, 2MB PSRAM, WiFi | 
 | [QT Py ESP32-S2 with uFL Antenna](https://www.adafruit.com/product/5348) | 1 Stemma QT | ESP32-S2, 4MB Flash, 2MB PSRAM, WiFi | 
-| [ESP32-S2 Feather 4MB Flash / 2MB PSRAM](https://www.adafruit.com/product/5477) | 1 Stemma QT | ESP32-S2, 4MB Flash, 2MB PSRAM |
-| [ESP32-S3 Feather 4MB Flash / 2MB PSRAM](https://www.adafruit.com/product/5477) | 1 Stemma QT | ESP32-S3, 4MB Flash, 2MB PSRAM |
-| [ESP32-S3 Feather 8MB Flash / no PSRAM](https://www.adafruit.com/product/5323) | 1 Stemma QT | ESP32-S3, 8MB Flash, no PSRAM |
-| [ESP32-S3 Feather V2](https://www.adafruit.com/product/5400) | 1 Stemma QT | ESP32, 8MB Flash, 2MB PSRAM |
-| [ESP32-S3 Feather V2 with w.FL Antenna](https://www.adafruit.com/product/5400) | 1 Stemma QT | ESP32, 8MB Flash, 2MB PSRAM, w.FL antenna connection |
+| [ESP32-S2 Feather 4MB Flash / 2MB PSRAM](https://www.adafruit.com/product/5477) | 1 Stemma QT | ESP32-S2, 4MB Flash, 2MB PSRAM, WiFi |
+| [ESP32-S3 Feather 4MB Flash / 2MB PSRAM](https://www.adafruit.com/product/5477) | 1 Stemma QT | ESP32-S3, 4MB Flash, 2MB PSRAM, WiFi |
+| [ESP32-S3 Feather 8MB Flash / no PSRAM](https://www.adafruit.com/product/5323) | 1 Stemma QT | ESP32-S3, 8MB Flash, no PSRAM, WiFi |
+| [ESP32-S3 Feather 8MB Flash w.FL Antenna](https://www.adafruit.com/product/5885) | 1 Stemma QT | ESP32-S3, 8MB Flash, no PSRAM, WiFi |
+| [ESP32-S3 Feather V2](https://www.adafruit.com/product/5400) | 1 Stemma QT | ESP32, 8MB Flash, 2MB PSRAM, WiFi |
+| [ESP32-S3 Feather V2 with w.FL Antenna](https://www.adafruit.com/product/5400) | 1 Stemma QT | ESP32, 8MB Flash, 2MB PSRAM, w.FL antenna connection for WiFi |
 | [Feather RP2040](https://www.adafruit.com/product/4900) | 1 Stemma QT | RP2040, 8MB SPI Flash, 264KB RAM, USB-C |
 | [Feather RP2040 with RFM95 LoRa Radio](https://www.adafruit.com/product/5714) | 1 Stemma QT | RP2040, 8MB SPI Flash, 264KB RAM, 868MHz or 915MHz LoRa, USB-C |
 | [Feather RP2040 CAN Bus Feather](https://www.adafruit.com/product/5724) | 1 Stemma QT | RP2040, 8MB SPI Flash, 264KB RAM, MCP2515 CAN Controller, USB-C |
