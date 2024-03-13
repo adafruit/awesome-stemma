@@ -175,6 +175,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [SHTC3](https://www.adafruit.com/product/4636) | 2 Stemma QT | Sensirion Temperature & Humidity Sensor |
 | [SHT31-D](https://www.adafruit.com/product/2857) | 2 Stemma QT | Sensirion Temperature & Humidity Sensor |
 | [SHT40](https://www.adafruit.com/product/4885) | 2 Stemma QT | Sensirion Temperature & Humidity Sensor |
+| [SHT41](https://www.adafruit.com/product/5776) | 2 Stemma QT | Sensirion Temperature & Humidity Sensor |
 | [SHT45](https://www.adafruit.com/product/5665) | 2 Stemma QT | Sensirion Precision Temperature & Humidity Sensor |
 | [Si7021](https://www.adafruit.com/product/3251) | 2 Stemma QT | Temperature & Humidity Sensor |
 | [STEMMA Soil Sensor](https://www.adafruit.com/product/4026) | 1 Stemma | Capacitive I2C smart soil sensor |
