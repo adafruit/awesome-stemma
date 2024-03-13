@@ -244,6 +244,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [AW9523 GPIO Expander and LED Driver](https://www.adafruit.com/product/4886) | 2 Stemma QT | 16 I/O pins, four I2C address options |
 | [PCF8574 I2C GPIO Expander](https://www.adafruit.com/product/5545) | 2 Stemma QT | 8 I/O pins, three I2C address options |
 | [PCF8575 I2C GPIO Expander](https://www.adafruit.com/product/5611) | 2 Stemma QT | 16 I/O pins, multiple I2C address options |
+| [MCP23017 I2C GPIO Expander Breakout](https://www.adafruit.com/product/5346) | 2 Stemma QT | 16 I/O pins, 8 I2C address options |
 | [MCP23017 I2C GPIO Expander Raspberry Pi Bonnet](https://www.adafruit.com/product/4132) | 2 Stemma QT | 16 I/O pins, 8 I2C address options |
 | [MAX17048 LiPoly / LiIon Fuel Gauge and Battery Monitor](https://www.adafruit.com/product/5580) | 2 Stemma QT | Voltage and percentage |
 | [LC709203F LiPoly / LiIon Fuel Gauge and Battery Monitor](https://www.adafruit.com/product/4712) | 2 Stemma QT | Voltage and percentage |
