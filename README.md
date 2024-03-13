@@ -301,6 +301,11 @@ Note: lengths are approximate
 |---|---|---|
 | Adafruit | [ISO1540 Bidirectional I2C Isolator](https://www.adafruit.com/product/4903) | 2 Stemma QT connectors, TI ISO1540 is fully bi-directional, supports up to 1 MHz clock rates, supports clock-stretching, works with 3 to 5V DC power or logic (separate on either side), with 2500 V-RMS isolation |
 
+### I2C Level Booster
+| Vendor | Item | Features |
+|---|---|---|
+| Adafruit | [QT 3V to 5V Level Booster Breakout](https://www.adafruit.com/product/5649) | 2 Stemma QT connectors, 3V to 5V signal level booster |
+
 ### Connectors
 
 | Vendor | Item | Quantity |
