@@ -254,7 +254,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [PC Joystick to seesaw I2C Adapter](https://www.adafruit.com/product/5753) | 2 Stemma QT | Read 15 pin D-Sub PC joystick to I2C |
 | [I2CMini by Excamera Labs](https://www.adafruit.com/product/4970) | 1 Stemma QT | USB to I2C interface |
 
-### Adafruit Displays, EYESPI Connectivity and Touch Controllers
+### Adafruit Displays, Display Connectivity and Touch Controllers
 
 | Display | Stemma Connectors | Features |
 |---|---|---|
@@ -274,6 +274,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [Monochrome E-Ink Bonnet](https://www.adafruit.com/product/4687) | 1 Stemma QT | 250x122 pixel, 2.13", mono eInk for Raspberry Pi |
 | [E-Ink Gizmo](https://www.adafruit.com/product/4428) | 2x 3 pin Stemma | 152x152 pixel, 1.54", tricolor, round for Circuit Playground |
 | [EYESPI Pi Beret - Buttons, EYESPI and STEMMA QT](https://www.adafruit.com/product/5783) | 1 Stemma QT | Raspberry Pi connectivity for Stemma QT and EYESPI display |
+| [TFP401 HDMI/DVI Decoder to 40-Pin TTL Breakout - With Touch](https://www.adafruit.com/product/2219) | 1 Stemma QT | Mini HDMI decoder board to TTL display interface |
 | [Matrix Portal](https://www.adafruit.com/product/4745) | 1x 3 pin Stemma | LED Matrix Driver Board with ATSAMD51 + ESP32 |
 | [Pimoroni Interstate 75 - RP2040 LED Matrix Driver - PIM584](https://www.adafruit.com/product/5342) | 1 Stemma QT | HUB75 LED matrix driver with RP2040 |
 | [IS31FL3741 13x9 PWM RGB LED Matrix Driver](https://www.adafruit.com/product/5201) | 2 Stemma QT | 117 RGB LEDs, 2x2mm in size, in a 13x9 grid with 3mm pitch spacing |
