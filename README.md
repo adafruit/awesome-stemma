@@ -137,6 +137,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [LSM6DS33 + LIS3MDL](https://www.adafruit.com/product/4485) | 2 Stemma QT | 9 DoF IMU with accelerometer, gyroscope, magnetometer DISCONTINUED |
 | [LSM6DSOX](https://www.adafruit.com/product/4438) | 2 Stemma QT | An I2C/SPI 6 DoF accelerometer and gyroscope |
 | [LSM6DSOX + LIS3MDL](https://www.adafruit.com/product/4517) | 2 Stemma QT | Precision 9 DoF IMU |
+| [LSM6DSOX + LIS3MDL FeatherWing](https://www.adafruit.com/product/4565) | 2 Stemma QT | Precision 9 DoF IMU |
 | [LSM9DS1](https://www.adafruit.com/product/4634) | 2 Stemma QT | 9-DOF sensor |
 | [LSM303AGR](https://www.adafruit.com/product/4413) | 2 Stemma QT | Triple-axis accelerometer/magnetometer compass module |
 | [LTR-329](https://www.adafruit.com/product/5591) | 2 Stemma QT | Light Sensor |
