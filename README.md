@@ -284,6 +284,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [Adafruit Qwiic / Stemma QT 5 Port Hub](https://www.adafruit.com/product/5625) | 5 Stemma QT / Qwiic | Distribution hub |
 | [SeeedStudio Grove Shield FeatherWing for Particle Mesh and all Feathers](https://www.adafruit.com/product/4309) | 8 Grove | 3x Grove Analog, 2x Grove Digital, 2x Grove I2C/Stemma, 1x Grove UART |
 | [SparkFun Qwiik / Stemma QT FeatherWing](https://www.adafruit.com/product/4515) | 4 Qwiic / Stemma QT | Feather processor form factor (FeatherWing) |
+| [Binho Qwiic / Stemma QT Interface Board](https://www.adafruit.com/product/4461) | 4 Qwiic / Stemma QT | Binho ribbon cable to Qwiic/Stemma QT connections in Feather format |
 | [Binho Qwiic / Stemma QT Interface Board](https://www.adafruit.com/product/4462) | 4 Qwiic / Stemma QT | Binho ribbon cable to Qwiic/Stemma QT connections |
 | [SparkFun Stemma QT / Qwiic Mux Breakout - 8 Channel](https://www.adafruit.com/product/4704) | 8 Qwiic / Stemma QT | Connect 8 devices to one address |
 | [SparkFun Qwiic / STEMMA QT HAT for Raspberry Pi](https://www.adafruit.com/product/4688) | 4 Qwiic / Stemma QT | Raspberry Pi GPIO 4 port I2C breakout |
