@@ -191,6 +191,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [MOSFET Driver](https://www.adafruit.com/product/5648) | 1 Stemma | For driving motors, solenoids, LEDs, etc. |
 | [Analog SPDT Switch](https://www.adafruit.com/product/5892) | 1 Stemma | MAX4544 SPDT analog switch for signals up to 12V |
 | [Stemma Speaker](https://www.adafruit.com/product/3885) | 1 Stemma | A class D audio amplifier and an oval speaker |
+| [ScoutMakes FM Radio](https://www.adafruit.com/product/5651) | 2 Stemma QT | RDA5807 based FM radio |
 | [Mini Relay, Nonlatching](https://www.adafruit.com/product/4409) | 1 Stemma | A single pole/double throw relay up to 250V AC or DC |
 | [NeoPixel Strip](https://www.adafruit.com/product/3919) | 1 Stemma | 60 pixels per meter density, 30 pixels 0.5 meter |
 | [NeoPixel Driver BFF Add-On for QT Py and Xiao](https://www.adafruit.com/product/5645) | 1 Stemma | Easily connect a NeoPixel Strip with Stemma to QT Py/Xiao |
