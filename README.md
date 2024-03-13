@@ -74,8 +74,9 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [QT Py RP2040](https://www.adafruit.com/product/4900) | 1 Stemma QT | RP2040, 8MB SPI Flash, 264KB RAM, USB-C |
 | [QT Py S3](https://www.adafruit.com/product/5700) | 1 Stemma QT | ESP32-S3, 4MB Flash, 512MB SRAM, 2MB PSRAM | 
 | [QT Py ESP32 Pico](https://www.adafruit.com/product/5395) | 1 Stemma QT | ESP32, 8MB Flash, 2MB PSRAM, WiFi | 
-| [QT Py ESP32-S2 with uFL Antenna](https://www.adafruit.com/product/5348) | 1 Stemma QT | ESP32-S2, 4MB Flash, 2MB PSRAM, WiFi | 
-| [ESP32-S2 Feather 4MB Flash / 2MB PSRAM](https://www.adafruit.com/product/5477) | 1 Stemma QT | ESP32-S2, 4MB Flash, 2MB PSRAM, WiFi |
+| [QT Py ESP32-S2 with uFL Antenna](https://www.adafruit.com/product/5348) | 1 Stemma QT | ESP32-S2, 4MB Flash, 2MB PSRAM, WiFi |
+| [ESP32 Feather V2 with Headers - 8MB Flash + 2 MB PSRAM](https://www.adafruit.com/product/5900) | 1 Stemma QT | ESP32, 8MB Flash, 2MB PSRAM, WiFi |
+| [ESP32-S2 Feather 4MB Flash / 2MB PSRAM](https://www.adafruit.com/product/5300) | 1 Stemma QT | ESP32-S2, 4MB Flash, 2MB PSRAM, WiFi |
 | [ESP32-S3 Feather 4MB Flash / 2MB PSRAM](https://www.adafruit.com/product/5477) | 1 Stemma QT | ESP32-S3, 4MB Flash, 2MB PSRAM, WiFi |
 | [ESP32-S3 Feather 8MB Flash / no PSRAM](https://www.adafruit.com/product/5323) | 1 Stemma QT | ESP32-S3, 8MB Flash, no PSRAM, WiFi |
 | [ESP32-S3 Feather 8MB Flash w.FL Antenna](https://www.adafruit.com/product/5885) | 1 Stemma QT | ESP32-S3, 8MB Flash, no PSRAM, WiFi |
