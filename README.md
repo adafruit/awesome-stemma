@@ -278,6 +278,7 @@ Note: lengths are approximate
 | Adafruit | [Stemma 3 wire - male headers](https://www.adafruit.com/product/3893) | 200mm | 3-pin JST PH female | 0.1" male pin headers |
 | Adafruit | [Stemma -  4 Male Pin Headers](https://www.adafruit.com/product/3955) | 200mm | 4-pin JST PH |  0.1" male pin headers |
 | Adafruit | [Stemma -  4 Female Pin Headers](https://www.adafruit.com/product/3894) | 200mm | 4-pin JST PH |  0.1" female pin headers |
+| Adafruit | [Stemma QT - Micro SMT Test Hooks](https://www.adafruit.com/product/5037) | - | 4-pin JST PH | Micro SMT Test Hooks |
 
 ### Breakouts
 
