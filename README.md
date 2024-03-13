@@ -210,6 +210,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [MAX17048 LiPoly / LiIon Fuel Gauge and Battery Monitor](https://www.adafruit.com/product/5580) | 2 Stemma QT | Voltage and percentage |
 | [LC709203F LiPoly / LiIon Fuel Gauge and Battery Monitor](https://www.adafruit.com/product/4712) | 2 Stemma QT | Voltage and percentage |
 | [CYBERDECK HAT for Raspberry Pi 400](https://www.adafruit.com/product/4863) | 2x Stemma / 1x Stemma QT | Extend GPIO, room for a display |
+| [PiCowbell Proto for Pico](https://www.adafruit.com/product/5200) | 2 Stemma QT | Reset Button & STEMMA QT |
 
 ### Adafruit Displays
 
