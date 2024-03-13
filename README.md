@@ -136,6 +136,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [LSM303AGR](https://www.adafruit.com/product/4413) | 2 Stemma QT | Triple-axis accelerometer/magnetometer compass module |
 | [LTR390](https://www.adafruit.com/product/4831) | 2 Stemma QT | UV Light Sensor |
 | [MCP9808](https://www.adafruit.com/product/5027) | 2 Stemma QT | High Accuracy I2C Temperature Sensor Breakout |
+| [MLX90393](https://www.adafruit.com/product/4022) | 2 Stemma QT | Wide-Range Triple-axis Magnetometer |
 | [MLX90640](https://www.adafruit.com/product/4407) | 2 Stemma QT | Thermal Camera Breakout - 55 Degree FoV |
 | [MLX90640](https://www.adafruit.com/product/4469) | 2 Stemma QT | Thermal Camera Breakout - 110 Degree FoV |
 | [MMC5603](https://www.adafruit.com/product/5579) | 2 Stemma QT | Triple-axis Magnetometer |
