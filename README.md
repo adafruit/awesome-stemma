@@ -286,6 +286,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [Binho Qwiic / Stemma QT Interface Board](https://www.adafruit.com/product/4462) | 4 Qwiic / Stemma QT | Binho ribbon cable to Qwiic/Stemma QT connections |
 | [SparkFun Stemma QT / Qwiic Mux Breakout - 8 Channel](https://www.adafruit.com/product/4704) | 8 Qwiic / Stemma QT | Connect 8 devices to one address |
 | [SparkFun Qwiic / STEMMA QT HAT for Raspberry Pi](https://www.adafruit.com/product/4688) | 4 Qwiic / Stemma QT | Raspberry Pi GPIO 4 port I2C breakout |
+| [Piunora Pro Carrier for Raspberry Pi 4 Module by Diodes Delight](https://www.adafruit.com/product/5404) | 1 Stemma QT | Raspberry Pi 4CM carrier and breakout |
 
 ### Qwiic Boards from SparkFun
 
