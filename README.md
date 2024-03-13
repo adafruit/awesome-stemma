@@ -236,7 +236,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [PiCowbell Adalogger for Pico - MicroSD, RTC](https://www.adafruit.com/product/5703) | 1 Stemma QT | MicroSD card slot, real-time clock, backup battery holder |
 | [PiCowbell CAN Bus for Pico](https://www.adafruit.com/product/5728) | 1 Stemma QT | MCP2515 CAN Controller and TJA1051/3 transceiver |
 
-### Adafruit Displays
+### Adafruit Displays and Touch Controllers
 
 | Display | Stemma Connectors | Features |
 |---|---|---|
@@ -251,7 +251,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [Monochrome OLED Display](https://www.adafruit.com/product/938) | 1 Stemma QT | 128x64 1.3" monochrome OLED  |
 | [Monochrome OLED Display FeatherWing](https://www.adafruit.com/product/4650) | 1 Stemma QT | 128x64 1.3" monochrome OLED  |
 | [2.8" TFT Touch Shield for Arduino with Resistive Touch Screen v2](https://www.adafruit.com/product/1651) | 1 Stemma QT | 2.8" 240x320 color TFT display with Resistive Touch Screen |
-| [I2C / SPI Character LCD Backpack](https://www.adafruit.com/product/292) |  1 Stemma QT | Works with 20x4 or 16x2 LCD displays (but not 16x2 OLED) |
+| [TSC2007 I2C Resistive Touch Screen Controller](https://www.adafruit.com/product/5423) | 2 Stemma QT | I2C Resistive Touch Screen Controller |
 | [TFT Gizmo](https://www.adafruit.com/product/4367) | 2x 3 pin Stemma | 240x240 pixel, 1.54", round for Circuit Playground |
 | [E-Ink Gizmo](https://www.adafruit.com/product/4428) | 2x 3 pin Stemma | 152x152 pixel, 1.54", tricolor, round for Circuit Playground |
 | [Matrix Portal](https://www.adafruit.com/product/4745) | 1x 3 pin Stemma | LED Matrix Driver Board with ATSAMD51 + ESP32 |
@@ -259,6 +259,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [Quad Alphanumeric Display backpack](https://www.adafruit.com/product/1910) | 2 Stemma QT | For four 0.54" height digits - backpack only |
 | [Quad Alphanumeric Display 4 Digits](https://www.adafruit.com/product/1911) | 2 Stemma QT | Five single color displays available, 0.54" height digits backpack + displays to solder on |
 | [Quad Alphanumeric Display 4 Digits Assembled](https://www.adafruit.com/product/5599) | 2 Stemma QT | Five single color displays available, 0.54" height digits, backpack+display assembled |
+| [I2C / SPI Character LCD Backpack](https://www.adafruit.com/product/292) |  1 Stemma QT | Works with 20x4 or 16x2 LCD displays (but not 16x2 OLED) |
 
 ### Processor to Stemma/Grove/Qwiic Breakout Boards
 
