@@ -188,12 +188,13 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [High Power Infrared LED Emitter](https://www.adafruit.com/product/5639) | 1 Stemma | Two high powered ultraviolet LED outputs |
 | [Tactile Push Buttons](https://www.adafruit.com/product/4431) | 1 Stemma each | Pack of 5 breakaway tactile buttons |
 | [Mini I2C Gamepad with seesaw](https://www.adafruit.com/product/5743) | 1 Stemma QT | 2-axis thumb joystick and 6 momentary buttons (4 large and 2 small) |
-| [NeoKey 1x4 QT I2C - Four Mechanical Key Switches with NeoPixels](https://www.adafruit.com/product/4980) | 2 Stemma QT | Four Cherry MX or compatible keys (not included) + NeoPixels |
+| [NeoKey 1x4 QT I2C - Four Mechanical Key Switches with NeoPixels](https://www.adafruit.com/product/4980) | 2 Stemma QT | Four Mechanical Key Switches with 4 NeoPixels |
 | [Wii Nunchuck Breakout Adapter](https://www.adafruit.com/product/4836) | 2 Stemma QT | Wii Nunchuck I2C breakout |
 | [Micro Servo](https://www.adafruit.com/product/4326) | 1 Stemma | Standard micro servo with Stemma connector |
 | [10K Analog Linear Potentiometer](https://www.adafruit.com/product/4493) | 1 Stemma | Wired Potentiometer Breakout Board with a 10K ohm linear taper |
 | [DS1841 10K Digital Log Potentiometer](https://www.adafruit.com/product/4570) | 2 Stemma QT | Digital 10K ohm logarithmic taper potentiometer |
 | [DS3502 10K Digital Linear Potentiometer](https://www.adafruit.com/product/4286) | 2 Stemma QT | Digital 10K ohm linear taper potentiometer |
+| [NeoSlider I2C QT Slide Potentiometer with 4 NeoPixels](https://www.adafruit.com/product/5295) | 2 Stemma QT | I2C slide potentiometer + 4 NeoPixels |
 | [Rotary Encoder Breakout without Encoder](https://www.adafruit.com/product/4991) | 2 Stemma QT | Rotary Encoder (without encoder) |
 | [Rotary Encoder Breakout with Encoder](https://www.adafruit.com/product/5880) | 2 Stemma QT | Rotary Encoder (with encoder soldered) |
 | [Quad Rotary Encoder Breakout without Encoders](https://www.adafruit.com/product/5752) | 2 Stemma QT | Four rotary encoder to I2C (encoders not included) |
@@ -219,6 +220,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [AW9523 GPIO Expander and LED Driver](https://www.adafruit.com/product/4886) | 2 Stemma QT | 16 I/O pins, four I2C address options |
 | [PCF8574 I2C GPIO Expander](https://www.adafruit.com/product/5545) | 2 Stemma QT | 8 I/O pins, three I2C address options |
 | [PCF8575 I2C GPIO Expander](https://www.adafruit.com/product/5611) | 2 Stemma QT | 16 I/O pins, multiple I2C address options |
+| [MCP23017 I2C GPIO Expander Raspberry Pi Bonnet](https://www.adafruit.com/product/4132) | 2 Stemma QT | 16 I/O pins, 8 I2C address options |
 | [MAX17048 LiPoly / LiIon Fuel Gauge and Battery Monitor](https://www.adafruit.com/product/5580) | 2 Stemma QT | Voltage and percentage |
 | [LC709203F LiPoly / LiIon Fuel Gauge and Battery Monitor](https://www.adafruit.com/product/4712) | 2 Stemma QT | Voltage and percentage |
 | [CYBERDECK HAT for Raspberry Pi 400](https://www.adafruit.com/product/4863) | 2x Stemma / 1x Stemma QT | Extend GPIO, room for a display |
