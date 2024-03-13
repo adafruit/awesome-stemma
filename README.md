@@ -242,12 +242,13 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [ST25DV16K RFID EEPROM](https://www.adafruit.com/product/4701) | 2 Stemma QT | I2C ISO/IEC 15693 (13.56MHz) RFID EEPROM |
 | [Audio Amp - Mono 2.5W Class D](https://www.adafruit.com/product/5647) | 1 Stemma | Mono amplifier able to deliver up to 2.5 Watts into 4-8 ohm impedance speakers |
 | [Piezo Driver Amp - PAM8904](https://www.adafruit.com/product/5791) | 1 Stemma | PAM8904-based piezo (buzzer) driver |
-| [ADS7830 8-Channel 8-Bit ADC](https://www.adafruit.com/product/5836) | 2 Stemma QT | 8-Channel 8-Bit ADC with I2C |
+| [AD5693R 16-Bit DAC with I2C Interface](https://www.adafruit.com/product/5811) | 2 Stemma QT | 16 bit DAC temperature compensated 2.5V internal reference |
+| [MCP4728 Quad DAC](https://www.adafruit.com/product/4470) | 2 Stemma QT | Four 12-bit DACs with integrated EEPROM for settings |
 | [PCF8591 DAC](https://www.adafruit.com/product/4648) | 2 Stemma QT | Quad 8-bit ADC + 8-bit DAC |
 | [MCP3421 ADC](https://www.adafruit.com/product/5870) | 2 Stemma QT | 18-Bit ADC | 
-| [MCP4728 Quad DAC](https://www.adafruit.com/product/4470) | 2 Stemma QT | Four 12-bit DACs with integrated EEPROM for settings |
-| [MCP9601 (MCP96L01) I2C Thermocouple Amplifier](https://www.adafruit.com/product/5165) | 2 Stemma QT | Works with K, J, T, N, S, E, B, and R type thermocouples |
 | [NAU7802 24-Bit ADC](https://www.adafruit.com/product/4538) | 2 Stemma QT | 24-bit ADC |
+| [ADS7830 8-Channel 8-Bit ADC](https://www.adafruit.com/product/5836) | 2 Stemma QT | 8-Channel 8-Bit ADC with I2C |
+| [MCP9601 (MCP96L01) I2C Thermocouple Amplifier](https://www.adafruit.com/product/5165) | 2 Stemma QT | Works with K, J, T, N, S, E, B, and R type thermocouples |
 | [TCA8418 Keypad Matrix and GPIO Expander](https://www.adafruit.com/product/4918) | 2 Stemma QT | Up to 18 total 'I/O' pins, 10 columns and 8 rows |
 | [AW9523 GPIO Expander and LED Driver](https://www.adafruit.com/product/4886) | 2 Stemma QT | 16 I/O pins, four I2C address options |
 | [PCF8574 I2C GPIO Expander](https://www.adafruit.com/product/5545) | 2 Stemma QT | 8 I/O pins, three I2C address options |
