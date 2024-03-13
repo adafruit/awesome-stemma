@@ -267,6 +267,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [Quad Alphanumeric Display backpack](https://www.adafruit.com/product/1910) | 2 Stemma QT | For four 0.54" height digits - backpack only |
 | [Quad Alphanumeric Display 4 Digits](https://www.adafruit.com/product/1911) | 2 Stemma QT | Five single color displays available, 0.54" height digits backpack + displays to solder on |
 | [Quad Alphanumeric Display 4 Digits Assembled](https://www.adafruit.com/product/5599) | 2 Stemma QT | Five single color displays available, 0.54" height digits, backpack+display assembled |
+| [1.2" 8x8 LED Matrix Backpack](https://www.adafruit.com/product/1048) | 2 Stemma QT | 8x8 LED driver backpack (no display included) |
 | [I2C / SPI Character LCD Backpack](https://www.adafruit.com/product/292) |  1 Stemma QT | Works with 20x4 or 16x2 LCD displays (but not 16x2 OLED) |
 
 ### Processor to Stemma/Grove/Qwiic Breakout Boards
