@@ -295,6 +295,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | Adafruit | [QT 3V to 5V Level Booster Breakout](https://www.adafruit.com/product/5649) | 2 Stemma QT | 3V to 5V signal level booster |
 | Adafruit | [QT 5V to 3V Level Shifter Breakout](https://www.adafruit.com/product/5637) | 2 Stemma QT | 5V to 3V signal level shifter |
 | Adafruit | [TCA4307 Hot-Swap I2C Buffer with Stuck Bus Recovery](https://www.adafruit.com/product/5159) | 2 Stemma QT | Hot-plug buffer |
+| SparkFun | [STEMMA QT / Qwiic TCA9548A Mux Breakout - 8 Channel](https://www.adafruit.com/product/4704) | 10 Stemma QT | TCA9548A Multiplexer 2 upstream, 8 downstream |
 
 ### Cables
 
@@ -334,6 +335,7 @@ Note: lengths are approximate
 | SparkFun | [Stemma QT/Qwiic Shim for Raspberry Pi](https://www.adafruit.com/product/4463) | Press fit Raspberry Pi GPIO to Stemma QT/Qwiic connector |
 | SparkFun | [Qwiic pHAT v2.0 for Raspberry Pi](https://www.adafruit.com/product/5142) | 4 port Qwiic / Stemma QT + power for Raspberry Pi header |
 | SparkFun | [SparkFun Qwiic / STEMMA QT HAT for Raspberry Pi](https://www.adafruit.com/product/4688 ) | 4 port Qwiic / Stemma QT for Raspberry Pi header |
+| SparkFun | [SparkFun Qwiic / Stemma QT FeatherWing (Shield for Thing Plus)](https://www.adafruit.com/product/4515) | 4 port Qwiic / Stemma QT with Feather pinout |
 
 ### Connectors
 
