@@ -108,6 +108,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [BNO085](https://www.adafruit.com/product/4754) | 2 Stemma QT | 9-DOF Orientation IMU Fusion |
 | [DPS310](https://www.adafruit.com/product/4494) | 2 Stemma QT | Precision Barometric Pressure / Altitude Sensor |
 | [DS3502](https://www.adafruit.com/product/4286) | 2 Stemma QT | I2C Digital 10K Potentiometer |
+| [ENS160](https://www.adafruit.com/product/5606) | 2 Stemma QT | MOX Gas Sensor - Sciosense CCS811 Upgrade |
 | [H3LIS331](https://www.adafruit.com/product/4627) | 2 Stemma QT | Ultra High Range Triple-Axis Accelerometer |
 | [HTS221](https://www.adafruit.com/product/4535) | 2 Stemma QT | Temperature & Humidity Sensor Breakout Board |
 | [INA219](https://www.adafruit.com/product/904) | 2 Stemma QT | High Side DC Current Sensor Breakout - 26V ±3.2A Max |
