@@ -287,26 +287,15 @@ Note: lengths are approximate
 | SparkFun | [Stemma QT / Qwiic Adapter](https://www.adafruit.com/product/4527) | 2 Qwiic / Stemma QT connectors, pinouts for SCL/SDA/3V/GND |
 | SparkFun | [Stemma QT/Qwiic Shim for Raspberry Pi](https://www.adafruit.com/product/4463) | Press fit Raspberry Pi GPIO to Stemma QT/Qwiic connector |
 
-### I2C Extenders
-| Vendor | Item | Features |
-|---|---|---|
-| Adafruit | [LTC4311 I2C Extender / Active Terminator](https://www.adafruit.com/product/4756) | 2 Stemma QT connectors, terminates and extends I2C bus |
-
-### I2C Multiplexers
-| Vendor | Item | Features |
-|---|---|---|
-| Adafruit | [PCA9546 8-Channel STEMMA QT / Qwiic I2C Multiplexer - TCA9546A Compatible](https://www.adafruit.com/product/5626) | 5 Stemma QT connectors, provides 4 channel control of I2C devices with same address |
-| Adafruit | [PCA9548 8-Channel STEMMA QT / Qwiic I2C Multiplexer - TCA9548A Compatible](https://www.adafruit.com/product/5626) | 9 Stemma QT connectors, provides 8 channel control of I2C devices with same address |
-
-### I2C Isolators
-| Vendor | Item | Features |
-|---|---|---|
-| Adafruit | [ISO1540 Bidirectional I2C Isolator](https://www.adafruit.com/product/4903) | 2 Stemma QT connectors, TI ISO1540 is fully bi-directional, supports up to 1 MHz clock rates, supports clock-stretching, works with 3 to 5V DC power or logic (separate on either side), with 2500 V-RMS isolation |
-
-### I2C Level Booster
-| Vendor | Item | Features |
-|---|---|---|
-| Adafruit | [QT 3V to 5V Level Booster Breakout](https://www.adafruit.com/product/5649) | 2 Stemma QT connectors, 3V to 5V signal level booster |
+### I2C Active Accessories
+| Vendor | Item | Connectors | Features |
+|---|---|---|---|
+| Adafruit | [LTC4311 I2C Extender / Active Terminator](https://www.adafruit.com/product/4756) | 2 Stemma QT | Terminates and extends I2C bus |
+| Adafruit | [PCA9546 8-Channel STEMMA QT / Qwiic I2C Multiplexer - TCA9546A Compatible](https://www.adafruit.com/product/5626) | 5 Stemma QT | Provides 4 channel control of I2C devices with same address |
+| Adafruit | [PCA9548 8-Channel STEMMA QT / Qwiic I2C Multiplexer - TCA9548A Compatible](https://www.adafruit.com/product/5626) | 9 Stemma QT | Provides 8 channel control of I2C devices with same address |
+| Adafruit | [ISO1540 Bidirectional I2C Isolator](https://www.adafruit.com/product/4903) | 2 Stemma QT | TI ISO1540 is fully bi-directional, supports up to 1 MHz clock rates, supports clock-stretching, works with 3 to 5V DC power or logic (separate on either side), with 2500 V-RMS isolation |
+| Adafruit | [QT 3V to 5V Level Booster Breakout](https://www.adafruit.com/product/5649) | 2 Stemma QT | 3V to 5V signal level booster |
+| Adafruit | [TCA4307 Hot-Swap I2C Buffer with Stuck Bus Recovery](https://www.adafruit.com/product/5159) | 2 Stemma QT | Hot-plug buffer |
 
 ### Connectors
 
