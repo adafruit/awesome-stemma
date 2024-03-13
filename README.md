@@ -260,6 +260,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [E-Ink Gizmo](https://www.adafruit.com/product/4428) | 2x 3 pin Stemma | 152x152 pixel, 1.54", tricolor, round for Circuit Playground |
 | [EYESPI Pi Beret - Buttons, EYESPI and STEMMA QT](https://www.adafruit.com/product/5783) | 1 Stemma QT | Raspberry Pi connectivity for Stemma QT and EYESPI display |
 | [Matrix Portal](https://www.adafruit.com/product/4745) | 1x 3 pin Stemma | LED Matrix Driver Board with ATSAMD51 + ESP32 |
+| [Pimoroni Interstate 75 - RP2040 LED Matrix Driver - PIM584](https://www.adafruit.com/product/5342) | 1 Stemma QT | HUB75 LED matrix driver with RP2040 |
 | [IS31FL3741 13x9 PWM RGB LED Matrix Driver](https://www.adafruit.com/product/5201) | 2 Stemma QT | 117 RGB LEDs, 2x2mm in size, in a 13x9 grid with 3mm pitch spacing |
 | [Quad Alphanumeric Display backpack](https://www.adafruit.com/product/1910) | 2 Stemma QT | For four 0.54" height digits - backpack only |
 | [Quad Alphanumeric Display 4 Digits](https://www.adafruit.com/product/1911) | 2 Stemma QT | Five single color displays available, 0.54" height digits backpack + displays to solder on |
