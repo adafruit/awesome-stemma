@@ -84,8 +84,9 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [ESP32-S3 Feather 4MB Flash / 2MB PSRAM](https://www.adafruit.com/product/5477) | 1 Stemma QT | ESP32-S3, 4MB Flash, 2MB PSRAM, WiFi |
 | [ESP32-S3 Feather 8MB Flash / no PSRAM](https://www.adafruit.com/product/5323) | 1 Stemma QT | ESP32-S3, 8MB Flash, no PSRAM, WiFi |
 | [ESP32-S3 Feather 8MB Flash w.FL Antenna](https://www.adafruit.com/product/5885) | 1 Stemma QT | ESP32-S3, 8MB Flash, no PSRAM, WiFi |
-| [ESP32-S3 Feather V2](https://www.adafruit.com/product/5400) | 1 Stemma QT | ESP32, 8MB Flash, 2MB PSRAM, WiFi |
-| [ESP32-S3 Feather V2 with w.FL Antenna](https://www.adafruit.com/product/5400) | 1 Stemma QT | ESP32, 8MB Flash, 2MB PSRAM, w.FL antenna connection for WiFi |
+| [ESP32-S3 Feather V2](https://www.adafruit.com/product/5400) | 1 Stemma QT | ESP32-S3, 8MB Flash, 2MB PSRAM, WiFi |
+| [ESP32-S3 Feather V2 with w.FL Antenna](https://www.adafruit.com/product/5400) | 1 Stemma QT | ESP32-S3, 8MB Flash, 2MB PSRAM, w.FL antenna connection for WiFi |
+| [ESP32-S3 Reverse TFT Feather - 4MB Flash, 2MB PSRAM](https://www.adafruit.com/product/5691) | 1 Stemma QT | ESP32-S3 TFT LCD, 4MB Flash, 2MB PSRAM |
 | [Feather RP2040](https://www.adafruit.com/product/4900) | 1 Stemma QT | RP2040, 8MB SPI Flash, 264KB RAM, USB-C |
 | [Feather RP2040 with RFM95 LoRa Radio](https://www.adafruit.com/product/5714) | 1 Stemma QT | RP2040, 8MB SPI Flash, 264KB RAM, 868MHz or 915MHz LoRa, USB-C |
 | [Feather RP2040 with RFM69 Packet Radio RadioFruit](https://www.adafruit.com/product/5712) | 1 Stemma QT | RP2040, 8MB SPI Flash, 264KB RAM, 868MHz or 915MHz Packet Radio, USB-C |
@@ -277,6 +278,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [EYESPI Pi Beret - Buttons, EYESPI and STEMMA QT](https://www.adafruit.com/product/5783) | 1 Stemma QT | Raspberry Pi connectivity for Stemma QT and EYESPI display |
 | [TFP401 HDMI/DVI Decoder to 40-Pin TTL Breakout - With Touch](https://www.adafruit.com/product/2219) | 1 Stemma QT | Mini HDMI decoder board to TTL display interface |
 | [Matrix Portal](https://www.adafruit.com/product/4745) | 1x 3 pin Stemma | LED Matrix Driver Board with ATSAMD51 + ESP32 |
+| [Matrix Portal S3 Internet Display](https://www.adafruit.com/product/5778) | 1x Stemma QT, 1x Stemma | ESP32-S3, 8MB Flash, 2PM PSRAM, drives LED matrix displays |
 | [Pimoroni Interstate 75 - RP2040 LED Matrix Driver - PIM584](https://www.adafruit.com/product/5342) | 1 Stemma QT | HUB75 LED matrix driver with RP2040 |
 | [IS31FL3741 13x9 PWM RGB LED Matrix Driver](https://www.adafruit.com/product/5201) | 2 Stemma QT | 117 RGB LEDs, 2x2mm in size, in a 13x9 grid with 3mm pitch spacing |
 | [Quad Alphanumeric Display backpack](https://www.adafruit.com/product/1910) | 2 Stemma QT | For four 0.54" height digits - backpack only |
