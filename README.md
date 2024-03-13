@@ -200,6 +200,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [NeoPixel Strip](https://www.adafruit.com/product/3919) | 1 Stemma | 60 pixels per meter density, 30 pixels 0.5 meter |
 | [NeoPixel Driver BFF Add-On for QT Py and Xiao](https://www.adafruit.com/product/5645) | 1 Stemma | Easily connect a NeoPixel Strip with Stemma to QT Py/Xiao |
 | [NeoTrellis RGB Driver PCB for 4x4 Keypad](https://www.adafruit.com/product/3954) | 1 Stemma | 4x4 elastomer button and RGB LED controller |
+| [LED Glasses Front Panel - 116 RGB LEDs with I2C Driver](https://www.adafruit.com/product/5210) | 2 Stemma QT | 116 arranged 2x2mm RGB LEDs using an IS31FL3741 I2C Driver |
 | [16x9 Charlieplexed PWM LED Matrix Driver - IS31FL3731](https://www.adafruit.com/product/2946) | 2 Stemma QT | I2C LED driver to PWM LEDs in a 16x9 grid |
 | [High Power Infrared LED Emitter](https://www.adafruit.com/product/5639) | 1 Stemma | Two high powered ultraviolet LED outputs |
 | [LED Arcade Button 1x4 - STEMMA QT I2C Breakout](https://www.adafruit.com/product/5296) | 2 Stemma QT, 8 x JST XH | 4 arcade button connections, 4 button LED connections |
@@ -287,6 +288,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [SparkFun Stemma QT / Qwiic Mux Breakout - 8 Channel](https://www.adafruit.com/product/4704) | 8 Qwiic / Stemma QT | Connect 8 devices to one address |
 | [SparkFun Qwiic / STEMMA QT HAT for Raspberry Pi](https://www.adafruit.com/product/4688) | 4 Qwiic / Stemma QT | Raspberry Pi GPIO 4 port I2C breakout |
 | [Piunora Pro Carrier for Raspberry Pi 4 Module by Diodes Delight](https://www.adafruit.com/product/5404) | 1 Stemma QT | Raspberry Pi 4CM carrier and breakout |
+| [Piunora Lite Carrier for Raspberry Pi 4 Module by Diodes Delight](https://www.adafruit.com/product/5403) | 1 Stemma QT | Raspberry Pi 4CM carrier and breakout |
 
 ### Qwiic Boards from SparkFun
 
