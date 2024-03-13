@@ -217,7 +217,6 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [PCF8575 I2C GPIO Expander](https://www.adafruit.com/product/5611) | 2 Stemma QT | 16 I/O pins, multiple I2C address options |
 | [MAX17048 LiPoly / LiIon Fuel Gauge and Battery Monitor](https://www.adafruit.com/product/5580) | 2 Stemma QT | Voltage and percentage |
 | [LC709203F LiPoly / LiIon Fuel Gauge and Battery Monitor](https://www.adafruit.com/product/4712) | 2 Stemma QT | Voltage and percentage |
-| [SparkFun Qwiic or Stemma QT SHIM for Raspberry Pi / SBC](https://www.adafruit.com/product/4463) | 1 Stemma QT / Qwiic | Small add-on to header providing a Qwiic / Stemma QT port |
 | [CYBERDECK HAT for Raspberry Pi 400](https://www.adafruit.com/product/4863) | 2x Stemma / 1x Stemma QT | Extend GPIO, room for a display |
 | [PiCowbell Proto for Pico](https://www.adafruit.com/product/5200) | 2 Stemma QT | Reset Button & STEMMA QT |
 | [PiCowbell Adalogger for Pico - MicroSD, RTC](https://www.adafruit.com/product/5703) | 1 Stemma QT | MicroSD card slot, real-time clock, backup battery holder |
@@ -268,6 +267,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | Adafruit | [PCA9548 8-Channel STEMMA QT / Qwiic I2C Multiplexer - TCA9548A Compatible](https://www.adafruit.com/product/5626) | 9 Stemma QT | Provides 8 channel control of I2C devices with same address |
 | Adafruit | [ISO1540 Bidirectional I2C Isolator](https://www.adafruit.com/product/4903) | 2 Stemma QT | TI ISO1540 is fully bi-directional, supports up to 1 MHz clock rates, supports clock-stretching, works with 3 to 5V DC power or logic (separate on either side), with 2500 V-RMS isolation |
 | Adafruit | [QT 3V to 5V Level Booster Breakout](https://www.adafruit.com/product/5649) | 2 Stemma QT | 3V to 5V signal level booster |
+| Adafruit | [QT 5V to 3V Level Booster Breakout](https://www.adafruit.com/product/5637) | 2 Stemma QT | 5V to 3V signal level booster |
 | Adafruit | [TCA4307 Hot-Swap I2C Buffer with Stuck Bus Recovery](https://www.adafruit.com/product/5159) | 2 Stemma QT | Hot-plug buffer |
 
 ### Cables
