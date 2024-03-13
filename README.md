@@ -148,7 +148,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [LPS33HW](https://www.adafruit.com/product/4414) | 2 Stemma QT | Water resistant pressure sensor |
 | [LSM6DS3TR-C](https://www.adafruit.com/product/4503) | 2 Stemma QT | 6-DoF Accel + Gyro IMU |
 | [LSM6DS3TR-C + LIS3MDL](https://www.adafruit.com/product/5543) | 2 Stemma QT | Precision 9 DoF IMU |
-| [LSM6DS33](https://www.adafruit.com/product/4480) | 2 Stemma QT | 6 DoF IMU accelerometer + gyroscope |
+| [LSM6DS33](https://www.adafruit.com/product/4480) | 2 Stemma QT | 6 DoF IMU accelerometer + gyroscope DISCONTINUED |
 | [LSM6DS33 + LIS3MDL](https://www.adafruit.com/product/4485) | 2 Stemma QT | 9 DoF IMU with accelerometer, gyroscope, magnetometer DISCONTINUED |
 | [LSM6DSOX](https://www.adafruit.com/product/4438) | 2 Stemma QT | An I2C/SPI 6 DoF accelerometer and gyroscope |
 | [LSM6DSOX + LIS3MDL](https://www.adafruit.com/product/4517) | 2 Stemma QT | Precision 9 DoF IMU |
@@ -262,6 +262,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [PiCowbell Adalogger for Pico - MicroSD, RTC](https://www.adafruit.com/product/5703) | 1 Stemma QT | MicroSD card slot, real-time clock, backup battery holder |
 | [PiCowbell CAN Bus for Pico](https://www.adafruit.com/product/5728) | 1 Stemma QT | MCP2515 CAN Controller and TJA1051/3 transceiver |
 | [Proto Under Plate PiCowBell for Pico](https://www.adafruit.com/product/5905) | 1 Stemma QT | Reset Button & STEMMA QT |
+| []() | 
 | [PC Joystick to seesaw I2C Adapter](https://www.adafruit.com/product/5753) | 2 Stemma QT | Read 15 pin D-Sub PC joystick to I2C |
 | [I2CMini by Excamera Labs](https://www.adafruit.com/product/4970) | 1 Stemma QT | USB to I2C interface |
 
