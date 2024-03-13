@@ -122,6 +122,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [LPS22HB](https://www.adafruit.com/product/4633) |  2 Stemma QT | Pressure Sensor 260 to 1260 hPa, 24-bit, 75Hz |
 | [LPS25HB](https://www.adafruit.com/product/4530) | 2 Stemma QT | Pressure Sensor 260-1260 hPa, 24-bit, 25Hz |
 | [LPS33HW](https://www.adafruit.com/product/4414) | 2 Stemma QT | Water resistant pressure sensor |
+| [LSM6DS3TR-C](https://www.adafruit.com/product/4503) | 2 Stemma QT | 6-DoF Accel + Gyro IMU |
 | [LSM6DS33](https://www.adafruit.com/product/4480) | 2 Stemma QT | 6 DoF IMU accelerometer + gyroscope |
 | [LSM6DS33 + LIS3MDL](https://www.adafruit.com/product/4485) | 2 Stemma QT | 9 DoF IMU with accelerometer, gyroscope, magnetometer DISCONTINUED |
 | [LSM6DSOX](https://www.adafruit.com/product/4438) | 2 Stemma QT | An I2C/SPI 6 DoF accelerometer and gyroscope |
