@@ -162,6 +162,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [TSL2591](https://www.adafruit.com/product/1980) | 2 Stemma  | High dynamic range digital light sensor |
 | [VCNL4040](https://www.adafruit.com/product/4161) | 2 Stemma QT | Proximity and Lux sensor |
 | [VEML7700](https://www.adafruit.com/product/4162) | 2 Stemma QT | Lux Sensor - I2C Light Sensor |
+| [VEML7700](https://www.adafruit.com/product/5378) | 2 Stemma QT | Right Angle Lux Sensor - I2C Light Sensor |
 | [VL53L0X](https://www.adafruit.com/product/3317) | 2 Stemma QT | Time of Flight Distance Sensor - ~30 to 1000mm |
 | [VL53L1X](https://www.adafruit.com/product/3967) | 2 Stemma QT | Time of Flight Distance Sensor - ~30 to 4000mm |
 | [VL53L4CD](https://www.adafruit.com/product/5396) | 2 Stemma QT | Time of Flight Distance Sensor - ~1 to 1300mm |
