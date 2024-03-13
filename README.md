@@ -161,6 +161,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [TMP235](https://www.adafruit.com/product/4686) | 1 Stemma | Analog Temperature Sensor |
 | [TSL2561](https://www.adafruit.com/product/3611) | 1 Stemma  | Digital lux / light sensor |
 | [TSL2591](https://www.adafruit.com/product/1980) | 2 Stemma  | High dynamic range digital light sensor |
+| [VCNL4020](https://www.adafruit.com/product/5810) | 2 Stemma QT | Proximity and Light Sensor |
 | [VCNL4040](https://www.adafruit.com/product/4161) | 2 Stemma QT | Proximity and Lux sensor |
 | [VEML7700](https://www.adafruit.com/product/4162) | 2 Stemma QT | Lux Sensor - I2C Light Sensor |
 | [VEML7700](https://www.adafruit.com/product/5378) | 2 Stemma QT | Right Angle Lux Sensor - I2C Light Sensor |
