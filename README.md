@@ -240,7 +240,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [PiCowbell Adalogger for Pico - MicroSD, RTC](https://www.adafruit.com/product/5703) | 1 Stemma QT | MicroSD card slot, real-time clock, backup battery holder |
 | [PiCowbell CAN Bus for Pico](https://www.adafruit.com/product/5728) | 1 Stemma QT | MCP2515 CAN Controller and TJA1051/3 transceiver |
 
-### Adafruit Displays and Touch Controllers
+### Adafruit Displays, EYESPI Connectivity and Touch Controllers
 
 | Display | Stemma Connectors | Features |
 |---|---|---|
@@ -249,7 +249,6 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [OLED Graphics](https://www.adafruit.com/product/938) | 2 Stemma QT | 128x64, 1.3" monochrome OLED breakout |
 | [Mini PiTFT](https://www.adafruit.com/product/4484) | 1 Stemma QT | 240x240 pixel, 1.3", Raspberry Pi connector, 2 buttons |
 | [Mini PiTFT](https://www.adafruit.com/product/4393) | 1 Stemma QT | 135x240 pixel, 1.14", Raspberry Pi connector |
-| [Monochrome E-Ink Bonnet](https://www.adafruit.com/product/4687) | 1 Stemma QT | 250x122 pixel, 2.13", mono eInk for Raspberry Pi |
 | [Color TFT Bonnet](https://www.adafruit.com/product/4506) | 1 Stemma QT | 240x240 pixel, 1.3" color TFT, Joystick, for Raspberry Pi |
 | [Monochrome OLED Bonnet](https://www.adafruit.com/product/4567) | 1 Stemma QT | 128x32 2.23" mono OLED for Raspberry Pi |
 | [Monochrome OLED Display](https://www.adafruit.com/product/938) | 1 Stemma QT | 128x64 1.3" monochrome OLED  |
@@ -257,7 +256,9 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [2.8" TFT Touch Shield for Arduino with Resistive Touch Screen v2](https://www.adafruit.com/product/1651) | 1 Stemma QT | 2.8" 240x320 color TFT display with Resistive Touch Screen |
 | [TSC2007 I2C Resistive Touch Screen Controller](https://www.adafruit.com/product/5423) | 2 Stemma QT | I2C Resistive Touch Screen Controller |
 | [TFT Gizmo](https://www.adafruit.com/product/4367) | 2x 3 pin Stemma | 240x240 pixel, 1.54", round for Circuit Playground |
+| [Monochrome E-Ink Bonnet](https://www.adafruit.com/product/4687) | 1 Stemma QT | 250x122 pixel, 2.13", mono eInk for Raspberry Pi |
 | [E-Ink Gizmo](https://www.adafruit.com/product/4428) | 2x 3 pin Stemma | 152x152 pixel, 1.54", tricolor, round for Circuit Playground |
+| [EYESPI Pi Beret - Buttons, EYESPI and STEMMA QT](https://www.adafruit.com/product/5783) | 1 Stemma QT | Raspberry Pi connectivity for Stemma QT and EYESPI display |
 | [Matrix Portal](https://www.adafruit.com/product/4745) | 1x 3 pin Stemma | LED Matrix Driver Board with ATSAMD51 + ESP32 |
 | [IS31FL3741 13x9 PWM RGB LED Matrix Driver](https://www.adafruit.com/product/5201) | 2 Stemma QT | 117 RGB LEDs, 2x2mm in size, in a 13x9 grid with 3mm pitch spacing |
 | [Quad Alphanumeric Display backpack](https://www.adafruit.com/product/1910) | 2 Stemma QT | For four 0.54" height digits - backpack only |
