@@ -136,6 +136,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [LSM6DSOX + LIS3MDL](https://www.adafruit.com/product/4517) | 2 Stemma QT | Precision 9 DoF IMU |
 | [LSM9DS1](https://www.adafruit.com/product/4634) | 2 Stemma QT | 9-DOF sensor |
 | [LSM303AGR](https://www.adafruit.com/product/4413) | 2 Stemma QT | Triple-axis accelerometer/magnetometer compass module |
+| [LTR-329](https://www.adafruit.com/product/5591) | 2 Stemma QT | Light Sensor |
 | [LTR390](https://www.adafruit.com/product/4831) | 2 Stemma QT | UV Light Sensor |
 | [MCP9808](https://www.adafruit.com/product/5027) | 2 Stemma QT | High Accuracy I2C Temperature Sensor Breakout |
 | [MLX90393](https://www.adafruit.com/product/4022) | 2 Stemma QT | Wide-Range Triple-axis Magnetometer |
