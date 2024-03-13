@@ -235,6 +235,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [Monochrome OLED Bonnet](https://www.adafruit.com/product/4567) | 1 Stemma QT | 128x32 2.23" mono OLED for Raspberry Pi |
 | [Monochrome OLED Display](https://www.adafruit.com/product/938) | 1 Stemma QT | 128x64 1.3" monochrome OLED  |
 | [Monochrome OLED Display FeatherWing](https://www.adafruit.com/product/4650) | 1 Stemma QT | 128x64 1.3" monochrome OLED  |
+| [2.8" TFT Touch Shield for Arduino with Resistive Touch Screen v2](https://www.adafruit.com/product/1651) | 1 Stemma QT | 2.8" 240x320 color TFT display with Resistive Touch Screen |
 | [I2C / SPI Character LCD Backpack](https://www.adafruit.com/product/292) |  1 Stemma QT | Works with 20x4 or 16x2 LCD displays (but not 16x2 OLED) |
 | [TFT Gizmo](https://www.adafruit.com/product/4367) | 2x 3 pin Stemma | 240x240 pixel, 1.54", round for Circuit Playground |
 | [E-Ink Gizmo](https://www.adafruit.com/product/4428) | 2x 3 pin Stemma | 152x152 pixel, 1.54", tricolor, round for Circuit Playground |
