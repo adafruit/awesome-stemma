@@ -163,6 +163,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [STEMMA Soil Sensor](https://www.adafruit.com/product/4026) | 1 Stemma | Capacitive I2C smart soil sensor |
 | [TLV493D](https://www.adafruit.com/product/4366) | 2 Stemma QT | Triple-Axis magnetometer |
 | [TMP235](https://www.adafruit.com/product/4686) | 1 Stemma | Analog Temperature Sensor |
+| [TSC2007](https://www.adafruit.com/product/5423) | 2 Stemma QT | I2C Resistive Touch Screen Controller |
 | [TSL2561](https://www.adafruit.com/product/3611) | 1 Stemma  | Digital lux / light sensor |
 | [TSL2591](https://www.adafruit.com/product/1980) | 2 Stemma  | High dynamic range digital light sensor |
 | [VCNL4020](https://www.adafruit.com/product/5810) | 2 Stemma QT | Proximity and Light Sensor |
