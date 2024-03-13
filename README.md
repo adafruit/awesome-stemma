@@ -172,6 +172,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [SCD-41](https://www.adafruit.com/product/5190) | 2 Stemma QT | True CO2 Temperature and Humidity Sensor |
 | [SGP40](https://www.adafruit.com/product/4829) | 2 Stemma QT | Air Quality Sensor Breakout - VOC Index |
 | [SHTC3](https://www.adafruit.com/product/4636) | 2 Stemma QT | Sensirion Temperature & Humidity Sensor |
+| [SHT31-D](https://www.adafruit.com/product/2857) | 2 Stemma QT | Sensirion Temperature & Humidity Sensor |
 | [SHT40](https://www.adafruit.com/product/4885) | 2 Stemma QT | Sensirion Temperature & Humidity Sensor |
 | [SHT45](https://www.adafruit.com/product/5665) | 2 Stemma QT | Sensirion Precision Temperature & Humidity Sensor |
 | [Si7021](https://www.adafruit.com/product/3251) | 2 Stemma QT | Temperature & Humidity Sensor |
