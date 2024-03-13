@@ -190,6 +190,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [NeoTrellis RGB Driver PCB for 4x4 Keypad](https://www.adafruit.com/product/3954) | 1 Stemma | 4x4 elastomer button and RGB LED controller |
 | [16x9 Charlieplexed PWM LED Matrix Driver - IS31FL3731](https://www.adafruit.com/product/2946) | 2 Stemma QT | I2C LED driver to PWM LEDs in a 16x9 grid |
 | [High Power Infrared LED Emitter](https://www.adafruit.com/product/5639) | 1 Stemma | Two high powered ultraviolet LED outputs |
+| [LED Arcade Button 1x4 - STEMMA QT I2C Breakout](https://www.adafruit.com/product/5296) | 2 Stemma QT, 8 x JST XH | 4 arcade button connections, 4 button LED connections |
 | [Tactile Push Buttons](https://www.adafruit.com/product/4431) | 1 Stemma each | Pack of 5 breakaway tactile buttons |
 | [Mini I2C Gamepad with seesaw](https://www.adafruit.com/product/5743) | 1 Stemma QT | 2-axis thumb joystick and 6 momentary buttons (4 large and 2 small) |
 | [NeoKey 1x4 QT I2C - Four Mechanical Key Switches with NeoPixels](https://www.adafruit.com/product/4980) | 2 Stemma QT | Four Mechanical Key Switches with 4 NeoPixels |
