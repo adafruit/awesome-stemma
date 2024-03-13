@@ -96,6 +96,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [ADT7410](https://www.adafruit.com/product/4089) | 2 Stemma QT | High Accuracy I2C Temperature Sensor |
 | [ADXL343](https://www.adafruit.com/product/4097) | 2 Stemma QT | Triple-Axis Accelerometer (+-2g/4g/8g/16g) with I2C/SPI |
 | [ADXL345](https://www.adafruit.com/product/1231) | 2 Stemma QT | Triple-Axis Accelerometer (+-2g/4g/8g/16g) with I2C/SPI |
+| [ADXL375](https://www.adafruit.com/product/5374) | 2 Stemma QT | High G Accelerometer (+-200g) with I2C and SPI |
 | [AHT20](https://www.adafruit.com/product/4566) | 2 Stemma QT | Temperature & Humidity Sensor |
 | [APDS9960](https://www.adafruit.com/product/3595) | 2 Stemma QT | Proximity, Light, RGB, and Gesture Sensor |
 | [AS7341](https://www.adafruit.com/product/4698) | 2 Stemma QT | 10-Channel Light / Color Sensor |
