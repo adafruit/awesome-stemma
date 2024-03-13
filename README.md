@@ -66,6 +66,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [Metro Mini 328 V2](https://www.adafruit.com/product/2590) | 1 Stemma QT | ATmega328, 32KB Flash, 32KB RAM, 5V, 16 MHz |
 | [Metro ESP32-S2](https://www.adafruit.com/product/4775) | 1 Stemma QT | ESP32-S2, 4MB Flash, 512MB SRAM, 2MB PSRAM, WiFi | 
 | [Metro ESP32-S3](https://www.adafruit.com/product/5500) | 1 Stemma QT | ESP32-S3, 16MB Flash, 512MB SRAM, 8MB PSRAM, WiFi | 
+| [Metro M7 with microSD - Featuring NXP iMX RT1011](https://www.adafruit.com/product/5600) | 1 Stemma QT | iMX RT1011, 8MB QSPI, 128 KB SRAM, microSD |
 | [CLUE nRF52840 Express](https://www.adafruit.com/product/4500) | 1 Stemma QT | nRF52840, 1MB Flash, 256KB RAM, 2MB Ext. Flash |
 | [QT Py SAMD21/M0](https://www.adafruit.com/product/4600) | 1 Stemma QT | SAMD21, 256KB Flash, 32KB RAM, USB-C |
 | [QT Py RP2040](https://www.adafruit.com/product/4900) | 1 Stemma QT | RP2040, 8MB SPI Flash, 264KB RAM, USB-C |
