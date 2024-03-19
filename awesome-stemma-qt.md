@@ -241,7 +241,6 @@ You can find the up to date list of Adafruit Stemma QT hardware [on Adafruit](ht
 | [2.8" TFT Touch Shield for Arduino with Resistive Touch Screen v2](https://www.adafruit.com/product/1651) | 1 Stemma QT | 2.8" 240x320 color TFT display with Resistive Touch Screen |
 | [TFT FeatherWing - 3.5" 480x320 Capacitive Touchscreen](https://www.adafruit.com/product/5872) | 1 Stemma QT | 3.5" 480x320 color TFT, Capacitive Touchscreen, FeatherWing |
 | [TSC2007 I2C Resistive Touch Screen Controller](https://www.adafruit.com/product/5423) | 2 Stemma QT | I2C Resistive Touch Screen Controller |
-
 | [Monochrome E-Ink Bonnet](https://www.adafruit.com/product/4687) | 1 Stemma QT | 250x122 pixel, 2.13", mono eInk for Raspberry Pi |
 | [EYESPI Pi Beret - Buttons, EYESPI and STEMMA QT](https://www.adafruit.com/product/5783) | 1 Stemma QT | Raspberry Pi connectivity for Stemma QT and EYESPI display |
 | [TFP401 HDMI/DVI Decoder to 40-Pin TTL Breakout - With Touch](https://www.adafruit.com/product/2219) | 1 Stemma QT | Mini HDMI decoder board to TTL display interface |
