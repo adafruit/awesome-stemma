@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="380" src="https://github.com/adafruit/awesome-stemma/blob/master/graphic/awesome-stemma.jpg" alt="Awesome Stemma"><br>Awesome Stemma
+  <img width="380" src="https://github.com/adafruit/awesome-stemma/blob/master/graphics/stemma.jpg" alt="Awesome Stemma"><br>Awesome Stemma
 </h1>
 
 > A curated list of awesome Stemma connector resources including Stemma-equipped microcontrollers and breakout boards.
