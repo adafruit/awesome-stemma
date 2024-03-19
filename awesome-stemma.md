@@ -32,18 +32,18 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 
 | Microcontroller Board | Stemma Connectors | Features |
 |---|---|---|
-| [PyBadge](https://www.adafruit.com/product/4200) | 1x Stemma QT, 2x 3 pin Stemma | ATSAMD51J19, 512KB of Flash, 192KB RAM, 2MB Ext. Flash |
-| [EdgeBadge](https://www.adafruit.com/product/4400) | 1x Stemma QT, 2x 3 pin Stemma | ATSAMD51J19, 512KB of Flash, 192KB RAM, 2MB Ext. Flash |
-| [PyGamer](https://www.adafruit.com/product/4242) | 1x Stemma QT, 2x 3 pin Stemma | ATSAMD51J19, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
-| [PyPortal](https://www.adafruit.com/product/4116) | 1x Stemma QT, 2x 3 pin Stemma | ATSAMD51J20/ESP32, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
-| [PyPortal Titano](https://www.adafruit.com/product/4444) | 1x Stemma QT, 2x 3 pin Stemma | ATSAMD51J20/ESP32, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
-| [PyPortal Pynt](https://www.adafruit.com/product/4465) | 1x Stemma QT, 2x 3 pin Stemma | ATSAMD51J20/ESP32, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
-| [MagTag - 2.9" Grayscale E-Ink WiFi Display](https://www.adafruit.com/product/4800) | 1x Stemma QT, 2x Stemma | ESP32-S2, 2.9" grayscale eInk 296x128, WiFi |
+| [PyBadge](https://www.adafruit.com/product/4200) | 1 Stemma QT, 2 3 pin Stemma | ATSAMD51J19, 512KB of Flash, 192KB RAM, 2MB Ext. Flash |
+| [EdgeBadge](https://www.adafruit.com/product/4400) | 1 Stemma QT, 2 3 pin Stemma | ATSAMD51J19, 512KB of Flash, 192KB RAM, 2MB Ext. Flash |
+| [PyGamer](https://www.adafruit.com/product/4242) | 1 Stemma QT, 2 3 pin Stemma | ATSAMD51J19, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
+| [PyPortal](https://www.adafruit.com/product/4116) | 1 Stemma QT, 2 3 pin Stemma | ATSAMD51J20/ESP32, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
+| [PyPortal Titano](https://www.adafruit.com/product/4444) | 1 Stemma QT, 2 3 pin Stemma | ATSAMD51J20/ESP32, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
+| [PyPortal Pynt](https://www.adafruit.com/product/4465) | 1 Stemma QT, 2 3 pin Stemma | ATSAMD51J20/ESP32, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
+| [MagTag - 2.9" Grayscale E-Ink WiFi Display](https://www.adafruit.com/product/4800) | 1 Stemma QT, 2 Stemma | ESP32-S2, 2.9" grayscale eInk 296x128, WiFi |
 | [NeoTrellis M4 Mainboard](https://www.adafruit.com/product/3938) | 1x 4 pin Stemma | ATSAMD51, 512KB Flash 192KB RAM, 8MB SPI Flash, 4x8 NeoPixels |
-| [MONSTER M4SK](https://www.adafruit.com/product/4343) | 1x Stemma QT, 2x 3 pin Stemma | ATSAMD51G19, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
-| [HalloWing M4 Express](https://www.adafruit.com/product/4300) | 1x Stemma QT, 2x 3 pin Stemma | ATSAMD51J19, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
-| [FunHouse - WiFi Home Automation Development Board](https://www.adafruit.com/product/4985) | 1x Stemma QT, 3 Stemma | ESP32-S2, 1.54" display, DPS310 & AHT20 sensors and more |
-| [MEMENTO Camera](https://www.adafruit.com/product/5420) | 1x Stemma QT, 2x 3 pin Stemma | ESP32-S3, 8MB Flash, 2MB PSRAM |
+| [MONSTER M4SK](https://www.adafruit.com/product/4343) | 1 Stemma QT, 2 3 pin Stemma | ATSAMD51G19, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
+| [HalloWing M4 Express](https://www.adafruit.com/product/4300) | 1 Stemma QT, 2 3 pin Stemma | ATSAMD51J19, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
+| [FunHouse - WiFi Home Automation Development Board](https://www.adafruit.com/product/4985) | 1 Stemma QT, 3 Stemma | ESP32-S2, 1.54" display, DPS310 & AHT20 sensors and more |
+| [MEMENTO Camera](https://www.adafruit.com/product/5420) | 1 Stemma QT, 2 3 pin Stemma | ESP32-S3, 8MB Flash, 2MB PSRAM |
 
 ### Adafruit Sensors with Stemma
 
@@ -51,7 +51,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 |---|---|---|
 | [STEMMA Soil Sensor](https://www.adafruit.com/product/4026) | 1 Stemma | Capacitive I2C smart soil sensor |
 | [TMP235](https://www.adafruit.com/product/4686) | 1 Stemma | Analog Temperature Sensor |
-| [TSL2561](https://www.adafruit.com/product/3611) | 1 Stemma  | Digital lux / light sensor |
+| [TSL2561](https://www.adafruit.com/product/3611) | 1 4-pin Stemma | Digital lux / light sensor DISCONTINUED |
 | [TSL2591](https://www.adafruit.com/product/1980) | 2 Stemma  | High dynamic range digital light sensor |
 
 ### Adafruit Devices
