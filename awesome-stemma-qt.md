@@ -1,3 +1,4 @@
+[Back to main page](./README.md)
 <h1 align="center">
   <img width="481" src="https://github.com/adafruit/awesome-stemma/blob/master/graphics/stemmaqt.jpg" alt="Awesome Stemma QT"><br>Awesome Stemma QT
 </h1>
