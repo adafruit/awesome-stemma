@@ -1,49 +1,18 @@
 <h1 align="center">
-  <img width="853" src="https://github.com/adafruit/awesome-stemma/blob/master/awesome-stemma.jpg" alt="Awesome Stemma"><br>Awesome Stemma
+  <img width="853" src="https://github.com/adafruit/awesome-stemma/blob/master/awesome-stemma-qt.jpg" alt="Awesome Stemma QT"><br>Awesome Stemma QT
 </h1>
 
-> A curated list of awesome Stemma connector resources including Stemma-equipped microcontrollers and breakout boards.
+> A curated list of awesome Stemma QT connector resources including Stemma QT-equipped microcontrollers, breakout boards and accessories.
 
+Adafruit Stemma QT is a collection of solderless I2C connection products based on JST SH 1mm 4-pin connectors. 
 
-https://user-images.githubusercontent.com/1685947/115119942-e746c980-9f78-11eb-87cb-2968e67819e4.mp4
-
-
-Adafruit Stemma is a collection of solderless digital/analog/power/I2C connection standards based on JST PH 3 and 4 pin connectors. For smaller footprint breakout boards, the JST SH 4 pin connector may be used for I2C connections.
-
-Stemma used the JST PH 2mm connector while Stemma QT uses the JST SH 1mm connector.
-
-Stemma equipped boards may be compatible with Seed Studio Grove connectors, SparkFun Qwiic connectors or DFRobot Gravity connectors. Cross-compatibility should be checked before interconnecting Stemma/Stemma QT boards with other manufacturer boards, as there could be connector incompatibilities or voltage issues (with Qwiic boards).
+For information on Stemma JST PH 2mm 3-pin connectors, see [Awesome Stemma](./awesome-stemma.md)
 
 ## Contents
 
-- [Stemma Compatible and Stemma-like Systems](#Stemma-Compatible-and-Stemma-like-Systems)
-- [Guides](#guides)
-- [Compatibility](#compatability)
 - [Stemma Hardware](#stemma-hardware)
+  - [Adafruit Microcontroller Boards with Stemma](#Adafruit-Microcontroller-Boards-with-Stemma)
 - [Accessories](#accessories)
-- [In the news](#news)
-- [Art, logos, graphics](#art)
-- [Social media](#social)
-- [Contributing](#contributing)
-
-## Stemma Compatible and Stemma-like Systems
-
-- [Stemma / Stemma QT](https://www.adafruit.com/category/1005) (Adafruit.com)
-- [Grove](https://www.seeedstudio.com/category/Grove-c-1003.html) (Seeedstudio.com)
-- [Qwiic](https://www.sparkfun.com/qwiic) (SparkFun.com)
-- [Gravity](https://www.dfrobot.com/index.php?route=page/gravity) (DFRobot.com)
-- [easyC](https://e-radionica.com/en/easyc-system.html) (e-radionica.com)
-
-## Guides
-
-- [Adafruit STEMMA and STEMMA QT](https://learn.adafruit.com/introducing-adafruit-stemma-qt) - Adafruit Learning System primary guide on all things Stemma
-- [Qwiic Tutorials](https://learn.sparkfun.com/tutorials/tags/qwiic) from SparkFun
-
-## Compatibility
-
-Stemma and Stemma QT have compatibility with similar connections used by manufacturers other than Adafruit. STEMMA attempts to be as cross-compatible as possible with both Grove, easyC and Gravity (compatible connectors & 3-5V power/logic). STEMMA QT is cross-compatible with Qwiic - STEMMA QT connector/cable is same as Qwiic. You can use STEMMA QT devices with Qwiic devices/controllers.
-
-See the chart on the Adafruit Stemma/StemmaQT Guide for the latest compatibility charts between Stemma, Stemma QT, Grove, Qwiic, and Gravity connections.
 
 ## Stemma Hardware
 
