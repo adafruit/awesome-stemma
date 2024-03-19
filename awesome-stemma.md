@@ -6,9 +6,9 @@
 
 ![Stemma](./graphics/stemma-circuit.png)
 
-Adafruit Stemma is a collection of solderless digital/analog/power/I2C connection standards based on JST PH 3 and 4 pin connectors. 
+Adafruit Stemma is a collection of solderless digital/analog/power connection standards based on JST PH 3 and 4 pin connectors. 
 
-Stemma used the JST PH 2mm connector while Stemma QT uses the JST SH 1mm connector.
+Stemma used the JST PH 2mm connector while Stemma QT uses the JST SH 1mm connector. For Stemma QT see [Awesome Stemma QT](./awesome-stemma-qt.md).
 
 Stemma equipped boards may be compatible with Seed Studio Grove connectors, 
 
