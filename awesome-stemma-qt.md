@@ -30,18 +30,18 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 
 | Microcontroller Board | Stemma Connectors | Features |
 |---|---|---|
-| [PyBadge](https://www.adafruit.com/product/4200) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51J19, 512KB of Flash, 192KB RAM, 2MB Ext. Flash |
-| [EdgeBadge](https://www.adafruit.com/product/4400) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51J19, 512KB of Flash, 192KB RAM, 2MB Ext. Flash |
-| [PyGamer](https://www.adafruit.com/product/4242) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51J19, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
-| [PyPortal](https://www.adafruit.com/product/4116) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51J20/ESP32, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
-| [PyPortal Titano](https://www.adafruit.com/product/4444) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51J20/ESP32, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
-| [PyPortal Pynt](https://www.adafruit.com/product/4465) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51J20/ESP32, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
+| [PyBadge](https://www.adafruit.com/product/4200) | 1x Stemma QT, 2x Stemma | ATSAMD51J19, 512KB of Flash, 192KB RAM, 2MB Ext. Flash |
+| [EdgeBadge](https://www.adafruit.com/product/4400) | 1x Stemma QT, 2x Stemma | ATSAMD51J19, 512KB of Flash, 192KB RAM, 2MB Ext. Flash |
+| [PyGamer](https://www.adafruit.com/product/4242) | 1x Stemma QT, 2x Stemma | ATSAMD51J19, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
+| [PyPortal](https://www.adafruit.com/product/4116) | 1x Stemma QT, 2x Stemma | ATSAMD51J20/ESP32, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
+| [PyPortal Titano](https://www.adafruit.com/product/4444) | 1x Stemma QT, 2x Stemma | ATSAMD51J20/ESP32, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
+| [PyPortal Pynt](https://www.adafruit.com/product/4465) | 1x Stemma QT, 2x Stemma | ATSAMD51J20/ESP32, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
 | [MagTag - 2.9" Grayscale E-Ink WiFi Display](https://www.adafruit.com/product/4800) | 1x Stemma QT, 2x Stemma | ESP32-S2, 2.9" grayscale eInk 296x128, WiFi |
-| [MONSTER M4SK](https://www.adafruit.com/product/4343) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51G19, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
-| [HalloWing M4 Express](https://www.adafruit.com/product/4300) | 1x 4 pin Stemma, 2x 3 pin Stemma | ATSAMD51J19, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
+| [MONSTER M4SK](https://www.adafruit.com/product/4343) | 1x Stemma QT, 2x Stemma | ATSAMD51G19, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
+| [HalloWing M4 Express](https://www.adafruit.com/product/4300) | 1x Stemma QT, 2x Stemma | ATSAMD51J19, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
 | [FunHouse - WiFi Home Automation Development Board](https://www.adafruit.com/product/4985) | 1x Stemma QT, 3 Stemma | ESP32-S2, 1.54" display, DPS310 & AHT20 sensors and more |
-| [MEMENTO Camera](https://www.adafruit.com/product/5420) | 1x 4 pin Stemma QT, 2x 3 pin Stemma | ESP32-S3, 8MB Flash, 2MB PSRAM |
-| [NeoTrellis M4](https://www.adafruit.com/product/3938) | 1x 4 pin Stemma | ATSAMD51G19, 512KB Flash, 192KB RAM, 8MB Ext. Flash |
+| [MEMENTO Camera](https://www.adafruit.com/product/5420) | 1x Stemma QT, 2x Stemma | ESP32-S3, 8MB Flash, 2MB PSRAM |
+| [NeoTrellis M4](https://www.adafruit.com/product/3938) | 1 Stemma QT | ATSAMD51G19, 512KB Flash, 192KB RAM, 8MB Ext. Flash |
 | [Metro Mini 328 V2](https://www.adafruit.com/product/2590) | 1 Stemma QT | ATmega328, 32KB Flash, 32KB RAM, 5V, 16 MHz |
 | [Metro ESP32-S2](https://www.adafruit.com/product/4775) | 1 Stemma QT | ESP32-S2, 4MB Flash, 512MB SRAM, 2MB PSRAM, WiFi | 
 | [Metro ESP32-S3](https://www.adafruit.com/product/5500) | 1 Stemma QT | ESP32-S3, 16MB Flash, 512MB SRAM, 8MB PSRAM, WiFi | 
@@ -178,28 +178,14 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 
 | Board | Stemma Connectors | Features |
 |---|---|---|
-| [Soil Sensor](https://www.adafruit.com/product/4026) | 1 Stemma | I2C capacitive moisture sensor |
 | [NeoDriver - I2C to NeoPixel Driver](https://www.adafruit.com/product/5766) | 2 Stemma QT | WS2812 / SK6812 to I2C driver |
-| [NeoRGB Stemma](https://www.adafruit.com/product/5888) | 1 Stemma | NeoPixel to RGB PWM LEDs and Strips |
-| [NeoTrellis RGB Driver](https://www.adafruit.com/product/3954) | 1 Stemma | Provides a 4x4 matrix of RGB NeoPixel lit elastomer keys |
-| [MOSFET Driver](https://www.adafruit.com/product/5648) | 1 Stemma | For driving motors, solenoids, LEDs, etc. |
-| [Analog SPDT Switch](https://www.adafruit.com/product/5892) | 1 Stemma | MAX4544 SPDT analog switch for signals up to 12V |
-| [Stemma Speaker](https://www.adafruit.com/product/3885) | 1 Stemma | A class D audio amplifier and an oval speaker |
 | [ScoutMakes FM Radio](https://www.adafruit.com/product/5651) | 2 Stemma QT | RDA5807 based FM radio |
-| [Mini Relay, Nonlatching](https://www.adafruit.com/product/4409) | 1 Stemma | A single pole/double throw relay up to 250V AC or DC |
-| [NeoPixel Strip](https://www.adafruit.com/product/3919) | 1 Stemma | 60 pixels per meter density, 30 pixels 0.5 meter |
-| [NeoPixel Driver BFF Add-On for QT Py and Xiao](https://www.adafruit.com/product/5645) | 1 Stemma | Easily connect a NeoPixel Strip with Stemma to QT Py/Xiao |
-| [NeoTrellis RGB Driver PCB for 4x4 Keypad](https://www.adafruit.com/product/3954) | 1 Stemma | 4x4 elastomer button and RGB LED controller |
 | [LED Glasses Front Panel - 116 RGB LEDs with I2C Driver](https://www.adafruit.com/product/5210) | 2 Stemma QT | 116 arranged 2x2mm RGB LEDs using an IS31FL3741 I2C Driver |
 | [16x9 Charlieplexed PWM LED Matrix Driver - IS31FL3731](https://www.adafruit.com/product/2946) | 2 Stemma QT | I2C LED driver to PWM LEDs in a 16x9 grid |
-| [High Power Infrared LED Emitter](https://www.adafruit.com/product/5639) | 1 Stemma | Two high powered ultraviolet LED outputs |
 | [LED Arcade Button 1x4 - STEMMA QT I2C Breakout](https://www.adafruit.com/product/5296) | 2 Stemma QT, 8 x JST XH | 4 arcade button connections, 4 button LED connections |
-| [Tactile Push Buttons](https://www.adafruit.com/product/4431) | 1 Stemma each | Pack of 5 breakaway tactile buttons |
 | [Mini I2C Gamepad with seesaw](https://www.adafruit.com/product/5743) | 1 Stemma QT | 2-axis thumb joystick and 6 momentary buttons (4 large and 2 small) |
 | [NeoKey 1x4 QT I2C - Four Mechanical Key Switches with NeoPixels](https://www.adafruit.com/product/4980) | 2 Stemma QT | Four Mechanical Key Switches with 4 NeoPixels |
 | [Wii Nunchuck Breakout Adapter](https://www.adafruit.com/product/4836) | 2 Stemma QT | Wii Nunchuck I2C breakout |
-| [Micro Servo](https://www.adafruit.com/product/4326) | 1 Stemma | Standard micro servo with Stemma connector |
-| [10K Analog Linear Potentiometer](https://www.adafruit.com/product/4493) | 1 Stemma | Wired Potentiometer Breakout Board with a 10K ohm linear taper |
 | [DS1841 10K Digital Log Potentiometer](https://www.adafruit.com/product/4570) | 2 Stemma QT | Digital 10K ohm logarithmic taper potentiometer |
 | [DS3502 10K Digital Linear Potentiometer](https://www.adafruit.com/product/4286) | 2 Stemma QT | Digital 10K ohm linear taper potentiometer |
 | [NeoSlider I2C QT Slide Potentiometer with 4 NeoPixels](https://www.adafruit.com/product/5295) | 2 Stemma QT | I2C slide potentiometer + 4 NeoPixels |
@@ -217,8 +203,6 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [ATECC608](https://www.adafruit.com/product/4314) | 2 Stemma QT | Crypto ECDH and AES-128, SHA-256/HMAC hash |
 | [24LC32 I2C EEPROM](https://www.adafruit.com/product/5146) | 2 Stemma QT | 32Kbit / 4KB storage |
 | [ST25DV16K RFID EEPROM](https://www.adafruit.com/product/4701) | 2 Stemma QT | I2C ISO/IEC 15693 (13.56MHz) RFID EEPROM |
-| [Audio Amp - Mono 2.5W Class D](https://www.adafruit.com/product/5647) | 1 Stemma | Mono amplifier able to deliver up to 2.5 Watts into 4-8 ohm impedance speakers |
-| [Piezo Driver Amp - PAM8904](https://www.adafruit.com/product/5791) | 1 Stemma | PAM8904-based piezo (buzzer) driver |
 | [AD5693R 16-Bit DAC with I2C Interface](https://www.adafruit.com/product/5811) | 2 Stemma QT | 16 bit DAC temperature compensated 2.5V internal reference |
 | [MCP4728 Quad DAC](https://www.adafruit.com/product/4470) | 2 Stemma QT | Four 12-bit DACs with integrated EEPROM for settings |
 | [PCF8591 DAC](https://www.adafruit.com/product/4648) | 2 Stemma QT | Quad 8-bit ADC + 8-bit DAC |
@@ -239,7 +223,6 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [PiCowbell Adalogger for Pico - MicroSD, RTC](https://www.adafruit.com/product/5703) | 1 Stemma QT | MicroSD card slot, real-time clock, backup battery holder |
 | [PiCowbell CAN Bus for Pico](https://www.adafruit.com/product/5728) | 1 Stemma QT | MCP2515 CAN Controller and TJA1051/3 transceiver |
 | [Proto Under Plate PiCowBell for Pico](https://www.adafruit.com/product/5905) | 1 Stemma QT | Reset Button & STEMMA QT |
-| []() | 
 | [PC Joystick to seesaw I2C Adapter](https://www.adafruit.com/product/5753) | 2 Stemma QT | Read 15 pin D-Sub PC joystick to I2C |
 | [I2CMini by Excamera Labs](https://www.adafruit.com/product/4970) | 1 Stemma QT | USB to I2C interface |
 
@@ -260,12 +243,10 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [2.8" TFT Touch Shield for Arduino with Resistive Touch Screen v2](https://www.adafruit.com/product/1651) | 1 Stemma QT | 2.8" 240x320 color TFT display with Resistive Touch Screen |
 | [TFT FeatherWing - 3.5" 480x320 Capacitive Touchscreen](https://www.adafruit.com/product/5872) | 1 Stemma QT | 3.5" 480x320 color TFT, Capacitive Touchscreen, FeatherWing |
 | [TSC2007 I2C Resistive Touch Screen Controller](https://www.adafruit.com/product/5423) | 2 Stemma QT | I2C Resistive Touch Screen Controller |
-| [TFT Gizmo](https://www.adafruit.com/product/4367) | 2x 3 pin Stemma | 240x240 pixel, 1.54", round for Circuit Playground |
+
 | [Monochrome E-Ink Bonnet](https://www.adafruit.com/product/4687) | 1 Stemma QT | 250x122 pixel, 2.13", mono eInk for Raspberry Pi |
-| [E-Ink Gizmo](https://www.adafruit.com/product/4428) | 2x 3 pin Stemma | 152x152 pixel, 1.54", tricolor, round for Circuit Playground |
 | [EYESPI Pi Beret - Buttons, EYESPI and STEMMA QT](https://www.adafruit.com/product/5783) | 1 Stemma QT | Raspberry Pi connectivity for Stemma QT and EYESPI display |
 | [TFP401 HDMI/DVI Decoder to 40-Pin TTL Breakout - With Touch](https://www.adafruit.com/product/2219) | 1 Stemma QT | Mini HDMI decoder board to TTL display interface |
-| [Matrix Portal](https://www.adafruit.com/product/4745) | 1x 3 pin Stemma | LED Matrix Driver Board with ATSAMD51 + ESP32 |
 | [Matrix Portal S3 Internet Display](https://www.adafruit.com/product/5778) | 1x Stemma QT, 1x Stemma | ESP32-S3, 8MB Flash, 2PM PSRAM, drives LED matrix displays |
 | [Pimoroni Interstate 75 - RP2040 LED Matrix Driver - PIM584](https://www.adafruit.com/product/5342) | 1 Stemma QT | HUB75 LED matrix driver with RP2040 |
 | [IS31FL3741 13x9 PWM RGB LED Matrix Driver](https://www.adafruit.com/product/5201) | 2 Stemma QT | 117 RGB LEDs, 2x2mm in size, in a 13x9 grid with 3mm pitch spacing |
@@ -316,26 +297,16 @@ Note: lengths are approximate
 | Vendor | Connector type(s) | Length | Connector 1 | Connector 2 |
 |---|---|---|---|---|
 | Adafruit | [Stemma QT - Stemma QT](https://www.adafruit.com/product/4399) | 50mm | 4-pin JST SH female | 4-pin JST SH female |
-| Adafruit | [Stemma - Stemma](https://www.adafruit.com/product/3568) | 100mm | 4-pin JST PH female |  4-pin JST PH female |
 | Adafruit | [Stemma QT - Stemma QT](https://www.adafruit.com/product/4210) | 100mm | 4-pin JST SH female | 4-pin JST SH female |
 | Adafruit | [5-pin Arduino MKR - Stemma QT](https://www.adafruit.com/product/4483) | 100mm | 5-pin JST SJ | 4-pin JST SH |
 | Adafruit | [Grove - Stemma QT/Qwiic](https://www.adafruit.com/product/4528) | 100mm | 4-pin JST-PH female | Grove 4 Pin |
-| Adafruit | [Stemma - Stemma](https://www.adafruit.com/product/4336) | 100mm | 3-pin JST PH female |  3-pin JST PH female |
-| Adafruit | [Stemma - Stemma](https://www.adafruit.com/product/3568) | 150mm | 4-pin JST PH female |  4-pin JST PH female |
 | Adafruit | [Stemma QT - Pin Header](https://www.adafruit.com/product/4397) | 150mm | 4-pin JST SH female | 4 Female pin header sockets |
 | Adafruit | [Stemma QT - Alligator clips](https://www.adafruit.com/product/4398) | 150mm | 4-pin JST SH | 4 Alligator Clips |
 | Adafruit | [Stemma QT -  4-pin JST PH female](https://www.adafruit.com/product/4209) | 150mm | 4-pin JST-PH female | 0.1" male pin headers |
-| Adafruit | [Stemma  - Alligator clips](https://www.adafruit.com/product/4030) | 195mm | 3-pin JST PH | 3 Alligator Clips |
-| Adafruit | [Stemma  - Alligator clips](https://www.adafruit.com/product/4029) | 195mm | 4-pin JST PH | 4 Alligator Clips |
 | Adafruit | [Stemma QT - Stemma QT](https://www.adafruit.com/product/4401) | 200mm | 4-pin JST SH female | 4-pin JST SH female |
 | Adafruit | [Stemma - Stemma QT](https://www.adafruit.com/product/4424) | 200mm  | 4-pin JST PH female | 4-pin JST SH female |
 | Adafruit | [Stemma - Stemma QT](https://www.adafruit.com/product/4424) | 200mm | 4-pin JST SH female | 4-pin JST SH female |
 | Adafruit | [Stemma QT - 4 Female Pin Headers](https://www.adafruit.com/product/3950) | 200mm | 4-pin JST-PH female | 0.1" female pin headers |
-| Adafruit | [Stemma 3 wire - leads](https://www.adafruit.com/product/4046) | 200mm | 3-pin JST PH male | 3 tinned wires |
-| Adafruit | [Stemma 4 wire socket - leads](https://www.adafruit.com/product/4045) | 200mm | 4-pin JST PH male socket | 4 color wires |
-| Adafruit | [Stemma 3 wire - male headers](https://www.adafruit.com/product/3893) | 200mm | 3-pin JST PH female | 0.1" male pin headers |
-| Adafruit | [Stemma -  4 Male Pin Headers](https://www.adafruit.com/product/3955) | 200mm | 4-pin JST PH | 0.1" male pin headers |
-| Adafruit | [Stemma -  4 Female Pin Headers](https://www.adafruit.com/product/3894) | 200mm | 4-pin JST PH | 0.1" female pin headers |
 | Adafruit | [Stemma QT - Stemma QT](https://www.adafruit.com/product/5384) | 300mm | 4-pin JST PH | 4-pin JST PH |
 | Adafruit | [Stemma QT - Stemma QT](https://www.adafruit.com/product/5385) | 400mm | 4-pin JST PH | 4-pin JST PH |
 | Adafruit | [Stemma QT - Micro SMT Test Hooks](https://www.adafruit.com/product/5037) | - | 4-pin JST PH | Micro SMT Test Hooks |
@@ -357,11 +328,6 @@ Note: lengths are approximate
 |---|---|---|
 | Adafruit | [JST SH 4-pin right angle connector](https://www.adafruit.com/product/4208) | 10 pack |
 | Adafruit | [JST SH 4-pin vertical connector](https://www.adafruit.com/product/4328) | 10 pack |
-| Adafruit | [JST PH 4-pin horizontal connector](https://www.adafruit.com/product/4392) | 10 pack |
-| Adafruit | [JST PH 3-pin vertical connector](https://www.adafruit.com/product/4389) | 10 pack |
-| Adafruit | [JST PH 4-pin vertical connector](https://www.adafruit.com/product/4390) | 10 pack |
-| Adafruit | [JST PH 3-pin horizontal connector](https://www.adafruit.com/product/4391) | 10 pack |
-| Adafruit | [JST PH 0.2mm connector kit](https://www.adafruit.com/product/4422) | 220 pieces |
 
 ## License & Trademarks
 
