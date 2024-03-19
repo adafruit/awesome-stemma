@@ -296,17 +296,15 @@ Note: lengths are approximate
 | Adafruit | [Stemma QT - Stemma QT](https://www.adafruit.com/product/4399) | 50mm | 4-pin JST SH female | 4-pin JST SH female |
 | Adafruit | [Stemma QT - Stemma QT](https://www.adafruit.com/product/4210) | 100mm | 4-pin JST SH female | 4-pin JST SH female |
 | Adafruit | [5-pin Arduino MKR - Stemma QT](https://www.adafruit.com/product/4483) | 100mm | 5-pin JST SJ | 4-pin JST SH |
-| Adafruit | [Grove - Stemma QT/Qwiic](https://www.adafruit.com/product/4528) | 100mm | 4-pin JST PH female | Grove 4 Pin |
+| Adafruit | [Grove - Stemma QT/Qwiic](https://www.adafruit.com/product/4528) | 100mm | 4-pin JST SH female | Grove 4 Pin |
 | Adafruit | [Stemma QT - Pin Header](https://www.adafruit.com/product/4397) | 150mm | 4-pin JST SH female | 4 Female pin header sockets |
 | Adafruit | [Stemma QT - Alligator clips](https://www.adafruit.com/product/4398) | 150mm | 4-pin JST SH | 4 Alligator Clips |
-| Adafruit | [Stemma QT -  4-pin JST PH female](https://www.adafruit.com/product/4209) | 150mm | 4-pin JST-PH female | 0.1" male pin headers |
+| Adafruit | [Stemma QT - pin header female](https://www.adafruit.com/product/4209) | 150mm | 4-pin JST-PH female | 0.1" male pin headers |
 | Adafruit | [Stemma QT - Stemma QT](https://www.adafruit.com/product/4401) | 200mm | 4-pin JST SH female | 4-pin JST SH female |
 | Adafruit | [Stemma - Stemma QT](https://www.adafruit.com/product/4424) | 200mm  | 4-pin JST PH female | 4-pin JST SH female |
-| Adafruit | [Stemma - Stemma QT](https://www.adafruit.com/product/4424) | 200mm | 4-pin JST PH female | 4-pin JST SH female |
-| Adafruit | [Stemma QT - 4 Female Pin Headers](https://www.adafruit.com/product/3950) | 200mm | 4-pin JST-PH female | 0.1" female pin headers |
-| Adafruit | [Stemma QT - Stemma QT](https://www.adafruit.com/product/5384) | 300mm | 4-pin JST PH | 4-pin JST PH |
-| Adafruit | [Stemma QT - Stemma QT](https://www.adafruit.com/product/5385) | 400mm | 4-pin JST PH | 4-pin JST PH |
-| Adafruit | [Stemma QT - Micro SMT Test Hooks](https://www.adafruit.com/product/5037) | - | 4-pin JST PH | Micro SMT Test Hooks |
+| Adafruit | [Stemma QT - Stemma QT](https://www.adafruit.com/product/5384) | 300mm | 4-pin JST SH | 4-pin JST SH |
+| Adafruit | [Stemma QT - Stemma QT](https://www.adafruit.com/product/5385) | 400mm | 4-pin JST SH | 4-pin JST SH |
+| Adafruit | [Stemma QT - Micro SMT Test Hooks](https://www.adafruit.com/product/5037) | - | 4-pin JST SH | Micro SMT Test Hooks |
 
 ### Breakouts
 
