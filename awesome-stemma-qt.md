@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="853" src="https://github.com/adafruit/awesome-stemma/blob/master/graphics/awesome-stemma-qt.jpg" alt="Awesome Stemma QT"><br>Awesome Stemma QT
+  <img width="853" src="https://github.com/adafruit/awesome-stemma/blob/master/graphics/stemmaqt.jpg" alt="Awesome Stemma QT"><br>Awesome Stemma QT
 </h1>
 
 > A curated list of awesome Stemma QT connector resources including Stemma QT-equipped microcontrollers, breakout boards and accessories.
