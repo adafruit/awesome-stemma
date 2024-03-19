@@ -2,7 +2,7 @@
   <img width="853" src="https://github.com/adafruit/awesome-stemma/blob/master/awesome-stemma.jpg" alt="Awesome Stemma"><br>Awesome Stemma
 </h1>
 
-> A curated list of awesome Stemma connector resources including Stemma-equipped microcontrollers and breakout boards.
+> A curated list of awesome Stemma and Stemma QT connector resources including Stemma-equipped microcontrollers, breakout boards and accessories.
 
 
 https://user-images.githubusercontent.com/1685947/115119942-e746c980-9f78-11eb-87cb-2968e67819e4.mp4
