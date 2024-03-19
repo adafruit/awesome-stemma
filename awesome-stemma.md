@@ -24,28 +24,9 @@ Stemma equipped boards may be compatible with Seed Studio Grove connectors. See 
 - [Social media](#social)
 - [Contributing](#contributing)
 
-## Stemma Compatible and Stemma-like Systems
-
-- [Stemma / Stemma QT](https://www.adafruit.com/category/1005) (Adafruit.com)
-- [Grove](https://www.seeedstudio.com/category/Grove-c-1003.html) (Seeedstudio.com)
-- [Qwiic](https://www.sparkfun.com/qwiic) (SparkFun.com)
-- [Gravity](https://www.dfrobot.com/index.php?route=page/gravity) (DFRobot.com)
-- [easyC](https://e-radionica.com/en/easyc-system.html) (e-radionica.com)
-
-## Guides
-
-- [Adafruit STEMMA and STEMMA QT](https://learn.adafruit.com/introducing-adafruit-stemma-qt) - Adafruit Learning System primary guide on all things Stemma
-- [Qwiic Tutorials](https://learn.sparkfun.com/tutorials/tags/qwiic) from SparkFun
-
-## Compatibility
-
-Stemma and Stemma QT have compatibility with similar connections used by manufacturers other than Adafruit. STEMMA attempts to be as cross-compatible as possible with both Grove, easyC and Gravity (compatible connectors & 3-5V power/logic). STEMMA QT is cross-compatible with Qwiic - STEMMA QT connector/cable is same as Qwiic. You can use STEMMA QT devices with Qwiic devices/controllers.
-
-See the chart on the Adafruit Stemma/StemmaQT Guide for the latest compatibility charts between Stemma, Stemma QT, Grove, Qwiic, and Gravity connections.
-
 ## Stemma Hardware
 
-You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https://www.adafruit.com/category/1005).
+You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https://www.adafruit.com/category/1019).
 
 ### Adafruit Microcontroller Boards with Stemma
 
