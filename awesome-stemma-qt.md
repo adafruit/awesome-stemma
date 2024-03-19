@@ -26,7 +26,7 @@ For information on Stemma JST PH 2mm 3-pin connectors, see [Awesome Stemma](./aw
 
 ## Stemma QT Hardware
 
-You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https://www.adafruit.com/category/1005).
+You can find the up to date list of Adafruit Stemma QT hardware [on Adafruit](https://www.adafruit.com/category/1005).
 
 ### Adafruit Microcontroller Boards with Stemma QT
 
