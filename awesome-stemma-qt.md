@@ -9,7 +9,7 @@ Adafruit Stemma QT is a collection of solderless I2C connection products based o
 
 ![Stemma QT](./graphics/stemmaqt-circuit.png)
 
-For information on Stemma JST PH 2mm 3-pin connectors, see [Awesome Stemma](./awesome-stemma.md)
+For information on Stemma JST PH 2mm connectors, see [Awesome Stemma](./awesome-stemma.md)
 
 ## Contents
 
