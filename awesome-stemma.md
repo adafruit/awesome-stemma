@@ -10,7 +10,7 @@ Adafruit Stemma is a collection of solderless digital/analog/power connection st
 
 Stemma used the JST PH 2mm connector while Stemma QT uses the JST SH 1mm connector. For Stemma QT see [Awesome Stemma QT](./awesome-stemma-qt.md).
 
-Stemma equipped boards may be compatible with Seed Studio Grove connectors. 
+Stemma equipped boards may be compatible with Seed Studio Grove connectors. See the [main page](./README.md) for more. 
 
 ## Contents
 
