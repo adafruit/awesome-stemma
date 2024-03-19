@@ -19,10 +19,10 @@ For information on Stemma JST PH 2mm 3-pin connectors, see [Awesome Stemma](./aw
   - [Adafruit Displays, Display Connectivity and Touch Controllers](#Adafruit-Displays,-Display-Connectivity-and-Touch-Controllers)
   - [Processor to Stemma/Grove/Qwiic Breakout Boards](#Processor-to-Stemma/Grove/Qwiic-Breakout-Boards)
 - [Accessories](#accessories)
-- [I2C Active Accessories](#I2C-Active-Accessories)
-- [Cables](#Cables)
-- [Breakouts](#Breakouts)
-- [Connectors](#Connectors)
+  - [I2C Active Accessories](#I2C-Active-Accessories)
+  - [Cables](#Cables)
+  - [Breakouts](#Breakouts)
+  - [Connectors](#Connectors)
 
 ## Stemma QT Hardware
 
