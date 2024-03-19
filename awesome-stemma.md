@@ -15,15 +15,14 @@ Stemma equipped boards may be compatible with Seed Studio Grove connectors. See 
 
 ## Contents
 
-- [Stemma Compatible and Stemma-like Systems](#Stemma-Compatible-and-Stemma-like-Systems)
-- [Guides](#guides)
-- [Compatibility](#compatability)
 - [Stemma Hardware](#stemma-hardware)
+  - [Adafruit Microcontroller Boards with Stemma](#Adafruit-Microcontroller-Boards-with-Stemma)
+  - [Adafruit Sensors with Stemma](#Adafruit-Sensors-with-Stemma)
+  - [Adafruit Devices](#Adafruit-Devices)
+  - [Adafruit Displays and Display Connectivity](#Adafruit-Displays-and Display-Connectivity)
 - [Accessories](#accessories)
-- [In the news](#news)
-- [Art, logos, graphics](#art)
-- [Social media](#social)
-- [Contributing](#contributing)
+  - [Cables](#Cables)
+  - [Connectors](#Connectors)
 
 ## Stemma Hardware
 
@@ -76,7 +75,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [Piezo Driver Amp - PAM8904](https://www.adafruit.com/product/5791) | 1 Stemma | PAM8904-based piezo (buzzer) driver |
 | [CYBERDECK HAT for Raspberry Pi 400](https://www.adafruit.com/product/4863) | 2x Stemma / 1x Stemma QT | Extend GPIO, room for a display |
 
-### Adafruit Displays, Display Connectivity and Touch Controllers
+### Adafruit Displays and Display Connectivity
 
 | Display | Stemma Connectors | Features |
 |---|---|---|
