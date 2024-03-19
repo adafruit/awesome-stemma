@@ -11,14 +11,22 @@ For information on Stemma JST PH 2mm 3-pin connectors, see [Awesome Stemma](./aw
 ## Contents
 
 - [Stemma Hardware](#stemma-hardware)
-  - [Adafruit Microcontroller Boards with Stemma](#Adafruit-Microcontroller-Boards-with-Stemma)
+  - [Adafruit Microcontroller Boards with Stemma](#Adafruit-Microcontroller-Boards-with-Stemma-QT)
+  - [Adafruit Sensors with Stemma](#Adafruit-Sensors-with-Stemma-QT)
+  - [Adafruit Devices](#Adafruit-Devices)
+  - [Adafruit Displays, Display Connectivity and Touch Controllers](#Adafruit-Displays,-Display-Connectivity-and-Touch-Controllers)
+  - [Processor to Stemma/Grove/Qwiic Breakout Boards](#Processor-to-Stemma/Grove/Qwiic-Breakout-Boards)
 - [Accessories](#accessories)
+- [I2C Active Accessories](#I2C-Active-Accessories)
+- [Cables](#Cables)
+- [Breakouts](#Breakouts)
+- [Connectors](#Connectors)
 
 ## Stemma Hardware
 
 You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https://www.adafruit.com/category/1005).
 
-### Adafruit Microcontroller Boards with Stemma
+### Adafruit Microcontroller Boards with Stemma QT
 
 | Microcontroller Board | Stemma Connectors | Features |
 |---|---|---|
@@ -76,7 +84,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [MCP2221A](https://www.adafruit.com/product/4471) | 1 Stemma QT | General Purpose USB to GPIO ADC I2C |
 | [FT232H](https://www.adafruit.com/product/2264) | 1 Stemma QT | General Purpose USB to GPIO, SPI, I2C - USB C |
 
-### Adafruit Sensors with Stemma
+### Adafruit Sensors with Stemma QT
 
 | Board | Stemma Connectors | Features |
 |---|---|---|
@@ -354,25 +362,6 @@ Note: lengths are approximate
 | Adafruit | [JST PH 4-pin vertical connector](https://www.adafruit.com/product/4390) | 10 pack |
 | Adafruit | [JST PH 3-pin horizontal connector](https://www.adafruit.com/product/4391) | 10 pack |
 | Adafruit | [JST PH 0.2mm connector kit](https://www.adafruit.com/product/4422) | 220 pieces |
-
-## News
-
-- 2020-03-10 - [Welcome EasyC to the STEMMA/STEMMA QT/QWIIC/GROVE/GRAVITY connector ecosystem!](https://blog.adafruit.com/2020/03/01/welcome-easyc-to-the-stemma-stemma-qt-qwiic-grove-gravity-connector-ecosystem-sparkfun-seeedstudio-dfrobotcn-arduino-qwiic-grove-gravity-stemma-stemmaqt-easyc/), Adafruit Blog
-
-## Art
-
-- [Logos](https://www.dropbox.com/sh/7r8udc4s4pvwsno/AABL-BkGBWIufJwX5uKvxTNla?dl=0) from Adafruit
-- [Qwiic Logos](https://cdn.sparkfun.com/assets/custom_pages/3/3/4/Qwiic-Registered-Logo.zip) from Sparkfun
-
-## Social Media
-
-- Twitter searches: [Stemma](https://twitter.com/search?q=stemma&src=typed_query&f=live), [StemmaQT](https://twitter.com/search?q=stemmaqt&src=typed_query&f=live), and [Qwiic](https://twitter.com/search?q=qwiic&src=typed_query&f=live).
-- Instagram searches: [Stemma](https://www.instagram.com/explore/tags/stemma/), [StemmaQT](https://www.instagram.com/explore/tags/stemmaqt/), and [Qwiic](https://www.instagram.com/explore/tags/qwiic/).
-- YouTube searches: 
-[Stemma](https://www.youtube.com/results?search_query=%23stemma&sp=CAI%253D), [StemmaQT](https://www.youtube.com/results?search_query=%23stemmaqt), and [Qwiic](https://www.youtube.com/results?search_query=%23qwiic).
-## Contributing
-
-Contributions and suggestions are always welcome! Please make pull requests to modify Awesome Stemma.
 
 ## License & Trademarks
 
