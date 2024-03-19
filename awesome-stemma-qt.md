@@ -18,7 +18,7 @@ For information on Stemma JST PH 2mm 3-pin connectors, see [Awesome Stemma](./aw
   - [Adafruit Devices](#Adafruit-Devices)
   - [Adafruit Displays, Display Connectivity and Touch Controllers](#Adafruit-Displays,-Display-Connectivity-and-Touch-Controllers)
   - [Processor to Stemma/Grove/Qwiic Breakout Boards](#Processor-to-Stemma/Grove/Qwiic-Breakout-Boards)
-- [Accessories](#accessories)
+- [Stemma QT Accessories](#stemma-qt-accessories)
   - [I2C Active Accessories](#I2C-Active-Accessories)
   - [Cables](#Cables)
   - [Breakouts](#Breakouts)
@@ -272,7 +272,7 @@ You can find the up to date list of Adafruit Stemma QT hardware [on Adafruit](ht
 - [Qwiic Main Page](https://www.sparkfun.com/qwiic) on Sparkfun.com
 - [One page list of Qwiic products from SparkFun](https://cdn.sparkfun.com/assets/home_page_posts/3/1/7/7/SparkFun_s_Qwiic_Ecosystem.pdf)
 
-## Accessories
+## Stemma QT Accessories
 
 ### I2C Active Accessories
 | Vendor | Item | Connectors | Features |
@@ -295,13 +295,13 @@ Note: lengths are approximate
 | Adafruit | [Stemma QT - Stemma QT](https://www.adafruit.com/product/4399) | 50mm | 4-pin JST SH female | 4-pin JST SH female |
 | Adafruit | [Stemma QT - Stemma QT](https://www.adafruit.com/product/4210) | 100mm | 4-pin JST SH female | 4-pin JST SH female |
 | Adafruit | [5-pin Arduino MKR - Stemma QT](https://www.adafruit.com/product/4483) | 100mm | 5-pin JST SJ | 4-pin JST SH |
-| Adafruit | [Grove - Stemma QT/Qwiic](https://www.adafruit.com/product/4528) | 100mm | 4-pin JST-PH female | Grove 4 Pin |
+| Adafruit | [Grove - Stemma QT/Qwiic](https://www.adafruit.com/product/4528) | 100mm | 4-pin JST PH female | Grove 4 Pin |
 | Adafruit | [Stemma QT - Pin Header](https://www.adafruit.com/product/4397) | 150mm | 4-pin JST SH female | 4 Female pin header sockets |
 | Adafruit | [Stemma QT - Alligator clips](https://www.adafruit.com/product/4398) | 150mm | 4-pin JST SH | 4 Alligator Clips |
 | Adafruit | [Stemma QT -  4-pin JST PH female](https://www.adafruit.com/product/4209) | 150mm | 4-pin JST-PH female | 0.1" male pin headers |
 | Adafruit | [Stemma QT - Stemma QT](https://www.adafruit.com/product/4401) | 200mm | 4-pin JST SH female | 4-pin JST SH female |
 | Adafruit | [Stemma - Stemma QT](https://www.adafruit.com/product/4424) | 200mm  | 4-pin JST PH female | 4-pin JST SH female |
-| Adafruit | [Stemma - Stemma QT](https://www.adafruit.com/product/4424) | 200mm | 4-pin JST SH female | 4-pin JST SH female |
+| Adafruit | [Stemma - Stemma QT](https://www.adafruit.com/product/4424) | 200mm | 4-pin JST PH female | 4-pin JST SH female |
 | Adafruit | [Stemma QT - 4 Female Pin Headers](https://www.adafruit.com/product/3950) | 200mm | 4-pin JST-PH female | 0.1" female pin headers |
 | Adafruit | [Stemma QT - Stemma QT](https://www.adafruit.com/product/5384) | 300mm | 4-pin JST PH | 4-pin JST PH |
 | Adafruit | [Stemma QT - Stemma QT](https://www.adafruit.com/product/5385) | 400mm | 4-pin JST PH | 4-pin JST PH |
