@@ -12,7 +12,7 @@ For information on Stemma JST PH 2mm 3-pin connectors, see [Awesome Stemma](./aw
 
 - [Stemma Hardware](#stemma-hardware)
   - [Adafruit Microcontroller Boards with Stemma](#Adafruit-Microcontroller-Boards-with-Stemma-QT)
-  - [Adafruit Sensors with Stemma](#Adafruit-Sensors-with-Stemma-QT)
+  - [Adafruit Sensors with Stemma QT](#Adafruit-Sensors-with-Stemma-QT)
   - [Adafruit Devices](#Adafruit-Devices)
   - [Adafruit Displays, Display Connectivity and Touch Controllers](#Adafruit-Displays,-Display-Connectivity-and-Touch-Controllers)
   - [Processor to Stemma/Grove/Qwiic Breakout Boards](#Processor-to-Stemma/Grove/Qwiic-Breakout-Boards)
