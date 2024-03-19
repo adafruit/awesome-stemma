@@ -39,6 +39,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [PyPortal Titano](https://www.adafruit.com/product/4444) | 1x Stemma QT, 2x 3 pin Stemma | ATSAMD51J20/ESP32, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
 | [PyPortal Pynt](https://www.adafruit.com/product/4465) | 1x Stemma QT, 2x 3 pin Stemma | ATSAMD51J20/ESP32, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
 | [MagTag - 2.9" Grayscale E-Ink WiFi Display](https://www.adafruit.com/product/4800) | 1x Stemma QT, 2x Stemma | ESP32-S2, 2.9" grayscale eInk 296x128, WiFi |
+| [NeoTrellis M4 Mainboard](https://www.adafruit.com/product/3938) | 1x 4 pin Stemma | ATSAMD51, 512KB Flash 192KB RAM, 8MB SPI Flash, 4x8 NeoPixels |
 | [MONSTER M4SK](https://www.adafruit.com/product/4343) | 1x Stemma QT, 2x 3 pin Stemma | ATSAMD51G19, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
 | [HalloWing M4 Express](https://www.adafruit.com/product/4300) | 1x Stemma QT, 2x 3 pin Stemma | ATSAMD51J19, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
 | [FunHouse - WiFi Home Automation Development Board](https://www.adafruit.com/product/4985) | 1x Stemma QT, 3 Stemma | ESP32-S2, 1.54" display, DPS310 & AHT20 sensors and more |
