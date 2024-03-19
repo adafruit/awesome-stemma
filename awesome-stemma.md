@@ -19,7 +19,7 @@ Stemma equipped boards may be compatible with Seed Studio Grove connectors. See 
   - [Adafruit Microcontroller Boards with Stemma](#Adafruit-Microcontroller-Boards-with-Stemma)
   - [Adafruit Sensors with Stemma](#Adafruit-Sensors-with-Stemma)
   - [Adafruit Devices](#Adafruit-Devices)
-  - [Adafruit Displays and Display Connectivity](#Adafruit-Displays-and Display-Connectivity)
+  - [Adafruit Displays and Display Connectivity](#Adafruit-Displays-and-Display-Connectivity)
 - [Accessories](#accessories)
   - [Cables](#Cables)
   - [Connectors](#Connectors)
