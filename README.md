@@ -42,7 +42,7 @@ See the [chart](https://learn.adafruit.com/introducing-adafruit-stemma-qt/stemma
 With the volume of hardware using these standards, two separate lists have been creaued:
 
 * [Awesome Stemma QT](./awesome-stemma-qt.md) - list of hardware using the 4-pin I2C interface (Stemma QT / Qwiic)
-* [Awesome Stemma](./awesome-stemma.md) - list of hardware using the three pin digital/analog connection (plus power & ground).
+* [Awesome Stemma](./awesome-stemma.md) - list of hardware using the three & four pin digital/analog connection.
 
 You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https://www.adafruit.com/category/1005).
 
