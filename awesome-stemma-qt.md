@@ -12,7 +12,7 @@ For information on Stemma JST PH 2mm 3-pin connectors, see [Awesome Stemma](./aw
 
 ## Contents
 
-- [Stemma Hardware](#stemma-hardware)
+- [Stemma Hardware](#stemma-qt-hardware)
   - [Adafruit Microcontroller Boards with Stemma](#Adafruit-Microcontroller-Boards-with-Stemma-QT)
   - [Adafruit Sensors with Stemma QT](#Adafruit-Sensors-with-Stemma-QT)
   - [Adafruit Devices](#Adafruit-Devices)
@@ -24,7 +24,7 @@ For information on Stemma JST PH 2mm 3-pin connectors, see [Awesome Stemma](./aw
 - [Breakouts](#Breakouts)
 - [Connectors](#Connectors)
 
-## Stemma Hardware
+## Stemma QT Hardware
 
 You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https://www.adafruit.com/category/1005).
 
