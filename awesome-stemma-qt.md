@@ -225,7 +225,8 @@ You can find the up to date list of Adafruit Stemma QT hardware [on Adafruit](ht
 | [MCP23017 I2C GPIO Expander Raspberry Pi Bonnet](https://www.adafruit.com/product/4132) | 2 Stemma QT | 16 I/O pins, 8 I2C address options |
 | [MAX17048 LiPoly / LiIon Fuel Gauge and Battery Monitor](https://www.adafruit.com/product/5580) | 2 Stemma QT | Voltage and percentage |
 | [LC709203F LiPoly / LiIon Fuel Gauge and Battery Monitor](https://www.adafruit.com/product/4712) | 2 Stemma QT | Voltage and percentage |
-| [CYBERDECK HAT for Raspberry Pi 400](https://www.adafruit.com/product/4863) | 2x Stemma / 1x Stemma QT | Extend GPIO, room for a display |
+| [CYBERDECK HAT for Raspberry Pi 400](https://www.adafruit.com/product/4863) | 2x Stemma / 2x Stemma QT | Extend GPIO, room for a display |
+| [CYBERDECK Bonnet for Raspberry Pi 400](https://www.adafruit.com/product/4862) | 2x Stemma / 2x Stemma QT | Extend GPIO, room for a display |
 | [PiCowbell Proto for Pico](https://www.adafruit.com/product/5200) | 2 Stemma QT | Reset Button & STEMMA QT |
 | [Terminal PiCowbell for Pico without header](https://www.adafruit.com/product/5904) | 2 Stemma QT | Screw Terminals, Reset Button |
 | [Terminal PiCowbell for Pico with Pre-Soldered Sockets](https://www.adafruit.com/product/5907) | 2 Stemma QT | Screw Terminals, Headers, Reset Button |
