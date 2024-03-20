@@ -162,6 +162,7 @@ You can find the up to date list of Adafruit Stemma QT hardware [on Adafruit](ht
 | [SHT45](https://www.adafruit.com/product/5665) | 2 Stemma QT | Sensirion Precision Temperature & Humidity Sensor |
 | [Si7021](https://www.adafruit.com/product/3251) | 2 Stemma QT | Temperature & Humidity Sensor |
 | [TLV493D](https://www.adafruit.com/product/4366) | 2 Stemma QT | Triple-Axis magnetometer |
+| [TMP117](https://www.adafruit.com/product/4821) | 2 Stemma QT | ±0.1°C High Accuracy I2C Temperature Sensor |
 | [TSC2007](https://www.adafruit.com/product/5423) | 2 Stemma QT | I2C Resistive Touch Screen Controller |
 | [TSL2591](https://www.adafruit.com/product/1980) | 2 Stemma QT | High Dynamic Range Digital Light Sensor |
 | [VCNL4020](https://www.adafruit.com/product/5810) | 2 Stemma QT | Proximity and Light Sensor |
