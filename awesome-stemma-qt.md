@@ -61,7 +61,7 @@ You can find the up to date list of Adafruit Stemma QT hardware [on Adafruit](ht
 | [QT Py ESP32-S3](https://www.adafruit.com/product/5426) | 1 Stemma QT | ESP32-S3, 8MB Flash, 512MB SRAM, no PSRAM | 
 | [QT Py ESP32-C3 WiFi](https://www.adafruit.com/product/5405) | 1 Stemma QT | ESP32-C3, 4MB Flash, 400KB SRAM |
 | [ESP32 Feather V2 - 8MB Flash + 2 MB PSRAM](https://www.adafruit.com/product/5400) | 1 Stemma QT | ESP32, 8MB Flash, 2MB PSRAM, WiFi PCB Antenna |
-| [ESP32 Feather V2 - 8MB Flash + 2 MB PSRAM](https://www.adafruit.com/product/5438) | 1 Stemma QT | ESP32, 8MB Flash, 2MB PSRAM, WiFi w.FL Antenna connector |
+| [ESP32 Feather V2 - 8MB Flash + 2 MB PSRAM w.FL](https://www.adafruit.com/product/5438) | 1 Stemma QT | ESP32, 8MB Flash, 2MB PSRAM, WiFi w.FL Antenna connector |
 | [ESP32 Feather V2 with Headers - 8MB Flash + 2 MB PSRAM](https://www.adafruit.com/product/5900) | 1 Stemma QT | ESP32, 8MB Flash, 2MB PSRAM, WiFi |
 | [ESP32-S2 Feather 4MB Flash / 2MB PSRAM](https://www.adafruit.com/product/5000) | 1 Stemma QT | ESP32-S2, 4MB Flash, 2MB PSRAM, WiFi |
 | [Adafruit ESP32-S2 TFT Feather - 4MB Flash, 2MB PSRAM](https://www.adafruit.com/product/5300) | 1 Stemma QT | ESP32-S2, 4MB Flash, 2MB PSRAM, 240x135 TFT LCD display, WiFi |
