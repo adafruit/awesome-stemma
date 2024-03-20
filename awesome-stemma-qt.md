@@ -39,7 +39,8 @@ You can find the up to date list of Adafruit Stemma QT hardware [on Adafruit](ht
 | [PyPortal](https://www.adafruit.com/product/4116) | 1x Stemma QT, 2x Stemma | ATSAMD51J20/ESP32, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
 | [PyPortal Titano](https://www.adafruit.com/product/4444) | 1x Stemma QT, 2x Stemma | ATSAMD51J20/ESP32, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
 | [PyPortal Pynt](https://www.adafruit.com/product/4465) | 1x Stemma QT, 2x Stemma | ATSAMD51J20/ESP32, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
-| [Matrix Portal](https://www.adafruit.com/product/4745) | 1x Stemma QT | ATSAMD51J19 Cortex M4 processor, 512KB flash, 192K of SRAM, ESP32 WiFi |
+| [Matrix Portal (M4)](https://www.adafruit.com/product/4745) | 1x Stemma QT | ATSAMD51J19 Cortex M4 processor, 512KB flash, 192K of SRAM, ESP32 WiFi |
+| [Matrix Portal S3](https://www.adafruit.com/product/5778) | 1x Stemma QT | ESP32-S3 processor, 8 MB flash, 2 MB of SRAM, WiFi |
 | [MagTag - 2.9" Grayscale E-Ink WiFi Display](https://www.adafruit.com/product/4800) | 1x Stemma QT, 2x Stemma | ESP32-S2, 2.9" grayscale eInk 296x128, WiFi |
 | [MONSTER M4SK](https://www.adafruit.com/product/4343) | 1x Stemma QT, 2x Stemma | ATSAMD51G19, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
 | [HalloWing M4 Express](https://www.adafruit.com/product/4300) | 1x Stemma QT, 2x Stemma | ATSAMD51J19, 512KB of Flash, 192KB RAM, 8MB Ext. Flash |
