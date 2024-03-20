@@ -107,6 +107,7 @@ You can find the up to date list of Adafruit Stemma QT hardware [on Adafruit](ht
 | [BMP390](https://www.adafruit.com/product/4816) | 2 Stemma QT | Precision Barometric Pressure & Altitude Sensor |
 | [BNO055](https://www.adafruit.com/product/4646) | 2 Stemma QT | 9-DOF Absolute Orientation IMU Fusion |
 | [BNO085](https://www.adafruit.com/product/4754) | 2 Stemma QT | 9-DOF Orientation IMU Fusion |
+| [CCS811](https://www.adafruit.com/product/3566) | 2 Stemma QT | CCS811 Air Quality Sensor Breakout - VOC and eCO2 DISCONTINUED see SGP30 |
 | [DPS310](https://www.adafruit.com/product/4494) | 2 Stemma QT | Precision Barometric Pressure / Altitude Sensor |
 | [DS3502](https://www.adafruit.com/product/4286) | 2 Stemma QT | I2C Digital 10K Potentiometer |
 | [ENS160](https://www.adafruit.com/product/5606) | 2 Stemma QT | MOX Gas Sensor - Sciosense CCS811 Upgrade |
