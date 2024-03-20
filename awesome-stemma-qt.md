@@ -233,6 +233,7 @@ You can find the up to date list of Adafruit Stemma QT hardware [on Adafruit](ht
 | [OLED Graphics](https://www.adafruit.com/product/4440) | 1 Stemma QT | 128x32 0.91" monochrome OLED breakout |
 | [OLED Graphics](https://www.adafruit.com/product/326) | 2 Stemma QT | 128x64, 0.96" monochrome OLED breakout |
 | [OLED Graphics](https://www.adafruit.com/product/938) | 2 Stemma QT | 128x64, 1.3" monochrome OLED breakout |
+| [Monochrome OLED Display](https://www.adafruit.com/product/5297) | 2 Stemma QT | 128x128, 1.12" monochrome OLED breakout |
 | [Mini PiTFT](https://www.adafruit.com/product/4484) | 1 Stemma QT | 240x240 pixel, 1.3", Raspberry Pi connector, 2 buttons |
 | [Mini PiTFT](https://www.adafruit.com/product/4393) | 1 Stemma QT | 135x240 pixel, 1.14", Raspberry Pi connector |
 | [Color TFT Bonnet](https://www.adafruit.com/product/4506) | 1 Stemma QT | 240x240 pixel, 1.3" color TFT, Joystick, for Raspberry Pi |
