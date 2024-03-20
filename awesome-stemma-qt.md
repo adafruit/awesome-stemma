@@ -237,7 +237,7 @@ You can find the up to date list of Adafruit Stemma QT hardware [on Adafruit](ht
 | [Monochrome OLED Bonnet](https://www.adafruit.com/product/4567) | 1 Stemma QT | 128x32 2.23" mono OLED for Raspberry Pi |
 | [OLED Graphics](https://www.adafruit.com/product/326) | 2 Stemma QT | 128x64, 0.96" monochrome OLED breakout |
 | [Monochrome OLED Display](https://www.adafruit.com/product/938) | 1 Stemma QT | 128x64 1.3" monochrome OLED  |
-| [Monochrome OLED Display FeatherWing](https://www.adafruit.com/product/4650) | 1 Stemma QT | 128x64 1.3" monochrome OLED  |
+| [Monochrome OLED Display FeatherWing](https://www.adafruit.com/product/4650) | 1 Stemma QT | 128x64 1.3" monochrome OLED |
 | [Monochrome OLED Display](https://www.adafruit.com/product/5297) | 2 Stemma QT | 128x128, 1.12" monochrome OLED breakout |
 | [Grayscale 1.5" 128x128 OLED Graphic Display](https://www.adafruit.com/product/4741) | 2 Stemma QT | 128x128 1.5" greyscale OLED |
 | [Mini PiTFT](https://www.adafruit.com/product/4393) | 1 Stemma QT | 135x240 pixel, 1.14", Raspberry Pi connector |
