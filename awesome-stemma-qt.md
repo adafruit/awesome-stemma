@@ -290,6 +290,7 @@ You can find the up to date list of Adafruit Stemma QT hardware [on Adafruit](ht
 ### I2C Active Accessories
 | Vendor | Item | Connectors | Features |
 |---|---|---|---|
+| Adafruit | [LTC4316 I2C Address Translator](https://www.adafruit.com/product/5914) | 2 Stemma QT | Changes the I2C address of the device connected to input as seen by controller at output |
 | Adafruit | [LTC4311 I2C Extender / Active Terminator](https://www.adafruit.com/product/4756) | 2 Stemma QT | Terminates and extends I2C bus |
 | Adafruit | [PCA9546 4-Channel STEMMA QT / Qwiic I2C Multiplexer - TCA9546A Compatible](https://www.adafruit.com/product/5664) | 5 Stemma QT | Provides 4 channel control of I2C devices with same address |
 | Adafruit | [PCA9548 8-Channel STEMMA QT / Qwiic I2C Multiplexer - TCA9548A Compatible](https://www.adafruit.com/product/5626) | 9 Stemma QT | Provides 8 channel control of I2C devices with same address |
@@ -342,4 +343,4 @@ Note: lengths are approximate
 
 To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.
 
-Updated: March 20, 2024
+Updated: April 2, 2024
