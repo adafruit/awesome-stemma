@@ -53,6 +53,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 | [TMP235](https://www.adafruit.com/product/4686) | 1 Stemma | Analog Temperature Sensor |
 | [TSL2561](https://www.adafruit.com/product/3611) | 1 4-pin Stemma | Digital lux / light sensor DISCONTINUED |
 | [TSL2591](https://www.adafruit.com/product/1980) | 2 Stemma  | High dynamic range digital light sensor |
+| [Infrared IR Remote Receiver](https://www.adafruit.com/product/5939) | 1 Stemma | Two 38kHz infrared reveivers |
 
 ### Adafruit Devices
 
