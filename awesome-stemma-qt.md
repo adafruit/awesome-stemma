@@ -285,11 +285,6 @@ You can find the up to date list of Adafruit Stemma QT hardware [on Adafruit](ht
 | [Piunora Pro Carrier for Raspberry Pi 4 Module by Diodes Delight](https://www.adafruit.com/product/5404) | 1 Stemma QT | Raspberry Pi 4CM carrier and breakout |
 | [Piunora Lite Carrier for Raspberry Pi 4 Module by Diodes Delight](https://www.adafruit.com/product/5403) | 1 Stemma QT | Raspberry Pi 4CM carrier and breakout |
 
-### Qwiic Boards from SparkFun
-
-- [Qwiic Main Page](https://www.sparkfun.com/qwiic) on Sparkfun.com
-- [One page list of Qwiic products from SparkFun](https://cdn.sparkfun.com/assets/home_page_posts/3/1/7/7/SparkFun_s_Qwiic_Ecosystem.pdf)
-
 ## Stemma QT Accessories
 
 ### I2C Active Accessories
@@ -328,6 +323,7 @@ Note: lengths are approximate
 
 | Vendor | Item | Features |
 |---|---|---|
+| Adafruit | [Adafruit Qwiic / Stemma QT Breakout Board](https://www.adafruit.com/product/5961) | Breadboard/breakout to Stemma QT connection board |
 | SparkFun | [SparkFun Qwiic Multiport (Works with Stemma QT)](https://www.adafruit.com/product/4861) | 4 port Qwiic / Stemma QT hub |
 | SparkFun | [Stemma QT / Qwiic Adapter](https://www.adafruit.com/product/4527) | 2 Qwiic / Stemma QT connectors, pinouts for SCL/SDA/3V/GND |
 | SparkFun | [Stemma QT/Qwiic Shim for Raspberry Pi](https://www.adafruit.com/product/4463) | Press fit Raspberry Pi GPIO to Stemma QT/Qwiic connector |
@@ -347,6 +343,11 @@ Note: lengths are approximate
 | Vendor & Item | Connections | Features |
 |---|---|---|
 | [I2CMini by Excamera Labs](https://www.adafruit.com/product/4970) | 1 Stemma QT | USB to I2C interface |
+
+**Qwiic Boards from SparkFun**
+
+- [Qwiic Main Page](https://www.sparkfun.com/qwiic) on Sparkfun.com
+- [One page list of Qwiic products from SparkFun](https://cdn.sparkfun.com/assets/home_page_posts/3/1/7/7/SparkFun_s_Qwiic_Ecosystem.pdf)
 
 ## License & Trademarks
 
