@@ -25,15 +25,19 @@ Stemma equipped boards may be compatible with Seed Studio Grove connectors, Spar
 
 ## Stemma Compatible and Stemma-like Systems
 
+** STEMMA QT and COmptibles**
 - [Stemma / Stemma QT](https://www.adafruit.com/category/1005) (Adafruit.com)
-- [Grove](https://www.seeedstudio.com/category/Grove-c-1003.html) (Seeedstudio.com)
 - [Qwiic](https://www.sparkfun.com/qwiic) (SparkFun.com)
+- [Modulino](https://store-usa.arduino.cc/products/plug-and-make-kit) (arduino.cc)
+
+** Stemma-like Systems
+- [Grove](https://www.seeedstudio.com/category/Grove-c-1003.html) (Seeedstudio.com)
 - [Gravity](https://www.dfrobot.com/index.php?route=page/gravity) (DFRobot.com)
 - [easyC](https://e-radionica.com/en/easyc-system.html) (e-radionica.com)
 
 ## Compatibility
 
-Stemma and Stemma QT have compatibility with similar connections used by manufacturers other than Adafruit. STEMMA attempts to be as cross-compatible as possible with both Grove, easyC and Gravity (compatible connectors & 3-5V power/logic). STEMMA QT is cross-compatible with Qwiic - STEMMA QT connector/cable is same as Qwiic. You can use STEMMA QT devices with Qwiic devices/controllers.
+Stemma and Stemma QT have compatibility with similar connections used by manufacturers other than Adafruit. STEMMA attempts to be as cross-compatible as possible with both Grove, easyC and Gravity (compatible connectors & 3-5V power/logic). STEMMA QT is cross-compatible with Qwiic - STEMMA QT connector/cable is same as Qwiic. You can use STEMMA QT devices with Qwiic devices/controllers. Modulino by Arduino, introduced in July 2024, appears compatible with Qwiic and STEMMA QT including using the same connector.
 
 See the [chart](https://learn.adafruit.com/introducing-adafruit-stemma-qt/stemma-qt-comparison) on the Adafruit Stemma/StemmaQT Guide for the latest compatibility charts between Stemma, Stemma QT, Grove, Qwiic, and Gravity connections.
 
@@ -53,6 +57,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 
 ## News
 
+- 2024-07-16 - [Beginner friendly Arduino Plug and Make Kit features Arduino UNO R4 WiFi and Modulino I2C modules](https://www.cnx-software.com/2024/07/12/beginner-friendly-arduino-plug-and-make-kit-features-arduino-uno-r4-wifi-and-modulino-i2c-modules/), CNX Software
 - 2020-03-10 - [Welcome EasyC to the STEMMA/STEMMA QT/QWIIC/GROVE/GRAVITY connector ecosystem!](https://blog.adafruit.com/2020/03/01/welcome-easyc-to-the-stemma-stemma-qt-qwiic-grove-gravity-connector-ecosystem-sparkfun-seeedstudio-dfrobotcn-arduino-qwiic-grove-gravity-stemma-stemmaqt-easyc/), Adafruit Blog
 
 ## Art
@@ -76,4 +81,4 @@ Contributions and suggestions are always welcome! Please make pull requests to m
 
 To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.
 
-Updated: March 19, 2024
+Updated: July 16, 2024
