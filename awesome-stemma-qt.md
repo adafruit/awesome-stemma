@@ -89,6 +89,7 @@ You can find the up to date list of Adafruit Stemma QT hardware [on Adafruit](ht
 | [ATtiny816 Breakout with seesaw](https://www.adafruit.com/product/5681) | 2 Stemma QT | ATtiny816, 512B RAM, 8KB Flash, 128 bytes EEPROM |
 | [ATtiny817 Breakout with seesaw](https://www.adafruit.com/product/5233) | 2 Stemma QT | ATtiny816, 512B RAM, 8KB Flash, 128 bytes EEPROM |
 | [ATtiny1616 Breakout with seesaw](https://www.adafruit.com/product/5690) | 2 Stemma QT | ATtiny1616, 2KB RAM, 16KB Flash, 256 bytes EEPROM |
+| [CH552 QT Py](https://www.adafruit.com/product/5960) | 1 Stemma QT | CH552 - 8051 Dev Board in Xiao/QT Py format |
 | [MCP2221A](https://www.adafruit.com/product/4471) | 1 Stemma QT | General Purpose USB to GPIO ADC I2C |
 | [FT232H](https://www.adafruit.com/product/2264) | 1 Stemma QT | General Purpose USB to GPIO, SPI, I2C - USB C |
 
