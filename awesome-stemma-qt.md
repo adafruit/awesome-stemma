@@ -239,6 +239,7 @@ You can find the up to date list of Adafruit Stemma QT hardware [on Adafruit](ht
 | [Terminal PiCowbell for Pico with Pre-Soldered Sockets](https://www.adafruit.com/product/5907) | 2 Stemma QT | Screw Terminals, Headers, Reset Button |
 | [PiCowbell Adalogger for Pico - MicroSD, RTC](https://www.adafruit.com/product/5703) | 1 Stemma QT | MicroSD card slot, real-time clock, backup battery holder |
 | [PiCowbell CAN Bus for Pico](https://www.adafruit.com/product/5728) | 1 Stemma QT | MCP2515 CAN Controller and TJA1051/3 transceiver |
+| [PiCowbell Camera Breakout](https://www.adafruit.com/product/5945) | 1 Stemma QT | microSD card reader and camera (72, 120, 160 degree options) |
 | [Proto Under Plate PiCowBell for Pico](https://www.adafruit.com/product/5905) | 1 Stemma QT | Reset Button & STEMMA QT |
 | [Proto Doubler PiCowbell for Pico and Pico W](https://www.adafruit.com/product/5906) | 1 Stemma QT | LiPo Battery Charger, On/Off Switch, Reset Switch |
 | [Proto Tripler PiCowbell for Pico and PicoW](https://www.adafruit.com/product/5967) | 1 Stemma QT | LiPo Battery Charger, On/Off & Reset Switches, EYESPI connector |
