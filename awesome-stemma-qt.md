@@ -239,7 +239,7 @@ You can find the up to date list of Adafruit Stemma QT hardware [on Adafruit](ht
 | [Proto Under Plate PiCowBell for Pico](https://www.adafruit.com/product/5905) | 1 Stemma QT | Reset Button & STEMMA QT |
 | [Proto Doubler PiCowbell for Pico and Pico W](https://www.adafruit.com/product/5906) | 1 Stemma QT | LiPo Battery Charger, On/Off Switch, Reset Switch |
 | [PC Joystick to seesaw I2C Adapter](https://www.adafruit.com/product/5753) | 2 Stemma QT | Read 15 pin D-Sub PC joystick to I2C |
-
+| [S-35710 Low-Power Wake Up Timer Breakout](https://www.adafruit.com/product/5959) | 2 Stemma QT | Low-Power Wake Up Timer Breakout |
 
 ### Adafruit Displays, Display Connectivity and Touch Controllers
 
@@ -270,8 +270,6 @@ You can find the up to date list of Adafruit Stemma QT hardware [on Adafruit](ht
 | [1.2" 8x8 LED Matrix Backpack](https://www.adafruit.com/product/1048) | 2 Stemma QT | 8x8 LED driver backpack (no display included) |
 | [I2C / SPI Character LCD Backpack](https://www.adafruit.com/product/292) |  1 Stemma QT | Works with 20x4 or 16x2 LCD displays (but not 16x2 OLED) |
 | [Turing Complete Labs 10 Digit Monochrome LCD Display](https://www.adafruit.com/product/5379) | 2 Stemma QT | 10 digit monochrome LCD display |
-| [S-35710 Low-Power Wake Up Timer Breakout](https://www.adafruit.com/product/5959) | 2 Stemma QT | Low-Power Wake Up Timer Breakout |
-
 
 ### Processor to Stemma/Grove/Qwiic Breakout Boards
 
