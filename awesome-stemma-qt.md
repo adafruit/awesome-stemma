@@ -83,6 +83,7 @@ You can find the up to date list of Adafruit Stemma QT hardware [on Adafruit](ht
 | [Feather RP2040 with USB Type A Host](https://www.adafruit.com/product/5723) | 1 Stemma QT | RP2040, 8MB SPI Flash, 264KB RAM, Type A USB Host Port, USB-C |
 | [Feather RP2040 with DVI Output Port](https://www.adafruit.com/product/5710) | 1 Stemma QT | RP2040, SPI Flash, 264KB RAM, DVI Output Port, USB-C |
 | [Feather RP2040 SCORPIO](https://www.adafruit.com/product/5650) | 1 Stemma QT | RP2040, 8MB SPI Flash, 264KB RAM, 8 Channel NeoPixel Driver, USB-C |
+| [Feather RP2040 Adalogger](https://www.adafruit.com/product/5980) | 1 Stemma QT | RP2040, 8MB SPI Flash, 264KB RAM, microSD reader, USB-C |
 | [Feather STM32F405 Express](https://www.adafruit.com/product/4382) | 1 Stemma QT | STM32F405 Cortex M4, 192KB RAM, 1MB Ext. Flash |
 | [Trinkey QT2040](https://www.adafruit.com/product/5056) | 1 Stemma QT | RP2040, 8MB SPI Flash, 264KB RAM, USB A male |
 | [ATtiny816 Breakout with seesaw](https://www.adafruit.com/product/5681) | 2 Stemma QT | ATtiny816, 512B RAM, 8KB Flash, 128 bytes EEPROM |
