@@ -196,14 +196,15 @@ You can find the up to date list of Adafruit Stemma QT hardware [on Adafruit](ht
 | [Mini I2C Gamepad with seesaw](https://www.adafruit.com/product/5743) | 1 Stemma QT | 2-axis thumb joystick and 6 momentary buttons (4 large and 2 small) |
 | [NeoKey 1x4 QT I2C - Four Mechanical Key Switches with NeoPixels](https://www.adafruit.com/product/4980) | 2 Stemma QT | Four Mechanical Key Switches with 4 NeoPixels |
 | [Wii Nunchuck Breakout Adapter](https://www.adafruit.com/product/4836) | 2 Stemma QT | Wii Nunchuck I2C breakout |
-| [DS1841 10K Digital Log Potentiometer](https://www.adafruit.com/product/4570) | 2 Stemma QT | Digital 10K ohm logarithmic taper potentiometer |
-| [DS3502 10K Digital Linear Potentiometer](https://www.adafruit.com/product/4286) | 2 Stemma QT | Digital 10K ohm linear taper potentiometer |
 | [NeoSlider I2C QT Slide Potentiometer with 4 NeoPixels](https://www.adafruit.com/product/5295) | 2 Stemma QT | I2C slide potentiometer + 4 NeoPixels |
 | [Rotary Encoder Breakout without Encoder](https://www.adafruit.com/product/4991) | 2 Stemma QT | Rotary Encoder (without encoder) |
 | [Rotary Encoder Breakout with Encoder](https://www.adafruit.com/product/5880) | 2 Stemma QT | Rotary Encoder (with encoder soldered) |
 | [Quad Rotary Encoder Breakout without Encoders](https://www.adafruit.com/product/5752) | 2 Stemma QT | Four rotary encoder to I2C (encoders not included) |
 | [ANO Rotary Navigation Encoder to I2C](https://www.adafruit.com/product/5740) | 2 Stemma QT | ANO rotary encoder wheel to I2C (wheel not included) |
+| [DS1841 10K Digital Log Potentiometer](https://www.adafruit.com/product/4570) | 2 Stemma QT | Digital 10K ohm logarithmic taper potentiometer |
+| [DS2484 I2C to 1-Wire Bus](https://www.adafruit.com/product/5976) | 2 Stemma QT | I2C to 1-Wire Bus Adapter Breakout |
 | [DS3231 Precision Real Time Clock (RTC)](https://www.adafruit.com/product/5188) | 2 Stemma QT | Precise real time clock module |
+| [DS3502 10K Digital Linear Potentiometer](https://www.adafruit.com/product/4286) | 2 Stemma QT | Digital 10K ohm linear taper potentiometer | [DS3231 Precision Real Time Clock (RTC)](https://www.adafruit.com/product/5188) | 2 Stemma QT | Precise real time clock module |
 | [PCF8523 Real Time Clock (RTC)](https://www.adafruit.com/product/5189) | 2 Stemma QT | Real time clock module |
 | [EMC2101 I2C PC Fan Controller and Temperature Sensor](https://www.adafruit.com/product/4808) | 2 Stemma QT | Four pin PC fan control |
 | [Si5351A Clock Generator](https://www.adafruit.com/product/5640) | 2 Stemma QT | 8KHz to 160MHz clock generator |
