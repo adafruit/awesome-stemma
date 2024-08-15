@@ -25,13 +25,13 @@ Stemma equipped boards may be compatible with Seed Studio Grove connectors, Spar
 
 ## Stemma Compatible and Stemma-like Systems
 
-** STEMMA QT and Compatibles
+**STEMMA QT and Compatibles**
 
 - [Stemma / Stemma QT](https://www.adafruit.com/category/1005) (Adafruit.com)
 - [Qwiic](https://www.sparkfun.com/qwiic) (SparkFun.com)
 - [Modulino](https://store-usa.arduino.cc/products/plug-and-make-kit) (arduino.cc)
 
-** Stemma-like Systems
+**Stemma-like Systems**
 - [Grove](https://www.seeedstudio.com/category/Grove-c-1003.html) (Seeedstudio.com)
 - [Gravity](https://www.dfrobot.com/index.php?route=page/gravity) (DFRobot.com)
 - [easyC](https://e-radionica.com/en/easyc-system.html) (e-radionica.com)
@@ -82,4 +82,4 @@ Contributions and suggestions are always welcome! Please make pull requests to m
 
 To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.
 
-Updated: July 16, 2024
+Updated: Augist 15, 2024
