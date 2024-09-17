@@ -334,6 +334,7 @@ Note: lengths are approximate
 | SparkFun | [Qwiic pHAT v2.0 for Raspberry Pi](https://www.adafruit.com/product/5142) | 4 port Qwiic / Stemma QT + power for Raspberry Pi header |
 | SparkFun | [SparkFun Qwiic / STEMMA QT HAT for Raspberry Pi](https://www.adafruit.com/product/4688 ) | 4 port Qwiic / Stemma QT for Raspberry Pi header |
 | SparkFun | [SparkFun Qwiic / Stemma QT FeatherWing (Shield for Thing Plus)](https://www.adafruit.com/product/4515) | 4 port Qwiic / Stemma QT with Feather pinout |
+| Solder Party | [PMOD to Qwiic/Stemma QT Adapter w/ Daisy Chaining](https://www.tindie.com/products/arturo182/pmod-to-qwiicstemma-qt-adapter-w-daisy-chaining/) | PMOD to 2 STEMMA QT |
 
 ### Connectors
 
@@ -359,4 +360,4 @@ Note: lengths are approximate
 
 To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.
 
-Updated: July 16, 2024
+Updated: September 17, 2024
