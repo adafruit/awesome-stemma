@@ -31,16 +31,20 @@ Stemma equipped boards may be compatible with Seed Studio Grove connectors, Spar
 - [Qwiic](https://www.sparkfun.com/qwiic) (SparkFun.com)
 - [Modulino](https://search.arduino.cc/search?q=modulino*&tab=store&storeLocation=usa) (arduino.cc)
 
-**Stemma-like Systems**
+**STEMMA-like Systems**
 - [Grove](https://www.seeedstudio.com/category/Grove-c-1003.html) (Seeedstudio.com)
 - [Gravity](https://www.dfrobot.com/index.php?route=page/gravity) (DFRobot.com)
 - [easyC](https://e-radionica.com/en/easyc-system.html) (e-radionica.com)
 
 ## Compatibility
 
-Stemma and Stemma QT have compatibility with similar connections used by manufacturers other than Adafruit. STEMMA attempts to be as cross-compatible as possible with both Grove, easyC and Gravity (compatible connectors & 3-5V power/logic). STEMMA QT is cross-compatible with Qwiic - STEMMA QT connector/cable is same as Qwiic. You can use STEMMA QT devices with Qwiic devices/controllers. Modulino by Arduino, introduced in July 2024, appears compatible with Qwiic and STEMMA QT including using the same connector.
+STEMMA and STEMMA QT have compatibility with similar connections used by manufacturers other than Adafruit. 
 
-See the [chart](https://learn.adafruit.com/introducing-adafruit-stemma-qt/stemma-qt-comparison) on the Adafruit Stemma/StemmaQT Guide for the latest compatibility charts between Stemma, Stemma QT, Grove, Qwiic, and Gravity connections.
+STEMMA attempts to be as cross-compatible as possible with both Grove, easyC and Gravity (compatible connectors & 3-5V power/logic). STEMMA QT is cross-compatible with Qwiic.
+
+STEMMA QT connector/cable is same as Qwiic. You can use STEMMA QT devices with Qwiic devices/controllers. Modulino by Arduino, introduced in July 2024, appears compatible with Qwiic and STEMMA QT including using the same connector.
+
+See the [chart](https://learn.adafruit.com/introducing-adafruit-stemma-qt/stemma-qt-comparison) on the Adafruit Stemma/StemmaQT Guide for the latest compatibility charts between STEMMA, STEMMA QT, Grove, Qwiic, and Gravity connections.
 
 ## Stemma Hardware
 
@@ -73,6 +77,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 - Instagram searches: [Stemma](https://www.instagram.com/explore/tags/stemma/), [StemmaQT](https://www.instagram.com/explore/tags/stemmaqt/), and [Qwiic](https://www.instagram.com/explore/tags/qwiic/).
 - YouTube searches: 
 [Stemma](https://www.youtube.com/results?search_query=%23stemma&sp=CAI%253D), [StemmaQT](https://www.youtube.com/results?search_query=%23stemmaqt), and [Qwiic](https://www.youtube.com/results?search_query=%23qwiic).
+
 ## Contributing
 
 Contributions and suggestions are always welcome! Please make pull requests to modify Awesome Stemma.
