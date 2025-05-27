@@ -58,6 +58,7 @@ You can find the up to date list of Adafruit Stemma hardware [on Adafruit](https
 
 ## News
 
+- 2025-05-21 - [Arduino Sets Its Modulino Range Free, and Expands Compatibility with the Nano Connector Carrier](https://www.hackster.io/news/arduino-sets-its-modulino-range-free-and-expands-compatibility-with-the-nano-connector-carrier-d4fdeeb7c794), Hackster.io
 - 2024-07-16 - [Beginner friendly Arduino Plug and Make Kit features Arduino UNO R4 WiFi and Modulino I2C modules](https://www.cnx-software.com/2024/07/12/beginner-friendly-arduino-plug-and-make-kit-features-arduino-uno-r4-wifi-and-modulino-i2c-modules/), CNX Software
 - 2020-03-10 - [Welcome EasyC to the STEMMA/STEMMA QT/QWIIC/GROVE/GRAVITY connector ecosystem!](https://blog.adafruit.com/2020/03/01/welcome-easyc-to-the-stemma-stemma-qt-qwiic-grove-gravity-connector-ecosystem-sparkfun-seeedstudio-dfrobotcn-arduino-qwiic-grove-gravity-stemma-stemmaqt-easyc/), Adafruit Blog
 
