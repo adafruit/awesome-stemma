@@ -356,6 +356,7 @@ Note: lengths are approximate
 | Vendor & Item | Connections | Features |
 |---|---|---|
 | [I2CMini by Excamera Labs](https://www.adafruit.com/product/4970) | 1 Stemma QT | USB to I2C interface |
+| [LANA TNY](https://www.adafruit.com/product/6042) | 1 Stemma QT | CH32V203 mini microcontroller board by Phyx |
 
 **Qwiic Boards from SparkFun**
 
