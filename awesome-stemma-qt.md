@@ -369,6 +369,10 @@ Note: lengths are approximate
 - [Qwiic Main Page](https://www.sparkfun.com/qwiic) on Sparkfun.com
 - [One page list of Qwiic products from SparkFun](https://cdn.sparkfun.com/assets/home_page_posts/3/1/7/7/SparkFun_s_Qwiic_Ecosystem.pdf)
 
+**Arduino Modulino**
+
+- [Arduino Modulino](https://store.arduino.cc/collections/modulino)
+
 ## License & Trademarks
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
