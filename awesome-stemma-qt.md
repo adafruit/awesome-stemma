@@ -99,6 +99,7 @@ You can find the up to date list of Adafruit Stemma QT hardware [on Adafruit](ht
 | [CH552 QT Py](https://www.adafruit.com/product/5960) | 1 Stemma QT | CH552 - 8051 Dev Board in Xiao/QT Py format |
 | [MCP2221A](https://www.adafruit.com/product/4471) | 1 Stemma QT | General Purpose USB to GPIO ADC I2C |
 | [FT232H](https://www.adafruit.com/product/2264) | 1 Stemma QT | General Purpose USB to GPIO, SPI, I2C - USB C |
+| [LED Glasses Driver - nRF52840 Sensor Board](https://www.adafruit.com/product/5217) | 1 Stemma QT | LED Glasses driver board |
 | [Sparkle Motion](https://www.adafruit.com/product/6100) | 1 Stemma QT | WLED-friendly smart LED driving board |
 | [Mini Sparkle Motion](https://www.adafruit.com/product/6314) | 1 Stemma QT | Smaller WLED-friendly smart LED driving board |
 
