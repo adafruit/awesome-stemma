@@ -44,7 +44,7 @@ STEMMA attempts to be as cross-compatible as possible with both Grove, easyC and
 
 STEMMA QT connector/cable is same as Qwiic. You can use STEMMA QT devices with Qwiic devices/controllers. Modulino by Arduino, introduced in July 2024, appears compatible with Qwiic and STEMMA QT including using the same connector.
 
-See the [chart](https://learn.adafruit.com/introducing-adafruit-stemma-qt/stemma-qt-comparison) on the Adafruit Stemma/StemmaQT Guide for the latest compatibility charts between STEMMA, STEMMA QT, Grove, Qwiic, and Gravity connections.
+See the [chart](https://learn.adafruit.com/introducing-adafruit-stemma-qt/stemma-qt-comparison) on the Adafruit Stemma/StemmaQT Guide for the latest compatibility charts between STEMMA, STEMMA QT, Grove, Qwiic, Modulino and Gravity connections.
 
 ## Stemma Hardware
 
@@ -88,4 +88,4 @@ Contributions and suggestions are always welcome! Please make pull requests to m
 
 To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.
 
-Updated: May 27, 2025
+Updated: May 28, 2025
