@@ -170,6 +170,7 @@ You can find the up to date list of Adafruit Stemma QT hardware [on Adafruit](ht
 | [SCD-40](https://www.adafruit.com/product/5187) | 2 Stemma QT | True CO2, Temperature and Humidity Sensor |
 | [SCD-41](https://www.adafruit.com/product/5190) | 2 Stemma QT | True CO2 Temperature and Humidity Sensor |
 | [SEN54 or SEN55 Adapter Breakout](https://www.adafruit.com/product/5964) | 2 Stemma QT | Helps connect SEN54 or 55 to STEMMA QT I2C (does not include sensor or sensor cable) |
+| [SEN66 Adapter Breakout](https://www.adafruit.com/product/6331) | 2 Stemma QT | Helps connect SEN66 to STEMMA QT I2C (does not include sensor or sensor cable) |
 | [SGP40](https://www.adafruit.com/product/4829) | 2 Stemma QT | Air Quality Sensor Breakout - VOC Index |
 | [SHTC3](https://www.adafruit.com/product/4636) | 2 Stemma QT | Sensirion Temperature & Humidity Sensor |
 | [SHT31-D](https://www.adafruit.com/product/2857) | 2 Stemma QT | Sensirion Temperature & Humidity Sensor |
