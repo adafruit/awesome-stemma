@@ -123,10 +123,11 @@ You can find the up to date list of Adafruit Stemma QT hardware [on Adafruit](ht
 | [HDC3021](https://www.adafruit.com/product/5989) | 2 Stemma QT | Precision Temperature & Humidity Sensor |
 | [HTS221](https://www.adafruit.com/product/4535) | 2 Stemma QT | Temperature & Humidity Sensor Breakout Board |
 | [HTU31](https://www.adafruit.com/product/4832) | 2 Stemma QT | Temperature & Humidity Sensor Breakout Board |
-| [INA219](https://www.adafruit.com/product/904) | 2 Stemma QT | High Side DC Current Sensor Breakout - 26V ±3.2A Max |
-| [INA228](https://www.adafruit.com/product/5832) | 2 Stemma QT | 20-bit High or Low Side Power Monitor |
 | [ICM-20649](https://www.adafruit.com/product/4464) | 2 Stemma QT | Wide Range ±30g ±4000dps 6-DoF IMU |
 | [ICM-20948](https://www.adafruit.com/product/4554) | 2 Stemma QT | TDK InvenSense 9-DoF IMU (MPU-9250 Upgrade) |
+| [INA219](https://www.adafruit.com/product/904) | 2 Stemma QT | High Side DC Current Sensor Breakout - 26V ±3.2A Max |
+| [INA228](https://www.adafruit.com/product/5832) | 2 Stemma QT | 20-bit High or Low Side Power Monitor |
+| [INA237](https://www.adafruit.com/product/6340) | 2 Stemma QT | 85V 10A 16-bit DC Current Voltage Power Monitor |
 | [ISM330DHCX](https://www.adafruit.com/product/4502) | 2 Stemma QT | 6 DoF IMU - Accelerometer and Gyroscope |
 | [ISM330DHCX + LIS3MDL](https://www.adafruit.com/product/4569) | 1 Stemma QT | High Precision 9-DoF IMU FeatherWing |
 | [LIS3DH](https://www.adafruit.com/product/2809) | 2 Stemma QT | Triple-Axis Accelerometer (+-2g/4g/8g/16g) |
