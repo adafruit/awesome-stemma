@@ -64,10 +64,11 @@ You can find the up to date list of Adafruit Stemma QT hardware [on Adafruit](ht
 | [ESP32 Feather V2 - 8MB Flash + 2 MB PSRAM](https://www.adafruit.com/product/5400) | 1 Stemma QT | ESP32, 8MB Flash, 2MB PSRAM, WiFi PCB Antenna |
 | [ESP32 Feather V2 - 8MB Flash + 2 MB PSRAM w.FL](https://www.adafruit.com/product/5438) | 1 Stemma QT | ESP32, 8MB Flash, 2MB PSRAM, WiFi w.FL Antenna connector |
 | [ESP32 Feather V2 with Headers - 8MB Flash + 2 MB PSRAM](https://www.adafruit.com/product/5900) | 1 Stemma QT | ESP32, 8MB Flash, 2MB PSRAM, WiFi |
+| [ESP32-C6 Feather](https://www.adafruit.com/product/5933) | 1 Stemma QT | ESP32-C6, 2.4 GHz Wi-Fi 6, Bluetooth 5 (LE) and 802.15.4 protocol |
 | [ESP32-S2 Feather 4MB Flash / 2MB PSRAM](https://www.adafruit.com/product/5000) | 1 Stemma QT | ESP32-S2, 4MB Flash, 2MB PSRAM, WiFi |
-| [Adafruit ESP32-S2 TFT Feather - 4MB Flash, 2MB PSRAM](https://www.adafruit.com/product/5300) | 1 Stemma QT | ESP32-S2, 4MB Flash, 2MB PSRAM, 240x135 TFT, LCD display, WiFi |
-| [Adafruit ESP32-S2 TFT Reverse Feather](https://www.adafruit.com/product/5345) | 1 Stemma QT | ESP32-S2, 4MB Flash, 2MB PSRAM, 240x135 TFT LCD display, WiFi, PCB antenna |
-| [Adafruit ESP32-S2 TFT Reverse Feather](https://www.adafruit.com/product/6312) | 1 Stemma QT | ESP32-S2, 4MB Flash, 2MB PSRAM, 240x135 TFT LCD display, WiFi, w.FL antenna |
+| [ESP32-S2 TFT Feather - 4MB Flash, 2MB PSRAM](https://www.adafruit.com/product/5300) | 1 Stemma QT | ESP32-S2, 4MB Flash, 2MB PSRAM, 240x135 TFT, LCD display, WiFi |
+| [ESP32-S2 TFT Reverse Feather](https://www.adafruit.com/product/5345) | 1 Stemma QT | ESP32-S2, 4MB Flash, 2MB PSRAM, 240x135 TFT LCD display, WiFi, PCB antenna |
+| [ESP32-S2 TFT Reverse Feather](https://www.adafruit.com/product/6312) | 1 Stemma QT | ESP32-S2, 4MB Flash, 2MB PSRAM, 240x135 TFT LCD display, WiFi, w.FL antenna |
 | [ESP32-S3 Feather 4MB Flash / 2MB PSRAM](https://www.adafruit.com/product/5477) | 1 Stemma QT | ESP32-S3, 4MB Flash, 2MB PSRAM, WiFi |
 | [ESP32-S3 Feather 8MB Flash / no PSRAM](https://www.adafruit.com/product/5323) | 1 Stemma QT | ESP32-S3, 8MB Flash, no PSRAM, WiFi |
 | [ESP32-S3 Feather 8MB Flash w.FL Antenna](https://www.adafruit.com/product/5885) | 1 Stemma QT | ESP32-S3, 8MB Flash, no PSRAM, WiFi |
