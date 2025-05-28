@@ -86,6 +86,7 @@ You can find the up to date list of Adafruit Stemma QT hardware [on Adafruit](ht
 | [Feather RP2040 with DVI Output Port](https://www.adafruit.com/product/5710) | 1 Stemma QT | RP2040, SPI Flash, 264KB RAM, DVI Output Port, USB-C |
 | [Feather RP2040 SCORPIO](https://www.adafruit.com/product/5650) | 1 Stemma QT | RP2040, 8MB SPI Flash, 264KB RAM, 8 Channel NeoPixel Driver, USB-C |
 | [Feather RP2040 Adalogger](https://www.adafruit.com/product/5980) | 1 Stemma QT | RP2040, 8MB SPI Flash, 264KB RAM, microSD reader, USB-C |
+| [Feather RP2350 with HSTX Port](https://www.adafruit.com/product/6000) | 1 Stemma QT | RP2350, 8MB SPI Flash, 520KB RAM, HSTX port, USB-C |
 | [Fruit Jam](https://www.adafruit.com/product/6200) | 1 Stemma QT | RP2350, 8MB SPI Flash, 8MB PSRAM, microSD reader, USB-C, More |
 | [ItsyBitsy ESP32 w.FL Antenna](https://www.adafruit.com/product/5890) | 1 Stemma QT | ESP32, 8 MB Flash, 2 MB PSRAM, WiFi with w.FL antenna connector |
 | [ItsyBitsy ESP32 PCB Antenna](https://www.adafruit.com/product/5889) | 1 Stemma QT | ESP32, 8 MB Flash, 2 MB PSRAM, WiFi with PCB antenna |
