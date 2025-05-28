@@ -250,6 +250,7 @@ You can find the up to date list of Adafruit Stemma QT hardware [on Adafruit](ht
 | [Proto Tripler PiCowbell for Pico and PicoW](https://www.adafruit.com/product/5967) | 1 Stemma QT | LiPo Battery Charger, On/Off & Reset Switches, EYESPI connector |
 | [PC Joystick to seesaw I2C Adapter](https://www.adafruit.com/product/5753) | 2 Stemma QT | Read 15 pin D-Sub PC joystick to I2C |
 | [S-35710 Low-Power Wake Up Timer Breakout](https://www.adafruit.com/product/5959) | 2 Stemma QT | Low-Power Wake Up Timer Breakout |
+| [I2C to 8 Channel Solenoid Driver](https://www.adafruit.com/product/6318) |  2 Stemma QT | I2C to MOSFET solenoid driver, 8 channel |
 
 ### Adafruit Displays, Display Connectivity and Touch Controllers
 
