@@ -87,6 +87,7 @@ You can find the up to date list of Adafruit Stemma QT hardware [on Adafruit](ht
 | [Feather RP2040 SCORPIO](https://www.adafruit.com/product/5650) | 1 Stemma QT | RP2040, 8MB SPI Flash, 264KB RAM, 8 Channel NeoPixel Driver, USB-C |
 | [Feather RP2040 Adalogger](https://www.adafruit.com/product/5980) | 1 Stemma QT | RP2040, 8MB SPI Flash, 264KB RAM, microSD reader, USB-C |
 | [Fruit Jam](https://www.adafruit.com/product/6200) | 1 Stemma QT | RP2350, 8MB SPI Flash, 8MB PSRAM, microSD reader, USB-C, More |
+| [ItsyBitsy ESP32 w.FL Antenna](https://www.adafruit.com/product/5890) | 1 Stemma QT | ESP32, 8 MB Flash, 2 MB PSRAM, WiFi with w.FL antenna connector |
 | [Feather STM32F405 Express](https://www.adafruit.com/product/4382) | 1 Stemma QT | STM32F405 Cortex M4, 192KB RAM, 1MB Ext. Flash |
 | [Trinkey QT2040](https://www.adafruit.com/product/5056) | 1 Stemma QT | RP2040, 8MB SPI Flash, 264KB RAM, USB A male |
 | [TRRS Trinkey](https://www.adafruit.com/product/5954) | 1 Stemma QT | SAMD21 / Cortex M0, TRRS jack for connections, NeoPixel LED |
